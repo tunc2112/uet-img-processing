@@ -1,0 +1,18 @@
+  
+  
+ 
+   
+
+Sl es i
+co
+input_file1 = open(os.getcwd()+'ten gmail.txt', ‘nr’ ,encoding="utf-8")
+
+ten gmail = input_file1.read()
+eta Ue eee
+
+roe
+
+een
+
+  
+

@@ -1,0 +1,110 @@
+ 
+
+(© Test2 - [C:\Users\kavec\AndroidStudioProjects\ Test2] - [app] - ...\app\src\main\java\com\example\kavec\test2\Main2Activity.java - Android Studio 2.2.1 - O xX
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+OAS|¢ > |XHM/AAle |S Pei RG MIR |S [lh /? Q
+CaTest2 ) Ca app ) Sisre) Cimain ) [java ) Ei com ) Ejexample ) Ejkavec ) [5] test2 ) (©) Main2activity
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+‘ie andro . a I+ [ © Mand.java x | (©) ManiO.java x | ©)Maniijava x | ©)Mani2java x | © Manactwty java x | E]ubt x | Eliot x | ©Manejava x iS
+i Onmmn ‘HAC SeERAapTSE QURDESEYT ae
+gree epeeee remy i
+a Ei comexanple kavectest2 (test) Iwi. setonttenClickListener ((parent, view, position, id) + ( 4
+
+©: Dares String Slectediten = nane[+position]:
+EE dranable Toast makeText (getApplicationContext() ,Slectediten, Toast-LENGTH_SHORT) .show ():
+
+. a] beck. png ~
+a a] img. og Invent i = new Intent (getApplicationContext(), Man3.class)
+a a] next-ong i.putExtra ("2" name [+position]}? a
+3) GE ateyout stareaceiviey (4) |
+
+[B actvity_main.xm
+|B actvity_main2.xml
+
+     
+
+ 
+
+ 
+
+ 
+
+Intent © = new Intent (getApplicationContext(), Man4.class);
+fe mand o.-putExtra("2",name[4position]) :
+
+Bamantim startActivity (0) :
+
+[Bt manta
+
+{St man3.xmi Intent q = new Intent (getApplicationContext(), ManS.class) ; 4
+[pt man4xmi q-putExtra("2",name[4position]) :
+
+[St manS.xmi startActivity (a);
+
+|S mané.xmi
+
+[St mann Intent w = new Intent (getApplicationContext(), Man6.class) ;
+
+[Si mang.xml w.putExtra ("2",name[4position]) :
+
+mandi startActivity (w) :
+
+ 
+
+& Brew Intent
+
+ 
+
+ew Invent (getApplicationContext (), Man7.class) ;
+
+ 
+
+ 
+
+   
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+8 s-putExtra ("2",name[+position])
+‘ startActivity(s)?
+a Intent d = new Intent (getApplicationContext(), Man8.class);
+
+4.putExtra("2" name [+position] ):
+
+startActivity (4)? *
+i cnn b = ne fetes (ehesicat nnn), tac it
+3 r b.putExtra ("2",name[+position]} =
+ia Envaies startActivity(b)? zg
+
+© Grade scripts -
+Terminal oj §:Ancoid Monitor lO: Messages Q.3:Find > 4:Run TODO By EventLog El Grade Console
+
+i cradle bul fished in im 17s 476ms (3 minutes ago) 99:34 CRLF UIFS? Context: <nocontat> eB
+
+ 
+
+ 
+
+ree

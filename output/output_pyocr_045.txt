@@ -1,0 +1,132 @@
+eee
+CBSE) Yo dhe | maroc sz meee ¥)
+y|
+
+ 
+
+|D@eeee|4\\~-|\| BRE 8| eas)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+(DD | tcrcere) vf
+Project Classes | Debug) | [*] Untitled?  [*] nhap man shh.cpp
+void nhap(float a[], int n){ a
+for(int i
+5 print? ("A[xd]
+6 seanf("M#",Ba[i
+75}
+al}
+9G] void xuat (Float a[], int n){
+10 for (int i-03icnsi++) printf ("x6.AF",a[i])5
+a printf( penser Ne re (rome ef oer oe
+aly
+2 Int kt(Float_n){
+4 int i; float s=05
+15E]— if((int)n==n) {
+16 for (int i-0sicnsit+) if((int)nXi==0) sei; return (=n);
+v7 jelse return
+18
+
+ 
+
+void shh(float a[],int n)f
+
+Be
+{O00
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+for (int ie)
+a iF (ke(a[i])) printf (RF ,a[4])5
+zt}
+
+Bly
+
+ar main(){
+
+25 int ns
+
+26E] — dof print#(* nhap n :
+
+27 scant ("%d" 8) 5
+
+28 Gf (nei) printf (* nhap lai n:")s
+at 3
+
+30 while (n<i0)3
+
+31 float a[n
+
+32 printf(° nhap mang :\n")s
+
+33 hap (asn
+
+34 printf(" cac phan tu cua mang :\n")3
+35 xuat (ayn
+
+36 printf("cac so hoan hao trong man la
+37
+
+38
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compiler | MG Resources | if Compile Log | ~ Debug | [Eh Find Results
+
+Line: 10 Cok 40 Set 0 Lines: 40 Insert Done parsing in 0,015 seconds

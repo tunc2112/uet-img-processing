@@ -1,0 +1,75 @@
+     
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1B *main.cpp [CodeBlock] - CodeBlocks 16.01 - x
+File Edit View Search Project Build Debug Fortran waSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+(PBEM e %|XMB\QA/ Sr 4 @ Brae TIE SE GENE 65 G
+£| <olobal> vie o|P BBR
+Stlr<( AAS Vile o ba = vy] A
+Management X | smaincpp x
+4 Projects | Symbols Files > or ~
+(© Workspace 175
+lj CodeBlock 176
+(5-B Sources 177 #include<iostream>
+178 #include<math.n>
+179
+180 using namespace std;
+81 int n,m, sum=0;
+182 int main()
+ass
+asa einen;
+iss while (n--)
+186
+187 cinsom;
+ase coutccm/10<<" " <cm¥l0<<endl;
+1s9 sum+=pow (m/10,m%10);
+130 cout:
+191 cout:
+ase | i
+193 return 0;
+asa Ly
+« >
+Logs & others x
+
+ 
+
+4 | Aicodenlods | ySearchresuts J) Cece | Build log x | $ Bud messages | | CopCheck
+
+ 
+
+ 
+
+ 
+
+ 
+
+FACodeBlock\main.cpp
+
+Windows (CR+LF) _unknown--1
+
+Line 192, Column 6 Insert
+
+Dicppcheckmessages | J Cscope | GpDebvager x) J) Doxye >
+
+Modified Read/Write default =
+
+ 

@@ -1,0 +1,94 @@
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] -..\app\src\main\java\com\example\kavechua\doctruyen\Man3.java - Android Studio 2.2.1
+
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+OH O|¢ + |S M|/QAl¢ > |\\ Garr FRG MIL |S [lL |?
+Doctruyen) Pg app) Else) E]main) Sljava) Ejcom) jexample) [Ej kavechua ) [i doctruyen ) © Man3
+
+19 Android . © & | # be | ©) Main2activityjava x | © Man3java x | ©) temjava x | [Si man3xml x Platform and Plugin Updates
+Androd Studio is ready to update
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bo Cie TextView tv, v2; %
+€)  & Cimanfests Button bt_backkk; si
+a 1g AndroidMenifest.xml eoverride
+
+o Dies
+oi protected void onCreate (Sundle savedinstanceSvate) {
+F com.example kavechue.doctruyen
+a ei ve super. onCreate (savedInstanceState) >
+
+ 
+
+    
+
+ 
+
+2 © b CustomistAdanter
+q @iuien secContentView (R-layout.man3) +
+& © u Manacivty tv = (TextView) findViewSyld R.id. textView) +
+fs © Mainactvity tv2 = (TextView) findViewByld(R.id. textView2)
+©@ Mans bt backkk = (Button) findViewSyld R.id.bt backkk) ;
+E51 com.example kavechua.doctruyen (androidTest) bt _backkk. sevOnClickLisvener ((
+6 [=] com.example.kavechua.doctruyen (test) Intent a = getIntent();
+3 es String nt = a.getStringExtra ("2");
+sy F7 drawable tv.setText (nt) :
+layout if (nt == "truyena") {
+[S actvity_mainxml errr
+|S activity_main2.xml eet tree trac ae cere erect ey
+Bitoni eee: tees ere eee cee ec
+Berenson Ege ee ee ae ee sec eed ec eee
+<1 mipmap crane prea aag
+F values pa
+> while ((d See eT
+© Grade Scripts Birr sse tte wena
+
+PC eeocreae testo ey
+FeRotrats
+east
+Secteatey
+
+BuidVaients
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*
+4 z
+eB if (nt == “truyenb") { 2
+eo String dataA ="; 2
+StringBuffer sbuffer = new StringBuffer (); es
+TnnutSt = th: Rs u Rams AR. bi -
+
+EventLog [Ej Gradle Console
+
+ovo
+i cradle build frishedin 185 967ms (17 minutes ago)
+
+Android Monitor [| Terminal [lO Messages:
+
+ 
+
+ 
+
+682 chars, 15lines 31:2 CRLF? UTF-8¢ Context: <nocontext> = @&
+nD
+
+ 
+
+Peon

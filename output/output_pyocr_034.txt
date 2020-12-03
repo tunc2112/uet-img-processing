@@ -1,0 +1,95 @@
+4% >$oa > SEG: YI gf G: =
+y | sapxepArray(int Al], int kichThuoc) : void vie o| Rh BB RES Br <| ol BIS
+
+vie o Lb fe
+
+W "FAworkspace\practise C\sapXepArray\bin\Debug\sapXepArray.cxe" - a x
+Menegement _% | | *sapxepArray_error.c X pace\p pXep ig\sapXep:
+
+4 Projects | > 32
+
+Sr] ow |) cate
+35
+
+36 }
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All, kichThuoc)
+
+ 
+
+(i=0; iskichThuoc-1; i++)
+
++1; j<kichThuoc; j++)
+
+ 
+
+(A[j] < A[il)
+
+hoanDoi( *(A+j), *(Ati) );
+
+      
+
+ 
+
+     
+
+4 JicoderiBlods x ySearchresuts x J) Cac X Bulldog x) $ Buldmessages x | CopCheck/Vera++ J ConCheck// too ecE ee meee Co:
+
+Build: Debug in sapXepArray (compiler: GNU GCC Compiler) ~
+
+    
+   
+ 
+    
+ 
+
+in sapXepArray (compiler: GNU GCC Compiler) ~
+
+\worksp.
+
+ 
+
+(an F:\vorkspa
+
+ 
+
+ 
+
+ 
+
+ 
+
+« >
+
+ 
+
+Modified _ Read/
+
+Peon
+
+Peearieac)

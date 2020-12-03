@@ -1,0 +1,113 @@
+BB main.cpp [gjgki] - CodeBlocks 17.12 - x
+Edit View Search Project Build Debug Fortran wxSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+
+BEA tI XMB/ AA Gr +o Blas Jar eocece s 1el/ Dm
+
+© | main) int
+
+Pk |O| hd | oo
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vie o/h BB RS BM *<| SBI Sia © b|
+
+ 
+
+ 
+
+  
+ 
+
+  
+ 
+
+ 
+
+jana|/aals ch
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+1 #include <iostream>
+
+2
+
+3 using namespace std;
+
+4
+
+ey int main()
+
+6 {|
+
+7 cout << "Hello world!" << endl;
+8 return 0;
+
+9 }
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E\Thu muc mdi (2)\gjgkj\main.cpp ieee Windows (CR+LF) WINDOWS-1252 Line 6, Col 2, Pos 60 Insert. Read/Write = default =
+

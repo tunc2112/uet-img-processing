@@ -1,0 +1,60 @@
+ 
+
+ 
+
+a2
+83
+a4
+85
+86
+87
+88
+as
+30
+s1
+
+93
+94
+95
+36
+97
+98
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+public static void main(string[] args) throws Exception {
+String PathClick = “H:\\Lab Desk \ab";
+File folder = new File(PathClick);
+
+ 
+
+if (folder.isFile()) ¢
+folder.delete();
+} else {
+
+File[] listofFiles = folder.listFiles();
+
+String fileName;
+
+for (int i = 0; i < listofFiles.length; i++) {
+
+listofFiles[i].getName();
+
+String newPath = PathClick + "/" + fileName;
+File folderl = new File (newPath);
+
+ 
+
+fileName
+
+folderl.delete();
+

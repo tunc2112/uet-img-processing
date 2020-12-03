@@ -1,0 +1,92 @@
+ 
+
+(G} code - bt (1)/src (1)/exam/SinhVienjava
+
+Edipse = =
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+  
+
+ 
+
+  
+
+ 
+
+   
+
+ 
+
+me O'Diwi- O-&- AiG eo 9-'P » ol ©
+ [B SinhVienjava £@ {3} ThiHanhjava
+8 cipartstreanneadernl=Ynew|rnpltstrenaneaden(syeten 3
+BufferedReader b snew BuffercdReader(");
+System-out println("nhap ma so sinh vien “)3
+String tam © b.readLine()s
+‘this masveInteger.parsetne( tan)
+System-out-printla(nhep ho ten’ sinh vien
+‘this -hotencbreadtine()s
+System.outpeineln('nhap gick tinh ")s
+taneb-readline()s
+this. gioi TinkeBoolean.parseBoolean( tan)
+System-out println("nhep co dien thoal sinh vien ")s
+this-sopteb.readLine()
+System-outprintln('nhep diem TK sinh vien
+tanebsreadline()s
+this. dienTkeDouble.parseDoubLe (tan);
++
+public String xepLoai()
+t
+> String ka;
+20 EF(this.dienTk<s)
+a1 kq="yeu";
+82 else iF(thisdienTk<6)
+33 kge"T8"s
+oe this. dienTk<B)
+35 "kha";
+36
+3 ngioi"s
+38 eturn kas
+80 public Boolean datveuCau()
+9: {
+22 eturn this.dienTboS;
+3}
+ca public String thongTin()
+9 t
+7 system.out.println("na sinh vien: "+this.maSv);
+: System-out println("ho ten sink vien: "this-hoTen);
+°8 Syetem.out println("giol tinh sinh vien! "#(this.gioiTinh?"nu":"nam"))3
+
+ 
+
+e (Quick Access] ‘| g9 | 9
+=e
+
+5
+
+el ie
+
+@
+
+Q
+
+Qa
+
+5
+
+ 
+
+Writable SmartInsert | 61:64
+
+ 
+

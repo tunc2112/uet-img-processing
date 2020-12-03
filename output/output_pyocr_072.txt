@@ -1,0 +1,53 @@
+@® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] - ...\app\src\main\java\com\example\kavechua\doctruyen\Main2Activity,java - Android Studio 2.2.1 - x
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+DA S|¢s|KxOaM/AAle o/4 PeRiERGHIA|S|RlL|? Q
+[EaDoctruyen) Py app > Sisrc) Ej main) Pyjava) Elcom) Ej example) Ey kavechua » [j doctruyen ) ©) Main2Activity
+1B Android : #1 | © Mainzactvity.ava x | ©) Man3iava x | (©) Itemjava x | iman3xml x Platform and Plugin Updates
+ER app. import = ‘Android Studio is ready to update,
+&|  G Cimanifests import java.util ArrayList: z
+a 1 AncroidManifest.xmi |
+- @ Dieva public class Main2Activity extends Activity
+> Ei com.example.kavechua.doctruyen implements View.OnClickListener {
+i © % CustombistAdepter CustombistAdapter adapter:
+i 8 Rem ListView viz
+4 Qt anzactvty ArrayListcItem dataz
+v| eo. ‘Man3 a Saat {
+5 com.example.kavechua.doctruyen (ar an
+8 [Ei com.exemple.kavechua.doctruyen q
+3 ©: res
+Eh drawable
+Bl layout
+B actty_main xml
+1B actty_man2.xnl
+tem xm
+{Si man3.xmi 7
+i mipmap
+Eiraw
+EE vatues he
+@ Grade saints View vz =
+Button bt back, bt_nexts
+eoverride
+oa protected void onCreate (Bundle savedInstanceState) {
+
+super. onCreate (savedInstanceState) ;
+setContentView (R. layout. activity main2);
+
+i
+3
+
+ 
+
+   
+
+bt back = (Button) SindViewByla (R.id.bt back) +
+8 bt _mext = (Button) findViewById(R.id.bt next) ; 7
+: bt back. setOnClickLiscener  ( =) this): g
+£ bt next. secOnClickListener ((’ =) this); 7
+7 CustomListAdepter adapter - new CustomListAdepter (this mane): zg
+
+Ils (ListView) findViewByld (Rid. Ivt) ;
+
+TODO iS: Android Monitor [Terminal flO: Messages: Event Log
+
+Li Grade buid fished in 18 9671s (26 minutes ago) 26:4 CRIFE UTES? Context: <nocontet> —& @
+iy

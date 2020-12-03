@@ -1,0 +1,56 @@
+$B file Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help  VietNamePost -_tablejsp - IntelliJ IDEA
+
+ 
+
+ 
+
+ 
+
+ 
+
+VietNamePost » src) main » webapp ) WEB-INF ) views ) admin ) newsGroup > jg _tablejsp A} AM Tomeat9035 ¥ Ge G& > mA
+8 Project ¥ ©2 = & — © NewsAPijava tablejsp gp head,jsp ge Menujsp agp layoutjsp m
+é ea webapp <%@ page contentType="text/html; charset=UTF-8" Language="java" isELIgnored="false" %> ag
+= Fesources <*@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> ~
+cd. <table class="table table-hover"> ee2eo0ce
+2 i@icd_catalog.xml S
+8 ess style.css <thead> 2
+I fonts <tr> 3
+: images <th>Id</th> *
+WEB-INF <th>Name</th> =
+JP <th></th>
+mmcomactisp </tr>
+footerjsp
+Biveaderisp </thead>
+hindexjsp <tbody id="tbgr"...>
+ib Introjsp </table>
+a loginjsp <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+views <script>
+sen $.ajax(
+me
+layout url: "/groups.json",
+Bead jsp success: function (res) {
+Bmenujsp var dl =;
+newsCategory $(res).each(function (index, g) {
+newsDetail dl += > <tr>
+3 newsGroup Ktd>’ + g.id + “</td>
+g ze_formjsp <td>" + g.name + °</td>
+fe am_tablejsp .
+Si </tr> 7;
+x im index,sp »
+iy layout jsp
+3 ‘Aitilesxmi $("#tbgr") .append(d1);
+©} ee webxml }
+Wtarget bp
+5 #1 pomxm| </script>
+2 ts VietNamePost.iml
+= > lll External Libraries
+FE _ scratches and Consoles script > success() > callback foreach > dl
+Qzrind 61000 Qs:services Terminal “Build = 0:Messages FE JavaEnterprise Spring Q event Log
+(Cl Build completed successfully in 5 s 166 ms (21 minutes ago) 42:54 CRLF UTF-8 4spaces a @& &
+
+          
+
+7
+
+6/24/2020

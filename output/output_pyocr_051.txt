@@ -1,0 +1,40 @@
+29] ProblemOnstack - Microsoft Visual Studio fetes ee eciee)) Ped
+
+ 
+
+ 
+
+ 
+
+ 
+
+a a a ee) CT ead
+(Rew ea0 le e Cd Sa Ro PCE aes a =
+3 eye __xutity __ ED i
+seamen ~ (Global Scope) RS SUA Coo Sal ae on
+449 } Raps)
+450 iH
+ee eco eee :
+452 ri 2
+ri) | stack <int> stTemp; 3
+ZL (HT GEST 1070) a
+ris Hees
+456 [ai | if ((stTemp.empty()==1) || (stTemp.top() < st.top()))
+457 i 4 ff
+cL ES So cian 10)
+459 12108)
+460 fh of B
+co (ey
+462 RA
+etry io int temp = st.top();
+cr ot st.pop();
+465 Joi: while (!stTemp.empty() && stTemp.top() > temp )
+ety f 8 {
+467 Rl | st.push(stTemp.top()) 5
+rr i 4 a Or) | i
+469 H f }
+470 f 4 stTemp.push(temp) ;
+vA —_ Ss
+Fn i
+
+rr aecaied

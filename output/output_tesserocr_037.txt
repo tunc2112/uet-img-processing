@@ -1,0 +1,106 @@
+J 815.1 (Debugging) - Microsoft Visual Studio YB & Quick Launch (ctri+Q) Pn. ed
+
+ 
+
+  
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+      
+
+ 
+
+ 
+
+    
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+= Sen aC en
+oe Ee ee Sere, Pee Monee a ery n :
+Sa A zis
+ee em nee Osea ear) ae
+ri Peat e re mee aN aes earn 5 ra
+: Wesco os) x 2s
+PPO See tae Leake re sangeet Oe ena cM cs g
+Acs ea st ween ste ce hee occurred in System.Drawing.dll 5
+eee ie eee eae
+ECC nae oa ena ae
+; 2 fe testes Troubleshooting tips:
+mutList = new Mutex[yMax, xMax]; m
+int h, cot;
+CCN aCe ate) 4
+Cae eo seae seer on ome eer zg
+ee ae ee aes at
+aes LECH |G oe e) Search for more Help Online.
+‘ seers tur?
+wae i] = new MyTh
+pe NSS ia ARTEL GHE oe ue) (geen ties peneien tera
+esse ees er eeepc)
+(CeCe aor eC
+eee URINE Vemiect .
+De WAeeeeeeete ean
+eres Teen te)
+Race ea ee nr
+rece lea ea Pa eee
++
+146 ClientSize = new Size(25 * 3@, 2@ * 30);
+147 Ree eee
+see) BE Ta Oot Rol LT
+ee , .
+re EOC ae gro mete mer,
+peered
+ris private void Form1_KeyDown(object sender, KeyEventArgs e)
+Ly 8
+rs} ee ee co
+i int newch = e.KeyValue;
+r CO ee er ee cesta
+156 ire ete eee i ag
+re Ceo ar reco)
+res] &
+159 sees) dir Bayar
+ot) fehreadistfnewch - 651.start = felse; v4
+nd

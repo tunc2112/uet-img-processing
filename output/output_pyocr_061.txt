@@ -1,0 +1,47 @@
+public Last<Hengios_0T0> LayDanhsacnTheolla(string mar)
+{
+ListcHangHoa_DTO> dsHH = new List<HangHoa_0T0>()5
+U1. Tao a6 tuong ket ndi
+SqlConnection conn = DataProvider.TaoketNoi();
+SqlbataReader dr = null;
+try
+{
+
+ 
+
+ 
+
+UD 2. me ket ni
+71 3. tao a6 tuong command
+SqlComnand cmd = new SqlCommand()5
+‘ond. CommandText
+
+‘end.Connection = conn
+11-4, thyc thi cmd va xi 1y ket qua
+dr = cnd.ExecuteReader();
+
+while (dr.Read())
+
+{
+
+ 
+  
+
+HangHioa_DTO hH = new HangHoa_0T0()5
+U1 doc ting dong dir 1idu
+if (1ar.1sDBNu11(@))
+bH.MaHH = (string)dr[0];
+if (Ir. 1sDBNU11(1))
+bH.TentiH = (string)dr[1];
+if (1ar.1sDBNU1L(2))
+hH.SoLuong = (int)dr[215
+if (Ir. 1sDBNu11(3))
+hH.DonGialthap = double.Parse(dr[3].Tostring())s
+if (1er.1sDBNU11(4))
+hH.DonGiaBan = double.Parse(dr[4].ToString());
+if (1er.1sDBNu11(5))
+hH.MaLoaitH = (string)dr[5];
+if (1ar.1sDBNu11(6))
+hH.MaNCC = (string)dr[6];
+if (1ar.1sDBNU1L(7))
+‘dSHH.Add (hi) ;

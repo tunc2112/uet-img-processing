@@ -1,0 +1,95 @@
+ 
+
+ere ar a
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+eee ae
+Ore Pace MeO CER
+
+af
+
+ECF
+
+Cal
+
+7 int i - 0;
+
+8  printf(“Nhap khoa k: k = “)5
+
+Cea)
+
+ct Une ea< tL)
+
+11 printf("Nhap chuoi can ma hoa:
+
+VCH
+
+13° printf("Chieu dai cua chuoi can ma hoa la: %d\n",strlen(a));
+
+14 while(a[i]!="\e")
+
+Lar?
+
+BT if(k<strlen(a))
+
+By rf
+
+Br a[i]-ali]+k;
+
+19 ints
+
+20 }
+
+Pa if(k>strlen(a))
+
+22 rf
+
+23 while (k>strlen(a)) k-k-strlen(a);
+
+py a[i]-ali]+k;
+
+25 ints
+
+p13 }
+
+an)
+
+28 — printf("Chuoi sau khi duoc ma hoa la: %s",a);
+
+Ps
+
+Ey
+
+31
+
+Bitoni as MSA) OGittu oto v
+
+ 
+
+ 
+
+ 
+
+ry)
+Peers
+
+iat
+
+   
+
+Fo) > a
+
+ 
+
+iv = Dla
+
+ 

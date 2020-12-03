@@ -1,0 +1,96 @@
+Bild FAT\bt c.c++\thuc_tap\tuan7_9.cpp - Dev-C++ 5.6.3 -
+File Edit Search View Project Execute Tools CVS Window Help
+
+O€ 8688) *- | BBIBS Ba) | 30 Bas] Y| %| dh ab) mince coc sea
+TQM || [cas : =
+
+Project Classes Debug ‘tuan7_S.cpp
+
+1 Hinelude<stdio.h>
+2 #include<stalib.n>
+3 #include<conio.h>
+4 #includeciostream>
+5 #include<windows.h>
+6
+
+7
+
+8
+
+9
+
+ 
+
+ 
+
+it Release v
+
+include <iomanip>
+using namespace std;
+typedef struct Sinhvien
+
+ 
+
+   
+
+10 char IDclass[4@];
+
+rs char IDstudent [42];
+
+2 char Name[42];
+
+3 char Date[42];
+
+14 float Average;
+
+as L 3;
+
+16 _ typedef struct Node
+
+vet
+
+18 Sinhvien item;
+
+19 Node *next;
+
+2el 3;
+
+21E1 typedef struct List{
+
+22 Node “First;
+
+23 Node “last;
+
+zal 3;
+
+25] char* MenuMain[] = {
+
+26 (C4) them moi ho so
+
+27 (2) in dann sac
+
+28 (3) sap xep
+
+29 (4) tim kiem
+
+3e (5) thong ke
+
+a bs} (ESC) thoat
+
+32 _ const int sizetlain = sizeof(Menutlain) / sizeof(char*);
+
+33] char* menua[] = {
+‘them ho so
+sua ho so
+xoa ho so
+quay lai
+
+selection sort
+insertion sort
+
+  
+
+32 compiler My Resources fh CompileLog «/ Debug [Eh Find Resuits
+
+Line 1 Cok 1 Sel, 0. Lines: 1119 Length: 36980 Insert Parsing "F\IT\bt c.c++\thuc tap\tuan7 9.cpp"
+

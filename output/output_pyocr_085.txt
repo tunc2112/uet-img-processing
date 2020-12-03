@@ -1,0 +1,81 @@
+Deets
+
+eres
+
+eters
+
+ 
+
+ 
+
+dajs
+
+19%
+
+ 
+
+import { Card } from ‘react-native-paper ;
+
+function FirstComponent(){
+
+ 
+
+ 
+
+cond
+
+ 
+
+KH
+
+Paes Me Od ey Web | Gi
+
+DR re ns
+
+aeaaa ( Bt eed ea ae
+alias aeons ceca
+res be eee SPC St MER SAroces
+Paetey
+Ii assets )3 expected ";~ (21:9)
+Pe t PC]
+export default function App() ff aos
+b days ues > 21 | render(){
+return ( A
+Peers Reeraag Ce esaCemc ier aes cre
+by READMEmd Paap Ce sg ee ra em Seer Sarees Pome Co
+4 ca cecsc ne etc St eee es ae oe foopeee runes
+Pe sense ea ee pra) ep
+FOoptee aed
+LL Go Perron et Maya rests
+" 8 OES
+i TE a
+
+const styles = StyleSheet.create({
+rerun
+caro
+Bes tae ease
+PEL cru ac Pmecnee ne meeteeriat
+
+ 
+
+Error: /Appjs: Unexpected token,
+rec aE)
+
+ 
+
+COR BON Sed erences)
+
+ 
+
+(+1 more)
+
+CPuhereeOouepaegiir
+
+a, ar
+
+ramerr
+ee
+
+cs a =
+
+aid

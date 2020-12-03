@@ -1,0 +1,73 @@
+Hoatd6éng = Eclipse v aU RPE Tia Aa Dead
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+   
+
+     
+
+ 
+
+e eclipse-workspace - DesignUI/src/solveSodoku/huubinh49/solveSudokuUI java - Eclipse IDE ae
+CC eee
+=] ee ee a ee di Cy iB
+8 eB XR Ree tee ET) cen
+oa ooo Us Le Lae Tee) 2
+© 101 ‘ o
+1030 @Override
+104 public void mouseExited(MouseEvent argQ0) {
+x rT // TODO Auto-g method stub
+OM a
+@ @Override
+public void mouseEntered(MouseEvent arg0O) {
+re) // TODO Auto-g Serato metatl
+a
+@Override
+//Sa kién khi click chuét yao 1 6:
+public void mouseClicked(MouseEvent arg0O) {
+int row= tb.getSelectedRow();
+int col= tb.getSelectedColumn();
+String s = JOptionPane.showInputDialog("Nhap vao gia tri cho 6:");
+Sudoku [row Hi
+Rea NeNA=80N
+dm.setValueAt (Sudoku[row] [col]+"", row, col);
+a
+a 7
+
+Giai.addActionListener(new ActionListener() {
+
+O
+
+@Override
+
+public void actionPerformed(ActionEvent arg0O) {
+SolveSudoku (Sudoku, 0, 0);
+//Khi nhan giai
+
+a
+
+iam
+
+t
+public void addControls()
+
+ 
+
+Pe Sane SR EEPeEPeT 1}
+
+ 
+

@@ -1,0 +1,38 @@
+1B main.cpp [KATM] - CodeBlocks 16.01
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tools+ Plugins DoxyBlacks Settings Help
+
+ 
+
+ 
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+void Solve(long long a,long long b,long long c,long long n)
+{
+int d= 0;
+for (int z=0;0<=z && z<=min(c,n/20);z++)
+for (long long y=(n-20*z-5*a)/10;y <= min(b,n/10) ;y++)
+if (y>=0)
+{
+ant x=(n-20*z-10*y) /5;
+4£ (x%5==0 && O<=x && x<=min(c,n/5)) dit;
+else continue;
+}
+cout <<d;
+
+int main()
+
+  
+
+ 
+
+freopen ("ATM. INP stdin);
+freopen ("ATM.OUT", "w", stdout) ¢
+long long a,b,c,n;
+
+cin >>a>>b>>c>>n;
+Solve(a,b,c,n);
+
+return 0;

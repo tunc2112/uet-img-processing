@@ -1,0 +1,29 @@
+Sanciugesouesy/ Seaces <0
+using namespace std;
+ong long F[120];
+char Fibo(int n,long long k){
+if(ne=t) return ‘A's
+if(n=2) return '3"5
+if (keaF[n-2]) return Fibo(n-2,k);
+return Fibo(n-1,k-F{n-2])3
+
+ 
+
+ 
+
+int
+
+ 
+
+1 1<93;it+)
+A-a]eF(i-215
+
+ 
+
+cist;
+
+while(t--){
+int m3
+ong long k;
+cinsomoks
+cout<<Fibo(n,k)<cendl;

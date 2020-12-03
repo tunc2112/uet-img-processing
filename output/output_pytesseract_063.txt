@@ -1,0 +1,39 @@
+ree nS ECE aD aed
+
+Te eee ete eo a eel
+import android. view.LayoutInflater;
+Tee CC
+
+import android. view.ViewGroup;
+import android.widget .BaseAdapter;
+
+import android.widget . ImageView;
+
+Tae SE see e a
+
+Tea eee eat
+
+RRS EE el see ecu eC CCT eee
+PSR eGo tacts ad
+Prt esa
+
+PEtret st Crue rare
+
+public Hinhanhadapter(Context context, int layout,
+
+eee eas raced
+pee EN
+this.hinhanhList = hinhanhList;
+
+@0verride
+EPTECaru arcsec LOM
+
+eran ere ON
+
+@0verride
+PUTER staan eu eS
+
+et maT n ay
+
+esac Chua Faure eso ee
+

@@ -1,0 +1,46 @@
+CY Input @ ro, 0 1G
+
+#include <stdio.h>
+void number();
+
+int main() {
+
+sao oe
+for (i = 12; i> {
+number ();
+
+i
+10 printfC"Your number %d \n", 1);
+
+a
+
+12 return 0;
+
+scan
+
+14
+
+15 void number() {
+
+16 static int num = 10;
+
+/ printf¢("Hello number %d \n", num);
+18 num--;
+
+inca
+
+Or Netirat a
+
+WOANAUBRWN =
+
+ 
+
+Hello number
+Hello number
+Hello number
+Hello number
+Hello number
+Hello number
+Your number 6 Wi
+
+Ul OY“ COO —

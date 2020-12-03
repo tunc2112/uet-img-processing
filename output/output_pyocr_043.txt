@@ -1,0 +1,82 @@
+[Ei C:\campp\htdocs\test2\index.php - Notepad++
+
+Tep Chinh sia Tim Xem MShéa Ngénngit hiétlgp Tools Macro Chay Plugit
+
+sSH8R8R8\ 4h Hl| acl me|2S/(BRla1
+
+ 
+
+XSignir
+EXSignu
+tang
+Bixee!
+sua
+
+xo
+
+EiNhap
+conn
+SPHPE
+newt
+
+Blindex
+ok
+
+<>
+
+90
+
+91
+
+92 <!-- ‘start thuc hién kiém tra d& liéu nguéi ding nhap 6 form dang nhap' —->
+
+93 r <?php
+
+94 F if (isset ($_POST["dangnhap"])) {
+
+95 $tk = $_POST["user_name_lg"];
+
+96 smk = $_POST["passlg"]
+
+97 $sqll = "select * from devpro where user_name = '$tk' and password = '$mk'";
+
+98 $rows = sqlsrv_query($conn, $sqll);
+
+99 Scount = sqlsrv_num_rows (Srows)
+
+100 & i £ (Scount==1) {
+
+101 $_SESSION["loged"] = true;
+
+102 header ("location: index.php") ;
+
+103 setcookie("success", "D&ng nhap thanh céng!", time()+1, " 0);
+
+104 }
+
+105 4 else{
+
+106 die( print_r( sqlsrv_errors(), true));
+
+107 header ("location: index.php") ;
+
+108 setcookie("error", "Ding nhap khéng thanh céng!", time()+1, " 0);
+
+109 | // die( print_r( sqlsrv_errors(), true));
+
+110 }
+
+111
+
+112 }
+
+113 2>
+
+114 <!-- ‘end thyc hién kiém tra dt liéu nguéi ding nhap 6 form d’ng nhap' —->
+
+a >
+PHP Hypertext Preprocessor file length: 4738 lines: 150 Col:46  Sel:0/0 Windows (CRLA_UTF-8 INS
+
+Ciasd 2
+SBAee|seheR
+EaSoninche | Sone sho | Tienachucho |B excelohp |B sue.che | lXoache | Nhactt che | BelConnect sh |[RIPHPExcel chp |[lnew ipho |lbody ces lindexphp |BEIDK sho |

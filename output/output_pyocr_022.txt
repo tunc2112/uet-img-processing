@@ -1,0 +1,125 @@
+(S} code - bt (1)/src (1)/exam/SinhVien,java - Eclipse
+
+   
+
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ae
+
+s
+
+&
+
+TE 22|import java.io. bufferedReaders|
+6
+
+ 
+
+@ 'Gixit-0-2@-Q-#G-ie69-:9B
+
+D SinbVienjave £2 | J) ThiHanhjava
+
+1 package exam;
+
+2
+
+ 
+
+7 public class SinhVien {
+
+8
+9
+10
+a
+2
+Be
+168
+198
+228
+258
+288
+318
+348
+378
+408
+438
+
+45
+46
+47
+43
+49
+50
+518
+52
+53
+54
+55
+56
+57
+58
+598
+ca
+61
+
+private int maSv;
+private String hoTen;
+private Boolean gioiTinhs
+private String sobt;
+private double dientks
+public int getasv() {]
+public void setMaSv(int masv) {{]
+public String getHoTen() {[]
+public void setHoTen(String hoTen) {(]
+public boolean isGioiTinh() {(]
+public void setGioiTinh(boolean gioiTinh) {[]
+public String getSoDt() {[]
+public void setSoDt (String soDt) {[]
+public double getDiemtk() {(]
+public void setDienTk(double dientk) {(]
+public Sinhvien()
+t
+‘this.maSv=0;
+‘this.hoTen="5
+this. gioiTinh-equals("nu”).
+‘this. soDt='
+this. dienTk=0;
+
+ 
+
+ 
+
+public SinhVien(Sinhvien x)
+
+t
+
+‘this.masv=x.masv5
+
+‘this. hoTen=x.hoTens
+‘this. gioiTinh=x.gioiTinhs
+‘this. soDt=x.soDts
+
+‘this. diemTk=x.diemTks
+
++
+public void nhapDL() throws IOException
+t
+
+InoutStreamReader r = new InoutStreamReader(Svstem.in):
+
+MH Mit - t-eoe-
+
+Writable
+
+‘Smart Insert
+
+ 
+
+(Quick Access)
+
+a
+
+POPs:
+
+8
+a

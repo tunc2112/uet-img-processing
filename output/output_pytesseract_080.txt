@@ -1,0 +1,114 @@
+  
+
+O
+File
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Edit Source Refactor Navigate Search Project Run Window Help
+ae $y Or G~O~i 6-186 9! Pde BH 1G wi f\- Fb Or oy auice Acces] '| m| 9
+IB Package Explorer 13 S| & ¥ =D  Bimoduleinfojava i) Mainjava 22 | [D) Studentjava = 8 itasklist 22 ac]
+J
+ve java package Jove; a ae| e|/xhe| a>
+i JRE System Library [JaveSE-12
+ah mi : 3 public class Main { Find @] > All > Activate ®
+sre 2
+a java 52 public static void main(String[] args) {
+BB) Main java 6 // TODO Auto-generated method stub 2
+{2} Studentjave 7
+[B) module-infojava 8 Student studentone = new Student();
+9 Student studentTwo = new Student()3
+20
+a studentOne.name = "jonh";
+a2 studentOne.code = "S001";
+b3 studentOne.birthday = 2000;
+na
+as student Two.name = “nghia"s
+as studentTwo.code = "S002";
+a7 studentTwo.birthday = 2000;
+be
+a system.out.println("thong tin showInfo");
+20 System.out.print1n("name"+ studentOne.name); ® Connect Mylyn 8
+2 system.out.println("code"+ studentOne code) Connect to your task and ALM tools or create a local task.
+22 System.out.println("birthday"+ studentOne.birthday)
+23 Sr Ouwine OW RW ew YOO
+2a system.out.println
+es y Printin( #8 jove
+26 system.out.printIn("thong tin shoInfo"); v ©, Main
+27 System.out.println("nane"+ student Two.name) @ § main(String): void
+ps system.out.println("code"+ student Two.code)
+2a system.out.println("birthday"+ studentTwo.birthday)
+po}
+31
+32 }
+33
+< >
+Proble’ aves Eiconsole 2 ax RHEE ~S-n--5
+‘<terminated> Main [lave Application] C:\Program Files\Java\jdk-12.0.1\bin\javavsexe (ul 1, 2019, 2:40:21 PM)
+Error occurred during initialization of boot layer a
+java.lang. LayecInstantiationException: Class loader (instance of): ‘app’ tried to define prohibited package nane: java
+< >
+Writable Overwrite 10:11
+
+ 
+
+ 
+

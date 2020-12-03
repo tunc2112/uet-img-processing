@@ -1,0 +1,38 @@
+29] ProblemOnstack - Microsoft Visual Studio fetes ee eciee)) Ped
+
+ 
+
+ 
+
+ 
+
+a a a ee) CT ead
+(Rew ea0 le e Cd Sa Ro PCE aes a =
+accr xutilty es ee aa
+seamed SCO Som 1
+VE) estes +2
+LUZ } ane
+VE) =
+476 |\Elvoid deleteMiddleStack(stack<int> st) 2
+477 rs a
+VE) Pel cote See Bi
+479 | int n = st.size();
+480 et ant
+cea | if (n % 2 == 0) newN =n / 2 - 1;
+vey ' else newN = n / 2;
+483 H
+4g4 |G! for (int i = @; i < newN; i++)
+rr) |g
+oY eat eae O
+oiyg ' | st.pop()5
+ry a’
+489 :  st.pop()5
+490 |G! while (!tempSt.empty())
+491 |g
+492 || st.push(tempSt.top()) 5 |
+493 ' | tempSt.pop(); 1
+viv oe’
+rth i 2
+FE i
+
+rr aecaied

@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main () (
+int n;
+cin >>n;
+const int digit[10] = (6, 2, 5, 5, 4, 5, 6, 3, 7, 6)
+string ansl="";
+ant m=n, l=(n+6)/7;
+fox (dnt i=l; i<=1; i++)
+for (int j=0; j<=9; j++)
+Af (itj>166 (1-i) *2<=m-digit [j] 46 (1-i) *7>=m-digit[j])(
+ansl+=chaxr (j+'0') i
+m-=digit(j];
+break;
+)
+cout << ansl << '\n';
+string ans2; _
+
+Af (n%2==0) (
+for (dnt i=l; i<=n/2; i++)
+ans2+=chax (1+'0'); (7 —e
+
+}
+else if (nt2==1) (
+ans2+=char(7+'0'); 7
+for (int i=1; i<=(n-3)/2; i++)
+ans2+achar (1+'0'); 7
+
+  
+
+)
+cout << ans2;
+return ();

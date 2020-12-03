@@ -1,0 +1,144 @@
+‘] BT 5.1 (Debugging) - Microsoft Visual Studio YB & Quick Launch (ctri+Q) Peed
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+    
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+© Edit View Project Build Debug Team Tools Test Analyze Window Help Cee
+as amd 9-C- > Continue~ a — Le) Ce ese L | =
+See Led baa
+en Sake emo SO elmore (oleistadeaa\e acne re) . ej
+
+125 Eee eee a Pee CO eee 5 mS
+
+eS F DW esc ae cur) x Els
+
+EPL) ree a eta ee eer un RCN Cures 8
+
+EP ues ost eer RN ee eee Mic MSSM ere Es
+
+eas new MyThread[ 26];
+
+er aER Pee ena km a Reece
+
+r ae ea Petar 7
+
+sae] i © ite semaphore Mutex di aid Dretee een kites
+
+130 mutList = new Mutex[yMax, xMax]; 7
+
+131 int h, cot;
+
+132 for (h = @; h < yMax; h++) A
+
+133 for (cot = 0; cot < xMax; cot++) mutList[ vi
+
+134 Ray ee eee eee Le at
+
+ied tetn aa oy BS) Search for more Help Online.
+
+136 se Tenures
+
+137 fthreadLst[i] = new MyThread(rnd, xMax, yM
+
+er are ee oon
+
+oer eerie es ea eee ec es pete bad ns
+
+139 Ser ele Fes
+
+140 ase ee ee eg cee Vee Py
+
+rt Beg ee Ciena eee
+
+AE new Bitmap(nyst eee econ een ae)
+
+143 ue ee cece Open exception settings
+
+ovr euaee eae ee
+
+cr i
+
+aT) ClientSize = new Size(25 * 30, 20 * 30);
+
+avy this.Location = new Point(®, @);
+
+148 B:Fy. ces ewe SCE HET .
+
+149 p .
+
+150 eee ae ae Et aC MeL CC ae
+
+ees
+
+cea private void Form1_KeyDown(object sender, KeyEventArgs e)
+
+152 £
+
+153 eta eC ee reg Pea
+
+ch FE ee CS
+
+hs) if (newch < @x41 || newch > @x5a) return;
+
+cE eee cane ae oe
+
+157 if (e.Control && e.Shift)
+
+cer) &
+
+159 ih eeeeee eet) rani
+
+1) Pegi es Mast em eo eed eA “
+
+ 
+
+ie:
+Ea
+4

@@ -1,0 +1,140 @@
+ile Edit Search View Project Execute Tools AStyle Window Help
+
+[D9 BS8S| S| s-| BB BG OOS) 0 Bs) | | hab) ccc aos canis neleeee Vv
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| DO ||[ rears y y
+Project | Classes | Debug a Untitled ("1 nhap man shh.epp
+void nhap(float af], int n){ a
+aE gorcine 1003 y
+5 printf ("A[Xd]=",i);
+6 seant(oxF"stat]),
+75}
+al}
+96] void xuat(Float af], int n){
+10 for (int i-03icnsi++) printf ("X6.AF",a[i])5
+BL privet public int _cdecl printf (const char * restrict Format, ...)|
+13] int ke(Float n){
+4 int i; float 5-0;
+as] if((int)n==n) {
+16 for (int i-0sicnsit+) if((int)nXi==0) sti; return (=n);
+v7 Jelse return 23
+
+18
+
+295] void shh(float a[],int n){
+
+{O00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+20 for (int i-05iensie+){
+2 EF (kt(ali])) printf (X*sa[4])5
+zt >
+aly
+aT main(){
+25 int ns
+26E] dof printf(* nhap n=
+7 seanf("Rd",8n)3
+28 Ef (ne1@) printf (* nhap Lai n:")s
+ab >
+30 white (n<i0)s
+3 Float 2[n]s
+32 printf(" nhap mang :\n")3
+3 nihap (aan)s
+3 printt(" cac phan tu cua mang :\n");
+35 saat (an)
+36 printt(“cae so hoan hao trong man 1a
+7 Shncasn)s
+38 geten(); 5
+nee wale ee Ft + |My Resources| dl Compile Log | «/ Debug | [EL Find Resuits
+Ling 10 Cok 4 Sek Lines. 40 Length: 787 Insert Done pasing in 0015 seconds
+
+mo Ga ra xa
+
+ 
+

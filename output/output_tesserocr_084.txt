@@ -1,0 +1,47 @@
+#include<iostream>
+#include<queue>
+beanies te Cr Lali
+
+Pest anes tases Fy
+
+Cy ae et eM TON ime Cran ye
+
+ 
+
+cea Creo ye
+return false;
+SIRT
+for(int i = 2;i<=sqrt(n);i++){
+if(n%i == 0){
+return false;
++
+3
+acral igtie eT 34
+3
+int main(){
+Sa
+Colao amir
+
+queue<int> q;
+for( int i = 2;1<10,i<
+if(tim_so_nguyen_to(i)){
+
+q-push(i);
+
+ 
+
+3
+
+}
+reEaC Rca ZOD ys
+Tn GUIae MesESe=rsetoy |
+int m = q.front()*10 + i;
+are mammal CTS
+q-push(q.front()*10 + i);
+
+3 oa
+
+cout << q.front()<< 8
+q-pop()
+
+aay

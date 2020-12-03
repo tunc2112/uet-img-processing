@@ -1,0 +1,37 @@
+public partial class frmPhieuMuaHang : -XtraForm
+
+{
+
+public HangHoa_DTO hangHoa;
+HangHoa_BUS hh = new HangHoa_BUS()3
+public frmPhieuMuaHang()
+
+{
+
++
+
+InitializeComponent();
+
+private void frmPhieuMuaHang_Load(object sender, EventArgs e)
+{
+cbBtMaHang.DataSource = hh.LayDanhSach();
+cbBtMaHang.Valuetlember = "MaHH";
+
+ 
+
+  
+
+ 
+
+cbBtaHang.SelectedIndex = -13
++
+private void themlH_Click(object sender, EventArgs e)
+{
++
+
+private void cbBMaHang SelectedIndexChanged(object sender, EventArgs e)
+{
+
++
+
+[inh Khong bit 1am ah no & phn nay]

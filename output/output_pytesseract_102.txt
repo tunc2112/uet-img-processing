@@ -1,0 +1,64 @@
+eo Véng |p For - Microsoft Visual Studio ooe
+File Edit View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+TS | sa) Eh [ebuo -|fwinge2 if I
+
+= 2/OHS ss Qi oa eer a
+
+    
+
+Bai l.cpp
+
+ 
+
+> Bai t.cop } C\Documents and Settings\4dminiDesttop\Project C++\All Developments\Vang lap ‘For\Bai 1168 .cpp
+(Global Scope)
+1] #include <iostream>
+using namespace std;
+=iclass VongLap{
+public:
+VongLap(int a, int b){
+for(a = 1, b = 10; a <= 10 && b >= 1; att, b--){
+cout << a <<" " <« endl;
+cout <<" " <b << endl;
+
+ 
+
+t
+3
+// Nong Lap a b c la bang cuu chuong tu 1 den 9, lololololel. Khong the tin duoc :))
+/*Vonglap(int a, int b, int c){
+for(a = 1; a <= 10; at+){
+for(b = 1; b <= 10; b++){
+cout << (b¥a) << endl;
+for(c = 10; ¢ <= 5; c--)£
+cout < " “<< b* atc « endl;
+
++
+
+vy
+public:
+void TimUoc(int a, int bienchay){
+cout << "Tim uoc nho nhat cue 1 so" << endl;
+
+cout << "Moi ban nhap yao 1 so: "5
+cin > a;
+for(bienchay = a + 1; bienchay 5 bienchay++){
+if(bienchay % a == @){
+cout << "Uoc chung nho nhat cua
+
+<a <<" la" << bienchay << endl;
+ra x Error List
+@ 1 Error | {\0 Warnings | (i) 0 Messages
+
+Description File
+1. ImteliSense: no default constructor exists for class "VongLap" bai T.cpp
+
+Eee) Col 34
+
+@ @BEE ”* Scyerstatiom VTi RI G Tai sao tao ra th. 009 Tue 04:00PM Q
+
+ 
+
+ 
+

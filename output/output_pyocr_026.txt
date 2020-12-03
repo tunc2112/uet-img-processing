@@ -1,0 +1,119 @@
+File Edit View VM Tabs Help fj ~
+
+ 
+
+ag\0Deawn
+
+ 
+
+ 
+
+Library x
+QL Type here to sea.. ¥
+
+ 
+
+ 
+
+an Mca)
+
+ 
+
+& © My Computer
+(Dh Ubuntu 64-bit
+© Shared VMs cauhoi.txt x
+vous Caunoty)
+
+int Ns
+
+i—| fstream hoi("cauhoi.txt");
+
+Ee hot >> Ns
+
+— string cauhoi;
+
+string dapani, dapan2, dapan3, dapan4;
+@ string ketqua;
+
+string traloi;
+
+bool datraloi = true;
+
+B for (int j = 0; j < N; j++)
+
+ey
+
+for( int i = 0; ! hoi.eof() ; i++ )
+{
+ca hoi.ignore();
+
+getline(hoi,cauhoi);
+getline(hoi,dapani);
+getline(hoi,dapan2);
+getline(hoi,dapan3);
+getline(hoi,dapan4);
+
+”
+a getline(hoi,ketqua);
+= hoi.close();
+
+zg while (datraloi == true)
+ds {
+
+cout << cauhoi << endl;
+cout << setw(5) << dapani << setw(30) << right << dapan2 << endl;
+cout << setw(5) << dapan3 << setw(30) << right << dapan4 << endl;
+
+ 
+
+cin >> traloi;
+if (tralot
+{
+
+ 
+
+ketqua)
+
+datraloi = true;
+
+cout << "Chuc mung ban da tra loi dung cau hoi" << endl;
+sleep(5);
+
+system("clear");
+
+else
+
+datralni - falca:
+
+ 
+
+ 
+
+To direct input to this VM, move the mouse pointer inside or press Ctrl+G.
+
+P Type here to search
+
+ 
+
+Qenea oe
+
+ 
+
+Felice!
+
+cere)
+
+demo.cpp
+
+cH
+
+ 
+
+ailatrieuphu.cpp x
+
+Tab Width: 4 ¥ Ln10,col5 =~ INS
+
+A Bok ©|D
+ee 9:11 PM
+GV)
+A © @) ENG a BB)

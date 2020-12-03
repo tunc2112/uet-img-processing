@@ -1,0 +1,60 @@
+on00<PP
+
+ 
+
+ 
+
+Finclude<bits/stde++.n>
+using namespace std;
+long long a[19000] ;
+int n,4;
+
+long long M;
+
+bool KTNT(1ong long n)
+
+4
+
+if (n<2) return false;
+for(int i=2; icssqrt(n); i++)
+if(ni==0) return false;
+return true;
+
+?
+
+int main()
+
+4
+
+cindoM
+
+ati)
+
+ 
+
+ 
+
+ 
+
+pal)
+
+ 
+
+while (a[i]<=M)
+4
+
+att:
+
+ali
+
+  
+
+(a[i-2])+(ald-2)7
+
+1:
+while (KINI (a[n]) == false)
+cout<<atn]<c"
+
+return 0;
+
+?

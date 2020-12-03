@@ -1,0 +1,28 @@
+void *produce(void *arg)
+
+{
+
+Ce
+
+pak ee eee oC
+For(i=0; ics; i++)
+
+/* Entry Section */
+
+choosing[pi] = 1; // choosing[i] = true
+num[pi] = max(num,5) + 13
+choosing[pi] = 0; // choosing[i] = false
+
+for(int pj = 0; pj<5; pj++)
+t
+Paarl SD
+while(num[pj]!=0 && ((num[pj],pj) < (num[pi],pt)));
+J
+Vegas eased]
+Ste Yael eee OL 1s
+Err eso
+printf("Consummer thu %d cong them %d. Tong la: %d\n",pi,produc
+
+Tan ate aad]
+num[pi] = 0;
+

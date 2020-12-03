@@ -1,0 +1,83 @@
+DQ] <- Microsoft Visual Studio Quick Launch (Ctr!+Q) p- # x
+
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+       
+
+       
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e-o|f#-agaw > Local Windows Debugger - Auto + Debug > Win32 | silo oo co : , :
+eerie ST earemoaesent Sourcecpp # X ~%
+@ e-ed@ o sip (Global Scope) + ® main(int argc, char* agrv{]) - el
+; Bi#include<iostream> +3
+Search Solution Explorer (Ctsl;) 6 Hncludecasth ho a:
+FH Solution 'e' (1 project) #include<stdio.h> ‘
+ace using namespace stds z
+> EB xtemal Dependencies int main(int argc, char * agrv{]) e
+4° Gil Resource Files t .
+4 Resource Fi unsigned double a,b,c3 >
+Canis cout<<"tim tam giac\n"; 3
+4 i] Source Files cout< 3 cima; 2
+D4 Sourcecpp cout: cim>b; g
+cout<<"\nnhap c"; cin>>c3
+cout<<"tim loai tam giac"s
+if (a!=0 && b!=0 && c!=0 && (atb>c) && (atcrb) && (b+c>a))
+t
+b) coutc<"tam giac can";
+¢ &8 cana) coutc<"tam giac deu"s
+else if ((ata + bYb =c*c) || (ata + ce = b*b) || (b*b + cc = ata)) coutc<"tam giac vuong”
+else if ((ata + bYb = cc) && (a==b) || (ata + cc = bb) 8B (a==c) || (b*b + cc == a%a) BR (b==c)) coutc<"tam
+else cout<<"tam giac thuong";
++
+else {coutc<"khong hop le"s}
+system("pause")5
++
+100% ~|4 »
+Y ~ [€ 3Erors | [A 1 Waring Search Error List a
+Description File = Line Project Column
+© 2 error C2106: =": eft operand must be value source.cpp 7 « 1
+3. error C2106: '=": left operand must be I-value source.cpp 18 « 1
+4.1. warning C407: ‘unsigned’: can not be used with type ‘double’ source.cpp 7 < 1
+nee So u A
+
+ 
+
+Solution Explo... | Class View| Property Man... | Team Explorer Breakpoints| Error List
+
+Output
+
+ 

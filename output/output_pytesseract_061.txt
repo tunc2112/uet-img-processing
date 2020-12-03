@@ -1,0 +1,41 @@
+——EE———— a ne
+‘
+ListeHangHoa_OTO> dsHH = new List<HangHoa_0T0>()3
+11 1. Tao 464 tung ket di
+SalConnection conn = DataProvider. TaoketNoi ()
+SqlDataReader dr = null;
+try
+t ,
+IL 2. m6 kt 165
+7/3. *@0 464 tugng command
+SqlCommand cmd = new SqlConmand();
+cnd.CommandText = “SELECT * FROM [dbo]. [HANGHOA] WHERE TRANGTHAT
+end.Connection = conn;
+11 4, thse thi cmd va wit Y kEt qua
+ar = cnd.ExecuteReader();
+while (dr-Read())
+{
+
+    
+
+AND Nat
+
+HangHoa_DTO hH = new HangHoa_0T0()5
+11 doc time dong di 1iéu
+if (Ian. IsDBNU11(@))
+HH.MaHH = (string)dr[0];
+if (Ir. 1sDBNU1L(1))
+hH.Tenlt = (string)dr[1];
+if (Ir. 1sDBNu1L(2))
+hH.SoLuong = (int)dr[215
+if (1er.1sDBNU1L(3))
+hH.DonGialthap = double.Parse(dr[3].ToString());
+if (1er.1sDBNu11(4))
+hH.DonGiaBan = double.Parse(dr[4].ToString());
+if (Ian. 1sDBNU1L(5))
+hH.MaLoaitH = (string)dr[5];
+if (Ion. 1sDBNU11(6))
+hH.MaNCC = (string)dr[6];
+if (Jor. 1sDBNU1L(7))
+dsHH.Add(nH) 5
+

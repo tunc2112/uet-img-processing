@@ -1,0 +1,40 @@
+ 
+
+ 
+
+ 
+
+ 
+
+29] ProblemOnstack - Microsoft Visual Studio ‘Quick Launch (Ctrl+Q) Ce
+ee ee ny Pre)
+(ee een eet Se ee ee at ee Pr ee a
+ee ee od -8
+ies eaensccd CRO Sone ecu ien cree =i
+449 } Bary
+450 =:
+EMSS eater acylase ce Ciel aeons eea®)| 9
+452 { 3
+is) | stack <int> stTemp; a
+454 |e! while (!st.empty()) ES
+ris Hes
+456 [a | if ((stTemp.empty()==1) || (stTemp.top() < st.top()))
+457 1 4
+cL H stTemp.push(st.top());
+459 i 4 Baron
+460 5G
+41 fai |
+oy) R 4
+etry a int temp = st.top();
+ry H " st.pop();
+465 foi: while (!stTemp.empty() && stTemp.top() > temp )
+IY) 5G R
+cy f rare ODF
+Pt Rt | stTemp.pop(); | i
+469 H i }}
+470 4 | stTemp.push(temp);
+ryan nH .
+Fe i
+
+eects
+

@@ -1,0 +1,84 @@
+(S} code - bt (1)/src (1)/exam/SinhVien java - Eclipse we MS Gad
+
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+mf @ Birxit-O-Q2-Qiv Gi SOV -'P # Mi fi - Fl-tG-o-~ (Quick Access| ‘) gy | o® @B
+[BD Sinhvienjava 92 3) ThiHenhjava SE).
+i 1 package exams el |g
+30 import java.io.bufferedReader;[] @
+
+wiblic class SinhVien {
+3 PY private int mvs 8
+9 vate String hoTens :
+10 vate Boolean giciTinh; =
+
+L vate String soDts
+12 ivate double diemTk; e
+13 public int getMasv() {1] a
+
+public void setMaSv(int masv) {{]
+public String getHoTen() {[]
+
+public void setHoTen(String hoTen) {(]
+public boolean isGioiTinh() {(]
+
+public void setGioiTinh(boolean gioiTinh) {[]
+public String getSoDt() {[]
+
+public void setSoDt (String soDt) {[]
+
+public double getDiemtk() {(]
+
+public void setDienTk(double dientk) {(]
+public Sinhvien()
+
+t
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘this
+this
+this
+this
+this
+
+ 
+
+ 
+
+public Sinhvien(Sinhvien x)
+
+t
+
+‘this masv=x.maSv5
+‘this.hoTen=x.hoTens
+
+‘this. gioiTinh=x.gioiTinhs
+‘this. soDt=x.soDt3
+
+‘this. diemTk=x.diemTks
+
+   
+
+   
+
+public void nhapDL() throws IOException
+
+t
+
+InoutStreamReader r = new InoutStreamReader(Svstem.in): iz
+
+ 
+
+Writable SmartInsert | 3:1
+
+ 
+

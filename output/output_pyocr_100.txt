@@ -1,0 +1,77 @@
+Vong Ip For - Microsoft Visual Studio eee
+View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+Feat Leper x | c
+[2 main BienGot E60}
+‘Global Scope)
+
+4 [35
+
+65) Flint main(){
+
+66 int a, b, x, bien, z, c, scl, bien1;
+
+67 a = b =x = bien = z = c = scl = bien1 = 9;
+
+68 string luachon;
+
+69 VongLap BienGoi;
+
+78 VongLap BienGoi2;
+
+71 VongLap BienGoi3;
+
+72 cout << "Ban muon 'Tim Boi’ hay 'Tim So Le’ hay ‘Tim So Chan’ ?\nMoi ban lua chon(Nhap dung tu ngu)
+
+73 cin >> luachon;
+
+74 if (stricmp((char *)luachon.c_str(), "Tim Boi") == 0){
+
+75, BienGoi.TimBoi(x, bien);
+
+76 }
+
+7 else if(stricmp((char *)luachon.c_str(), "Tim So Le")
+
+78 BienGoi2.TimSoLe(z, c);
+
+79 +
+
+80 else if(stricmp((char *)luachon.c_str(), "Tim So Chan")
+
+81 BienGoi3.TimSoChan(sc1, bien1);
+
+82 +
+
+33h //NongLap BienGoi(a, b);
+
+84) //NongLap BaiToanTimUoc;
+
+85, //NongLap BienGoi2(a, b, c);
+
+86 system(“paus.
+
+87 return @;
+
+838
+
+ 
+
+2/22) [0 0 err [Ah 3 Warns [CO MEIE
+
+Loaded *C:\WINDOWS\system32\ntdil.dil", Cannot find or open the POB file «|
+Loaded *C:\WINDOWS\system32\kerne132.di1", Cannot find or open the POB #4:
+Loaded *C:\WINDOWS\system32\msvcp100d.d11", Symbols loaded. warning C4996: ‘stricmp': The POSIX name for this item is bai 1.cpp.
+Loaded *C:\WINDOWS\system32\msvcr1@0d.d11", Symbols loaded. deprecated. Instead, use the ISO C+~ conformant name
+
+Win32 Thread’ (@x62c) has exited with code -107374151@ (@xc@00013a). _striemp. See online help for details
+*[3780] Bai 1.exe: Native’ has exited with code -1673741510 (@xc000013a). warning C4996: ‘striemp': The POSIX name for this item is bai 1.cpp
+
+Description File
+
+deprecated. Instead, use the ISO C== conformant name:
+_stricmp. See online help for details.
+
+ 
+
+WLR Mia G Tai sao tao ra th. jp testproject.cpp Tue 04:33PM Q.

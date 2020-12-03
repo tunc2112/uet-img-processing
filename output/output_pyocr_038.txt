@@ -1,0 +1,35 @@
+void *produce(void *arg)
+
+is
+Rae ee Seer oC
+For(i=0; i<s; i++)
+
+Thee hee aad
+
+choosing[pi] = 1; // choosing[i]
+num[pi] = max(num,5) + 13
+choosing[pi] = 9; // choosing[i]
+for(int pj = 03 pj<5; pj++)
+
+ie
+
+true
+
+false
+
+Precast]
+
+3 while(num[pj]!=0 && ((num[pj],pj) < (num[pi],pt)));
+
+Vememeate erased]
+
+Ste Yael eee OL S1
+
+Breese
+
+printf("Consummer thu %d cong them %d. Tong la: %d\n",pi,produc
+e,sum);
+
+ee reas |
+
+num[pi] = 0;

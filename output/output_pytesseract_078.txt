@@ -1,0 +1,49 @@
+ 
+
+C++ shell
+
+foes]
+
+cpp.sh
+
+online C+ campiler
+
+Ee
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+Exit code: @ (normal program termination)
+
+ 
+
+1/7 Exanpie program
+2 #include <iostream>
+3° #include <string>
+5 int main()
+7 5
+as eos
+9 starrcout << kj
+10 return 03
+uy
+2
+options |{ compilation |{ execution
+5
+
+ 
+
+Shell 2074-2015
+
+ 
+
+ 
+

@@ -1,0 +1,127 @@
+a
+
+File Edit View Search Project Build Debug Fortran jth ‘Tools Tools+ Plugins DoxyBlocks Settings Help
+GB eM 2 Qo > % @ B [babs D 4 G2 OI gl G a
+<global> y | sapXepArray(int AI], int kichThuoc) : void vip >| RD MES BH *<| fo) B)| Qi
+
+Vl © > 2 eb an ~ | : v
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“FAworkspace\practise C\sapXepArray\bin\Debug\sapXepArray.exe" - ag x
+
+ 
+
+Menagenent _% | *sapxepArray_error.c x
+
+4 Projects |» 32 temp
+
+D Workspace 33 th = tc; Seta
+
+ql sopXepArray Ey ke = temp Paes eu oe
+8-3 Sources 5
+
+36
+
+37
+
+38 | void sapxepArray(int A[], int kichThuoc)
+
+39
+
+40 int i,j;
+
+41
+
+42 for (i=0; i<kichThuoc-1; i.
+
+43 |B
+
+44 for (
+
+45
+
+46 i£(A[j] < ALil)
+
+47
+
+48 hoanDoi( *(A+}j), *(Ati) );
+
+49 }
+
+50
+
+51
+
+ 
+
+ 
+
+ 
+
+ 
+
+j<kichThuoc; 4
+
+    
+
+ 
+
+ 
+
+4) JcodetiBlods x psearchresuts x J) cae XG Bulldog | $ Buldmessages x | CopCheck/Vera++ | Cpnchec
+
+ 
+
+- Build: Debug in sapXepArray (compiler: GNU GCC Compiler) ~
+
+Target is up to date
+Nothing to be done (all ivems are up-to-date)
+
+ 
+
+- Run: Debug in sapXepArray (compiler: GNU GCC Compiler) ~
+
+ 
+
+Checking for existence: F:\vorkspace\practise C\sapXepArray\bin\Debug\sapKepArray-exe
+Executing: "C:\Program Files (x8€) \CodeBlocks/cb_console_runner.exe" "F:\vorkspace\practise C\sapKepArray\bin\Debug\sapKepArray.
+
+       
+
+in F:\workspace\practise C\sapkepAzray\.)
+
+ 
+
+« >
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F:Aworkspace\practise C\sapXepArray\sapXepArray_error.c cic Windows (CR+LF) _ WINDOWS-1252__Line 48, Col 43, Pos 888 Insert Modified Read/Write default
+
+  
+

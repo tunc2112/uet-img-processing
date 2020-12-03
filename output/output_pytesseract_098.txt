@@ -1,0 +1,79 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+           
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+OQ) <- Microsoft Visual Studio Quick Launch (Ctr!+Q) p- 28
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+@-o ®-amyw 9- > Local Windows Debugger ~ Auto = Debug ~ Wind2 - lope <> te Pe 8
+Solution Explorer + AX tam giacdgml ppt eX =
+@ 0-2d o +p (Global Scope) ~ ® main(int argc, char * agrv{]) [
+1 S#includeciostream> ES
+Search Solution Explorer (Ctr) P- 2 | #inctdeoettte 5
+Fl Solution'c' (1 project) 3 | #includecstdio.h>
+4 He 4 “using namespace stds
+> EB External Dependencies 5 Sint main(int argc, char * agrv[])
+4 tesource Files ef
+a 7 Gneigned float a,b,c;
+ee 8 coutc<"tim tam giac\n"s
+4 Gil Source Files 9 cout<<"nhap a3 cin>>a3
+b  ** Source.cpp 10 cout<<"\nnhap b"3 cin>>bs
+L cout<<"\nnhap cs cin>>e;
+if (al-0 8 bl-0 8 cl-0 && (a4b>c) && (atc>b) 8B (biora))
+{
+) coutectam giac can";
+88 ceva) coute<"tam giac deu";
+else if ((a*a + b*b =-c*c) || (aa + c*c == b*b) || (b*b + c*c == a%a)) cout<<"tam giac vuong";
+7 else if (aa + b*b c) && (a=+b) || (aa + c*c == b*b) && (assc) || (b*b + cc == a*a) && (
+1s else cout<<"tam giac thuong"s
+ie >
+20 alse {coutc<"khong hop 1
+2 system("pause") 5
+22 |}
+100% ~ 4 »
+Error List vax
+Y ~ [@tEror Search Eror List, pe
+Description File a Line Project Column
+Ty 1 Intelisense: invalid combination of type specifiers Source.cpp 7 < 2
+
+Solution Explo... Class View Property Man... Team Explorer
+
+Output
+
+ 
+
+Breakpoints Error List
+
+muadoig xoqjoo, s210\¢q sanr—5
+
+ 
+
+ 
+

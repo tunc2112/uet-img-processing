@@ -1,0 +1,29 @@
+MID Free Pascal IDE
+Edit Search Run Compile Debug Tools Options Window Help
+eee eer
+
+  
+   
+
+        
+   
+   
+  
+  
+   
+
+ 
+
+Nee enc
+Peer curd
+Por
+assign(f,‘tancung.inp'); reset(f);
+Pes ( rea eee Peet)
+peer Ga nO
+Serene ee eC
+PetCo
+oreo Program \3.0.4\bin\i386-win32\tong
+ener m so tan cung cua n.exe
+Cre exited with
+exitcode = 201
+

@@ -1,0 +1,37 @@
+STS
+
+#include <iostream>
+using namespace std;
+sint main()
+
+{
+
+aa oa od
+
+cin >> n;
+
+char a[100];
+
+char c;
+
+fgets(a, n, stdin);
+cout << a;
+system("pause");
+return(@);
+
+ 
+
+Studio Debug
+
+  
+
+Cee eae
+
+DAG e aC aU ACI a CC. she Re
+
+ieee te bes ee ee OR SU nC tee OS CMR Coe ess te Cer sr eee eek eases
+Seu essa eae
+Press any key to close this window .
+
+ 
+

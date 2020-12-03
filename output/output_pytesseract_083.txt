@@ -1,0 +1,35 @@
+<iostream>
+
+<queue>
+<math.h>
+eA
+bool tim_so_nguyen_to(int n){
+(n<2){
+Por
+aes
+(int i = 23i<=sqrt(n);it+){
+(n%i == 0){
+Poe
+3
+Bi
+Saar
+y
+int main(){
+ay
+font Pair
+
+queue<int> q;
+(ae mere rareee oye
+(tim_so_nguyen_to(i)){
+
+q-push(i);
+ui
+3
+(!q.empty()){
+cout << q.front()<< " "3
+3 CoO
+
+os
+
+ 
+

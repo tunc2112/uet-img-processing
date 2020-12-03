@@ -1,0 +1,74 @@
+e
+2
+
+Ae
+
+PAN
+
+9)
+
+ 
+
+ 
+
+Pace
+
+Reet ed
+
+Peo
+
+oe PeOeR oS LS — a od
+
+Com TEK Eas Ea oo
+(Roo aR CT)
+
+1 #include <stdio.h>
+2 | int main ()
+
+ 
+
+3
+
+uy char c3
+
+5 printf("Nhap ky tu:
+(s} c = getchar();
+vi
+
+3)
+
+8)
+
+ 
+
+printf("Ky tu vua nhap:
+
+ 
+
+putchar(c);
+return(@);
+10
+eT Raya ee oe es
+Pee aC : ObjectNotFound: (geg:String) [], CommandNotFoundException
+
++ FullyQualifiedErrorid : ConmandNotFoundexception
+
+Leen eters) ecco MSR ee eer ae creas eee Me eed Eee ene cee eens at ened
+Papmeer a anseage cp se Gere oe ae ete aeca an (cy seer es eae nea en ces eer
+eee oecase cyst e oC -a eoemen eee Un CMe) ame re NT er ne cee ei
+
+ 
+
+ 
+
+PS C:\Users\tamtu\Desktop\C> & “c: \Users\tamtu\ .vscode\extensions \ms-vscode. cpptools-8.29.0\debugadapters \bin\WindowsDebugLauncher .ex
+Poppe oe eeagen cys Geen eee tel escaen (cy summery ea Ree ae eneoa sen (cst eee nad
+Dee one See ensca gat cys a nee) omer ee te Un es) emer Nr NS ee cee ee
+
+ 
+
+ 
+
+   
+
+eee ieee el

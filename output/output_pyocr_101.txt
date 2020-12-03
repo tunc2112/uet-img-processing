@@ -1,0 +1,49 @@
+Vong Ip For - Microsoft Visual Studio eee
+View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+'@TimUoctint a, int bienchay)
+void TimUoc(int a, int bienchay){
+cout << "Tim uoc nho nhat cue 1 so" << endl;
+cout << "Moi ban nhap yao 1 so :
+cin >> a;
+for(bienchay = a + 1; bienchay 3 bienkhay++){
+if(bienchay % a == 0){
+cout << “Uoc chung nho nhat cua
+number = bienchay;
+
+<<a "la" << bienchay << endl;
+
+break;
+
+3
+private:
+int number;
+
+main(){
+
+int a, b;
+
+a= b /*c*/ = 0;
+
+int x, bien;
+
+x = bien = Q;
+
+VongLap BienGoi(a, b);
+VongLap BienGoi2;
+//Nonglap BaiToanTimUoc;
+BienGoi2.TimUoc(x, bien);
+//Nonglap BienGoi2(a, b, c);
+system("pause");
+
+return Q;
+
+ 
+
+[do Wennse [CO MaER
+Seccrpton
+1 IntelliSense: no default constructor exists for class "VongLap”
+
+ 
+
+Se RE © Tai sao tao rath, eof Tue 04:00PM Q.

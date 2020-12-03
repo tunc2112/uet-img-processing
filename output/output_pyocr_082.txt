@@ -1,0 +1,77 @@
+DQ] <- Microsoft Visual Studio Quick Launch (Ctr!+Q) p- # x
+
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+
+ 
+
+e-o 8-aaw > Local Windows Debugger - Auto + Debug > Win32 | silo oo co : , :
+Solution Explorer + AX tam giacdgm! Sourcecpp # X g
+@ e-2af © * |B] (Global Scope) + ® main(int argc, char* agrv{]) -
+; Bi#include<iostream> +
+Search Solution Explorer (Ctsl;) 6 Pinus ostres =
+FH Solution 'e' (1 project) #include<stdio.h>
+4 Ble using namespace stds
+
+int main(int argc, char * agrv[])
+
+ 
+
+> EB External Dependencies
+
+samadoig xoqjoo, s210\¢q sang
+
+    
+
+         
+
+       
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 &] Resource Files t .
+Ge unsigned double a,bscs
+coutec"tim tam giac\n"s
+4. $a Source Files cout seine
+D4 Sourcecpp cout cin>>bs
+coutec"\nniap cy cin>>c3
+cout<<"tim loai tam giec"s
+SF (aio 88 b!=0 88 Cl=0 BE (atb>c) BB (atcrb) 8B (b4C>a))
+{
+b)  coute<"tam giac con";
+€ 88 cava) coutcc"tam giac deus
+else if ((a*a + b*b =c*c) || (ata + c*c = b*b) || (b*b + c*c = ata)) coutc<"tam giac vuong"
+else if ((a*a + b*b = c¥c) && (a=sb) || (a*a + c*c = bb) B& (a==c) || (b*b + ce == ata) BR (b==c)) cout<<"tam
+else cout<<"tam gic thuong"s
+>
+else {cout<<"khong hop 1e"s}
+system(“pause”);
+>
+100% | >
+Y || 2erors | [A 1 Waming Search ErorList p-
+Description File Line | Project Column
+2 error C2106 =": left operand must be -value cece) 7 c 1
+€33. ror C2106:=": left operand must be Hvalue en 8 G 1
+4.1 warning C4076 ‘unsigned: can not be used with type “double nl 7 z 1
+pee as ES ST RE ES er a p
+
+ 
+
+Solution Explo... | Class View| Property Man... | Team Explorer Breakpoints| Error List
+
+Output

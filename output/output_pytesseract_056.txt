@@ -1,0 +1,132 @@
++
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+64-bit Release
+
+a] |S « & &)| & a a3 83 | A | 9¢ | dh a || |row-cce 4.5.2
+globals) v
+ses Debug hien_thi_mang.cpp_ [*] Gia_trituyet_doi.cpp
+gil}
+32 void ht_gia tri_tuyet_doi(int *a, double n)
+334 {
+34 , dem=2;
+35 for(int i=1;icn;i++)
+364 {
+37 if(a[i]<@&&fabs(a[i])>5)
+384 {
+39 cout<<" So am gia tri tuyet doi > 5 la: "<<a[i]<<endl;
+40 tong=tong+al il];
+41 dem=dem+1;
+42+ }
+43 }
+44 double tbc=tong/dem;
+45 cout<<"Tbe cua cac so am la: "<<fixed<<setprecision(3)<<tbc<<end1;
+46 1}
+47 void remove(int *a, int n, int k)
+435 {
+49 cout<<"Xoa phan tu thu k: ";cin>>k;
+50 if (k>=08&k<@)
+514
+52
+53
+54
+55
+
+ 
+
+  
+
+mpiler paths
+
+ 
+
+ 
+
+Cok 22 Sek 0 Lines: 70 Length: 1224 Insert Done parsing in 0,016 seconds
+
+ewe Sci cancel
+
+ 
+
+ 
+
+MH) C\Users\admin\Desktop\KTL\Gia_tri_tuyet_doi.exe
+
+Ee Ceiec aac)
+
+Pct
+Dict
+Dict
+Dict
+Dict
+
+Mang vua nhap
+So am gia tri tuyet doi >
+eee
+
+Pia
+Pia
+Pia
+Pia
+Aid
+rf
+
+th
+tu
+roy
+roy
+roy
+roy
+ova
+
+ore)
+
+paeney
+
+ar)
+
+a)
+
+she Race CRC ER Ta)
+RRs ae
+
+ 
+
+r than several replies to a topic in a row, please consider a single reply that includes quotes from
+us posts or @name references.
+
+an edit your previous reply to add a quote by highlighting text and selecting the quote reply button
+
+Dpears.
+
+sier for everyone to read topics that have fewer in-depth replies versus lots of small, individual
+
+Creer
+
+ 
+
+18/06/20
+

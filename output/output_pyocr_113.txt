@@ -1,0 +1,37 @@
+#include<bits/stdct++.h>
+using namespace std;
+
+int main () (
+int n;
+cin >on;
+const int digit[10] = (6, 2, 5, 5, 4, 5, 6, 3, 7, 6)¢
+string ansl="";
+dnt m=n, 1l=(n+6)/7;
+for (dnt i=l; i<=1; i++)
+for (int j=0; j<=9; j++)
+Af (i+4>166 (1-i) *2<=m-digit [4] 66 (1-4) *7>=m-digit [4]) {
+ans1+=chax (j+'0'); 2
+m-=digit(j];
+break; .
+}
+
+cout << ansl << '\n';
+
+string ans2; oa
+Af (n¥2==0) (
+for (dnt i=l; i<=n/2; i++)
+ans2+=chax (1+! 0'); (7 os
+
+}
+
+else if (nt2==1)(
+ans2+=char(7+'0'); 7
+
+for (int i=l; i<=(n-3)/2; i++)
+ans2+=char(1+'0'); 7
+
+) master tit
+
+cout << ans2;
+
+return 0;

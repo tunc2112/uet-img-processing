@@ -1,0 +1,37 @@
+9ackage com.example.gridviewadapter ;
+
+Tee et ate eo eee
+import android. view.LayoutInflater;
+eee CRC EC
+
+eae CC Ce
+EC EC ROE te CEC Ea
+
+Te GC Rr ce ee ry
+
+Tea ESC Seer
+
+ta VERS eee st ee acts
+
+TERS Ee ee ecu eC CCl ee
+PRS eta otoa sd
+Prt eas Cia
+
+PStr mets Uren eee
+
+public Hinhanhadapter(Context context, int layout,
+pacha ee Reso
+Dre Eee SCs
+Ree ee eee cay
+
+CONSE
+Enver a arcs Oe
+
+return hinhanhList.size();
+
+CONSE
+PSEC [a at tet CLL
+
+Pest Tans
+
+Preset Cur U Sara eee

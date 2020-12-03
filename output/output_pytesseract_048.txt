@@ -1,0 +1,73 @@
+BB *main.cpp [CodeBlock] - Code::Blocks 16.01
+
+    
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+x
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+FB &3/%¥BBl|QAXliS rh & @ B [Dey vi > %E G28 6G: =
+£ | <global> ¥ |maind int Vie o|h BBR
+& Ble <| BS Vl © J ob fe ~ v
+Management x
+eneoeee | maincpp
+4 Projects | symbols Files > a a
+(© Workspace a5
+=. CodeBlock 176
+8B Sources 177 i
+using namespace std;
+int n,m, sum=0;
+int main()
+while (n--)
+{
+contc<m/10<c" " ccmbl0<cendl;
+sums=pow (m/10,m¥10) 7
+cout<<pow (21,2) 7
+cont<<sum<<endl;
+t
+return 0
+< >
+Logs &others x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F\CodeBlock\main.cpp
+
+4| Ai code::Blocks x Oy Searchresuits x) J Cece | © Build log x | # Build messages
+
+Windows (CR+LF) __unknown--1
+
+| A cepcheck x) J) Cppcheckmessages XJ) Cscope | Debugger | | DoxyB >
+
+Line 192, Column 6 Insert Modified Read/Write default
+
+ 
+

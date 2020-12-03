@@ -1,0 +1,66 @@
+ 
+
+Project2 (Running) - Microsoft Visual Studio Ya nch (Ctrl+Q) Pew F XxX
+File Edit View Project Build Debug Team Tools Test Analyze Window Help vcuong0909 ~
+o- 2 ut eo ue 6 % = BA 7A SN =D Application Insights ~ —
+Process: [16120] Project2.exe . LI
+
+Source.cpp + X
+
+PI Project2 (Global 7
+<iostream> Z
+
+ry
+using namespace std; ceaet
+
+const int ID = 123; 1D:
+
+const int password = 123456; Pa:
+
+Pee be morules
+
+Sint main() teeta
+t Ea aoe
+int IDe, passworde;
+do
+
+pero
+
+cout << “Enter ID
+cin >> IDe;
+
+cout << “Enter Password: ";
+cin >> passworde;
+
+if ((IDe != ID) || (passworde password) )
+
+cout << “Access denied" << endl;
+
+*
++
+
+while (IDe ID || passworde password) 5
+cout <<"
+system("pause");
+
+"Access accepted!" << endl;
+
+A Blea
+
+Show output from: Debug -
+“project2.exe’ (Win32): Loaded *C:\Windows\syswow6d\ntdil.dll°. Cannot tind or open the PDE tile.
+“Project2.exe’ (Win32): Loaded *C:\Windows\syswow64\kernel32.d11‘. Cannot find or open the PDB file.
+“Project2.exe’ (Win32): Loaded *C:\Windows\syswow64\KernelBase.dll". Cannot find or open the PDB file.
+“Project2.exe’ (Win32): Loaded *C:\Windows\syswow64\vcruntimel4@d.d11". Cannot find or open the PDB fil:
+“Project2. (Win32): Loaded ‘C:\Windows\syswow64\msvcp140d.d11". Cannot find or open the PDB file.
+“Project2. (Win32): Loaded ‘C:\Windows\syswow64\ucrtbased.d11". Cannot find or open the PDB file.
+
+Autos FRETS ceim Call Stack Breakpoints Exception Settings Command Window Immediate Window f@Miulug
+
+US co) ca Aa a
+
+Pra]
+*#aw ee eae EN
+
+ 
+

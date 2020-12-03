@@ -1,0 +1,34 @@
+Project Debug| | hiedhfa.c
+
+#include<stdio.h>
+
+riEeRaan@ MY
+al ]={4,5}5
+
+Oar Te eer TD ear de
+
+printf("a[%d]=%d a[%d]=%d\n",@,a[@],1,a[1]);
+[Ow A
+
+m*=n*=m*=n;
+
+Yara saak OM Ede) n=%d\n",m,n);
+
+CH
+
+ 
+
+a ree
+ene
+
+Pri conds with return value @
+eeeeetrie ema acts ct en
+
+BS compiler |
+
+compiler paths
+
+ 
+
+a a)
+

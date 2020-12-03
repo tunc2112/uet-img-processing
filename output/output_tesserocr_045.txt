@@ -1,0 +1,141 @@
+File Edit Search View Project Execute Tools AStyle Window Help
+
+[OPO 8H|S)s-|/ GBB 8 | Ow) Seo wel y| | hab || [roeccc «sz cevie netease Vv
+| DO | rma ¥ .
+Project | Classes | Debug 1 Unies [lnhap man sheep
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“| void xust(Flost af], int n){
+aine s+) printf (x6.4F",a[i])s
+printf( public int _cdecl printf (const char * _restrict__Format, -.-)
+
+  
+
+ 
+
+Int kt(Float _n){
+int i; float 5-05
+4f((int)n==n) {
+
+ 
+
+Be
+{O00
+
+ 
+
+8
+
+24
+25
+26
+27 scanf("%d"8n)5
+28 Gf (nc12) printf (" nhap lai n:")5
+at 3
+
+30 while (n<1e)5
+31
+
+32
+33
+34 print#(" cac phan tu cua mang :\n")5
+35 xuat (ayn)
+
+36 printf("cac so hoan hao trong man la
+37
+
+38
+
+fr
+2
+i
+gees
+33
+2
+
+" nhap ns
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+ 
+
+ 
+
+ 
+
+Done parsing in 0,015 seconds

@@ -1,0 +1,84 @@
+ 
+
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] - ..\app\src\main\java\com\example\kavechua\ doctruyen\Main2Activity java - Android Studio 2.2.1
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+      
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+     
+
+o % ¢>|\Ge> 6G
+Doctruyen app iste Eiman ijava Elcom Elexanple Evkavecua 2 docruyen © Main2Acoviy
+anceod : 3 I | © manaactvityjave x | © ManBiava x | ce/Ttemjava x | [Bl mand.xml x SSS roe OTE
+)5-an TEPOFE TavErTO-I E Android Studi ready to update
+Eo manifests import java.ucil ArrayList; z
+ij Andridarifest xml
+eDie public class MaindActivity extends Activity
+© E com.example.kavechua.doctruyen implements View.OnClickListener {
+3 ©  Custombistadanter custonListadapcer
+4 at en ListView viz
+i thers Q ArrayLisccieem>
+© % Mans String [] name = {
+3)» 5 com.example.kavechua.doctruyen “eRtSDa" +
+8 e)~  com.example.kavechua.doctruyen “Srayene"
+Al otaee "trayenc",
+w drawable “truyend",
+7 a layout “truyene",
+& actin eruyent",
+& activity main2 “eruyeng”,
+item xml "eruyenh",
+i manda eruyent",
+e mipman eruyens",
+Ea raw "eruyenk
+ea B values )
+8» © Gradle Scripts View vi
+button bt_back, Dt next
+a °
+i et protected void onCreate (Bundle savedInstancestete) (
+2 super. onCreate (savedInstanceState) ;
+a setContentView(R. layout. activity main2);
++
+bt back = (Button) findVievayla (R.id.Bt back); *
+ri be_next = (Button) findViewByld (R.id.DE_ next} >
+e bt back. sec0nclickLisvener ( (7s =) this): g
+£ bt next set0nClickLisvener ( (Vs this); es
+CustomListAdapter adapter = new CustomListAdapter (this, name); 3
+
+ 
+
+wi
+0: Messages EventLog [| Gradle Console
+
+ListView)
+
+ 
+
+ndViewById (R.id. 1v1)
+
+     
+
+ 
+
+TOD HG: Android Monitor [| Terminal
+Li cradle build frished in 18 967ms (26 minutes ago) 26:4 CRLF UTF-83 Context: <noconteat> a @
+
+ 
+

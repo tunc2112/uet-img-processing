@@ -1,0 +1,108 @@
+DQ mang_2 chieu - Microsoft Visual Studio (Administrator)
+Caen a NO eon sa
+
+ 
+
+ee SReterecncis) an ad
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CeCwn eran Wie Peet eee er) n -
+eee | a
+& (Global Scope) Soc) M
+= v7 Cobercre FS
+ees switch (sobai)
+
+19 i
+ee pore
+= 2 Ce eee Ca ees
+& 22| Psd
+23 eres
+2a| Ce eC a eet Ce eae
+Pe case 3:
+Ps arse
+Fy cout << "so lon nhat trong cot * << k << ':' << tim_sln_trong_cot(a, n,m, k)5
+Pe ay
+Pe Pree
+Fy Pees eee Oe ee
+En oe
+Fy 7
+Fr pea O meee
+34]
+Fe Bee
+Pies
+Ee
+Fy
+coats Sai
+bacon eh Peet oa
+Pernt File i oneness “
+Ce eRe oor) 5 1 ce
+Perera ee ee) » rt mang.2chiew
+Pee eae eter ee 3 ft ere
+warning C4244: argument Rewer ae eet Pee A ft Peet
+
+ 
+ 
+
+KF (3)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cor |
+Petar Barba
+CAC a a= RC ded
+Peneteener r)
+
+ 
+
+eee eo)
+ee
+ees
+4G Header Files
+> thuviensh
+Fae
+D+ baitep.cpp
+Fier
+eee
+
+Comes ceake aca)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

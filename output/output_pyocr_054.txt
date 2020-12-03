@@ -1,0 +1,93 @@
+Post
+
+ 
+
+US 6/2/2020
+ie File Edit View Project Build Debug Test Analyze Tools Extensions Window Help Search (Ctrl+Q) Pp DoMin_V2 Sign in A _ x
+£@-0|%~s Mut) 9 -C -| Debug ~ x86 > D Local Windows Debugger ~ | 58 |] -2 tS | Rn - 1B liveShare
+
+ 
+
+ 
+
+4 | (Global Scope) . | @® initSpriteRects(std:vector<SDL_Rect>& rects)
+
+ 
+
+ 
+
+ 
+
+ 
+
+FE ep
+
+CellPos pos = { i, j }3
+Db =m References
+// Vi tri lay tiv file anh > i External Dependencies
+
+SDL_Rect srcRect = getSpriteRect(game, pos, graphic.spriteRects); <a
+Resource Files
+
+> sai Source Files
+
+role
+
+// NP
+SDL_RenderCopy(graphic.renderer, graphic.spriteTexture, &srcRect,
+&destRect);
+
+}
+
+SDL_RenderPresent(graphic.renderer) ; // Hién thi nhiing gi via vé
+
+SDL_Rect getSpriteRect(const Game& game, const CellPos& pos,
+const vector<SDL_Rect>& spriteRects) {
+Solution Explorer
+Cell cell = game.cells[pos.row][pos.col];
+if (game.state == GAME_PLAYING) {
+switch (cell.state) {
+case CELL_HIDDEN:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ln: 279 Ch:20 SPC
+
+ 
+
+ 
+
+Entire Solution A 11 Warnings || @ O Messages | *y|| Build + IntelliSense . Search Error List
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+" Description + Code Project File Line Suppression State
+A Variable ‘Game:lastPos' is uninitialized. Always initialize a member variable (type.6). 26495 DoMin_V2 DOMIN_V2.cPP 114
+© unresolved external symbol _SDL_main referenced in function _main_getcmadline LNK2019 DoMin_v2 ‘SDL2main.lib(SDL_windo...
+A The enum type ‘SpriteType' is unscoped. Prefer ‘enum class’ over ‘enum’ (Enum.3). 26812 DoMin v2 DOMIN_V2.cPP
+A The enum type ‘SDL_boo!’ is unscoped. Prefer ‘enum class’ over ‘enum’ (Enum.3). €26812_ DoMin_V2 SDLrecth
+
+1 unresolved externals LNK1120 DoMin_V2
+eMnraus

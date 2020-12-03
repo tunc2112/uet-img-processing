@@ -1,0 +1,30 @@
+pee ee EES BNE
+
+eran ere ON
+
+@0verride
+PUTER staan eu eS
+
+et maT n ay
+
+i
+
+@0verride
+
+PTTECae Cartan Cute eet
+et
+
+i
+
+@0verride
+
+public View getView(int i, View view, ViewGroup viewGroup) {
+LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE) ;
+Nets create eee
+
+ImageView imageView = (ImageView) view. findViewById(R.id. view!) ;
+CROC NF er ea -c 169
+imageView. setImageResource(hinhanh. getHinh()) ;
+
+Sete
+

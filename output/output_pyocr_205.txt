@@ -1,0 +1,72 @@
+#include <iostream>
+
+int main(){
+
+float a, b, c, max:
+Std: :cout <<
+Std::cin >> a;
+
+Std: icout <<
+
+Std: :cin +> b:
+
+Std: icout <<
+
+Std: icin S> c;
+
+float p=atpbic:
+Std: :cour << "TT:
+float s =a *b*c¢;
+Std::cout <<
+
+float t =
+
+Leatb+c)/3
+Std: icome << r
+
+Max = a:
+
+if(max < by {
+
+Max = b;
+
+LE (reg ae eg
+
+Meo. c's
+3
+
+Stditcout <<
+
+System("Pauge
+
+De
+
+return 3G;
+
+ih Compile Log FP Bebug | [a Find Results
+
+28 Lines in
+
+ 
+
+ 
+
+-
+
+ae
+
+ue
+
+eee | Sts enc
+
+ 
+
+ 
+
+<= eee Std: end »
+
+»
+
+<< te stint end] -
+
+Max << Soddeenel

@@ -1,0 +1,172 @@
+ia
+
+[eae Cr
+
+teas
+
+PE Lc)
+
+9 aera
+
+ 
+
+ 
+
+ 
+
+ 
+
+(oy
+
+Peele)
+
+eres ere
+
+es Nes ena
+
+pees Mee cla
+Pencarian acd
+Pate cg
+
+rs teres rte)
+
+> img.gamen.com
+
+Sec aneoy
+
+Rare aeons
+Coie ara G
+> m.gamen.com
+
+ecco)
+
+Som ae at H
+> rank gamen.com \ rank
+
+> www.gamen.com
+
+pede ore er eke
+
+Ana Retorele tele utile (ane Nee)
+Soe
+
+© js-835ac9ae78547.html
+
+Cece eee Ara
+
+PENT
+
+@c6A1
+
+ 
+
+ee oe ee
+
+ 
+
+Bly
+
+coma
+
+rer
+
+eae en ke =
+
+© indexhtml X © js-cb4f2895024df html
+
+loader.gamen.com > loader > <> indexhtml > @ div#tnomember_layoutpanel_wrap > @ div.panel_box > @ section.panel > @ div.panel_inner > @ p.pri
+
+Hl
+
+ome SUS)
+
+——
+On)
+
+N
+
+ay
+Iau kw
+
+ae
+eC)
+
+een Ss
+
+B
+
+re RECOM.)
+
+»PWWNNNNNNNNNND
+Oma!
+
+ 
+
+var coid="';var play_mode="true';var IMG_SERVER='https://img.gamen.com';var IMG_PATH='/2018/201805/104/';var Gé
+
+js_ver='14110' ; var GAME_JS_PATH=JS_SERVER+"/game'+JS_PATH;var COMMON_JS_PATH=JS_SERVER+'/game/global';var RANK_S ©
+
+nickkey='user[nick]';function getLocalStorage(strKkey,type) {if(typeof(localStorage)=="'undefined'){alert("@ial] 2
+
+ 
+
+function setLocalStorage(strKey,strVal,msg,gourl) {if(typeof(localStorage)=="undefined'){alert("4A] HAtP AE 7»
+
+function confirmgo(msg,url,gotarget){if(confirm(msg)) {if(gotarget=='self'){location.href=url;}else if(gotarget=
+loaded(){window.scrol1To(@,1);} $.fn.digits=function(){return this.each(function(){$(this).text($(this) .text().r
+expires="expires="+d.toGMTString() ;document .cookie=cname+"="+cvalue+"; "“+expires;} gamen.setCookieAtee=function
+Date()) {expiredays=expiredays-1;} todayDate.setDate(todayDate.getDate()+expiredays ) ; document . cookie=name+"="+e<
+cee
+<ca.length;i++) {var c=ca[i].trim();if(c.indexOf(name)==0)return c.substring(name.length,c.length);} return "";}
+*/rankview/', success: function(data){$( ‘#ranking_modal").html(data.tag);$( ‘#ranking_modal').show();}});} ge
+“a
+
+  
+
+"json", crossDomain: true, xhrFields :{withCredentials: true}, timeout :gamen.ajax_time,type: ‘post',data:{ "p": "i
+"json", crossDomain: true, xhrFields :{withCredentials: true}, timeout :gamen.ajax_time,type: ‘post',data:{ "p": "i
+‘#guest_tmp_point').html(point).digits();$( '#guest_tmp_point2').html(point).digits();$( ‘#guest_play_contir
+gamen. loginAndPlay=function(){$( ‘'#guest_play_continue_modal .modal_body').hide();$( ‘#guest_play_continue_n
+){gamen.loginAndPlay();return;} $.ajax({dataType: "json", crossDomain: true, xhrFields: {withCredentials:true},t
+) {$( "#guest_play_continue_modal").hide();cash_modal_open();} else {gamen.gameplay_status=true;gamen. achiev
+‘#loginmore_result').show();}}});} gamen.loginmore_close=function(){$( '#guest_play_continue_modal').hide();
+"#guest_play_continue_modal').show();$( ‘#guest_play_continue_modal .modal_body').hide();$( '#loginmore_sigr
+*" width="100%" height="100%" marginheight="0" marginwidth="0" scrolling="yes" frameborder="0"></iframe>');}
+‘<iframe src="https://ssl.gamen.com/login/?refer=playloginmore&onlymember='+gamen.onlymember+ ‘&goURL=" widt
+$( '#charge_modal').show();$( ‘#charge_modal .modal_body').hide();$( '#chargemore_layout').css({ "top": "@p>
+*" width="100%" height="100%" marginheight="0" marginwidth="0" scrolling="yes" frameborder="0"></iframe>');}
+gamen. gameout=function(v, time){document . location. href=gamen.gameouturl;} gamen.loadend=function(){$( "“#intrc
+{gamen.endJscall_status=true;var head=document.getElementsByTagName( 'head')[@];var script=document.createE]
+"head')[@];var script=document.createElement( ‘script');script.type='text/javascript' ;script.src=JS_SERVER+
+“script');script.type='text/javascript' ;script.src=JS_SERVER+ '/js/idangerous.swiper-2.1.min.js‘;head.apper
+*/js/nateonShare.js';head.appendChild(script) ;window.___gcfg={lang: '‘en-US'};(function(){var po=document.cre
+head=document.getElementsByTagName( 'head')[@];var script=document.createElement( '‘script');script.type='te»
+btnChangeNick=$( '#btn_change_nick');var change_modal=$( '#modal_nick_change');var change_request={ ‘nick':f
+‘#btn_change_nick_cancle').unbind( ‘click').bind( ‘click",function(){change_modal.hide( );});change_modal. fir
+tts ae ee eRe ae ey ae ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+te ae "/nracess/?n=nrofile nick chanseRnick='+changse nick
+
+ 
+
+ 
+
+ 
+
+TEPC Coo OL ec
+
+Raed
+
+Tren
+EET Z0.)
+
+im)
+

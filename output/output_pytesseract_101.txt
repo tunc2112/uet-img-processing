@@ -1,0 +1,82 @@
+eo Véng |p For - Microsoft Visual Studio ooe
+File Edit View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+SMa) 6 a) 9-H Eh [debuo -|fwinge ica I
+
+= 2/OHS ss Qi oa eer
+
+    
+
+Bai l.cpp
+
+ 
+
+4% VongLap TimUocbienchay ~[+ @ intbienchay
+
+“$Vonglap ‘ TimUoc(int a, int bienchay)
+23a void TimUoc(int a, int bienchay){
+24 cout << "Tim uoc nho nhat cue 1 so" << endl;
+
+ 
+
+25 cout << "Moi ban nhap yao 1 so: "5
+26 cin >> a;
+27 for(bienchay = a + 1; bienchay 3 bienkhay++){
+28 if(bienchay % a == @){
+
+29 cout << "Uoc chung nho nhat cua " << a <<" la " << bienchay << endl;
+30 number = bienchay;
+
+31 break;
+
+32
+
+33
+
+34 3
+
+35, private:
+
+36 int number;
+
+37
+
+38|Elint main(){
+
+39 int a, b;
+
+40 a=b /*c¥/ = 0;
+
+a1 int x, bien;
+
+42 x = bien = @;
+
+a3 VongLap BienGoi(a, b);
+
+44 VongLap BienGoi2;
+
+45, //NongLap BaiToanTimUoc;
+
+46 BienGoi2.TimUoc(x, bien);
+
+47 /{Nonglap BienGoi2(a, b, c);
+
+48 system("pause");
+
+49 return @;
+
+58
+
+Output panes
+
+Showowipatome [Ouida La 1 ior AO Warnings [CVO Messe
+Description File
+IN nee Sense ate entero eee ea ee
+
+Peer
+@ @BEE ”* Scyerstatiom VTi RI G Tai sao tao ra th. ‘oof Tue 04:00PM Q
+
+ 
+
+ 
+

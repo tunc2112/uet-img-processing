@@ -1,0 +1,149 @@
+ile
+
+Edit View Search Project Build Debug Fortran
+
+SBBAewMKmalQaaierszen
+
+waSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+
+GWE gh GY
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<dl> ¥ @ | m*<| GR Xd © b|
+|| leo laa ~/s (OM Al Seem ooolaals cl
+Sa ~ Starthere % *tongcacsonguyentonhohonn.c
+ FSumbols Jas le 2 #include <math.h> a
+View: | Alllocal symbols (worksp ¥ | 3 SAS ae.
+4 [int ming
+courte v 3 dat
+6 int n, x= 2, 8 = 0;
+7 printf ("Nbap vag mot so: "):
+8 scant ("sa", én);
+3 printf ("Tong cag s0 nguyen to nhe hon n le: ");
+10 for(x=2; x <n: x++)
+nt ‘
+12 if (KTSoNguyenTo (x) != 0)
+13@ S += x:
+a ,
+as princg("td\n", 8);
+16 getcn ();
+= a fly
+sisi 18 int KTSoNguyenTo(int x)
+a fee
+20 int i= 2;
+2 while (x $4 != 0)
+4) J, Code:Blocks | Oy Search resuits x) fi Cece _| © Build tog | F Buldmessages x) Jj Copcheck | /\ CopCheckmessages | _J| Cscone | © Debugger | Ji Da
+0 error (za), 0 varning(s) (0 aimite(s), 7 second(s) B
+|SOFT\14124321_TRAN HAI DUONG\TUANDS\tong cac so nguyen tenho hon nic Windows (CReLA)_WINDOWS-1252 Line 3, Column 34 Insert Modified Read/Write defaut
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

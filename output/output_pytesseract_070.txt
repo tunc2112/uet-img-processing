@@ -1,0 +1,146 @@
+@® DocTruyen - [C:\Users\kavec\AndroidStudioP rojects\DocTruyen] - [app] - ...\app\sre\main\java\com\example\kavechua\doctruyen\Man3,java - Android Studio 2.2.1
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+DAG\|e r+ |sMMAAle dls
+
+ 
+
+PeRGG MAS |or|4|?
+
+ 
+
+© Man3
+
+ 
+
+ 
+
+(EgDoctruyen Cgapp ise Emin Pijava Elcom [Eiexample (Eikavechua [Ei doctuyen
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(GE com.example.kavechua.doctruyen
+©) Customstadapter
+€ Item
+© Maindéctity
+© Mainactvty
+© % Man
+5 com.example.kavechua.doctruyen (androidTest)
+5 com.example.kavechua.doctruyen (test)
+Dares
+i dranable
+Bl layout
+1B activity main!
+|B activity main2.eml
+‘Bitemam
+|S man3.xml
+5 mipmap
+Erraw
+values
+© Grade Scrints
+
+ 
+
+ 
+
+G Cees 7 Sutue
+
+ 
+
+BudVaients
+
+ 
+
+ 
+
+ 
+
+ 
+
+se ancoid | @ | a ie | © Mandactvityjava x | © Man3,jeve x | © Ttemjava x | [S men3.aml x
+i & Ea app TextView tv, tv2;
+S| o Tier sect Button bt_backkk;
+Bp Benin precise
+sve ot protected void onCreate Bundle savedInsvanceState) {
+
+super. onCreate (savedInstanceState) ;
+setContentView(R.layout.man3) ;
+
+tv = (TextView) findViewByld(R.id. textView)
+tv2 = (TextView) findViewByld(R.id. textView)
+bt_backkk = (Button) findViewByld(R.id.bt_backkk)
+bt_backkk -setOnClickListener ( (View.OnClickListene:
+
+ 
+
+ 
+
+   
+
+this
+
+ 
+
+  
+ 
+
+Intent 2 = getIntent ()7
+String nt = a.getStringExtra ("2");
+tv.setText (nt) +
+
+if (nt == "truyena") {
+
+Preece
+Bore
+
+cise)
+etc em)
+
+pore
+
+Platform and Plugin Updates
+Android Studio is ready to update,
+
+epi
+
+    
+
+ 
+
+   
+
+ 
+
+*
+
+%
+
+2 , EL
+
+eB if (nt == "truyenb") { a
+
+oF, String dateA = ""; z
+ToDo §: Android Monitor [Terminal 0: Messages: EventLog _ [& Gradle Console
+
+Go Gradle build finished in 188 967ms (17 minutes 300) 682 chars, 1Slines 31:2 CRLF UTF-8? Context: <nocontext> a @
+
+ 
+
+nod
+
+EN
+
+cea
+
+ 
+

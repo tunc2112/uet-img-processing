@@ -1,0 +1,74 @@
+File Edit Search View Project Execute Tools AStyle Window Help
+
+CES eee|S\*-) BRIBES | @B| G80 BSs| Y| x | dh aw | reccc 4.5.2 cavic release  v
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7a
+Project Classes Debug  ok.cpp_bl.cpp_ tl iterator.h
+84 * &*(reverse_iterator(i)) == &*(i - 1)
+85 * @endcode
+86 *
+87 * <em>This mapping is dictated by the fact that while there is always a
+88 * pointer past the end of an array, there might not be a valid pointer
+89 * before the beginning of an array.</em> [24.4.1]/1,2
+98 *
+91 * Reverse iterators can be tricky and surprising at first. Their
+92 * semantics make sense, however, and the trickiness is a side effect of
+93 * the requirement that the iterators must be safe.
+94
+95
+@6
+97 terator_category,
+98 typename iterator_traits< Iterator>::value_type,
+99 typename iterator_traits<_Iterator>::difference_type,
+100 typename iterator_traits< Iterator>::pointer,
+101 typename iterator_traits<_Iterator>::reference>
+1024) {
+103 protected:
+104 _Iterator current;
+105
+106 typedef iterator_traits<_Iterator> __traits_type;
+107
+108 public:
+109 typedef Tterator iterator tune:
+Bg Compiler (127) ly Resources fh CompileLog w Debug [G Find Results J Close
+Line Col File Message
+38 C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_. from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ostream
+39 C:\Program Files («86)\Dev-Cpp\MinGW64\lib\ gcc\x86_ from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/qcc/x86_64-w64-mingw32/4.9.2/include/c++/iostream
+1 CAUsers\DELL\Downloads\CTDL&GT thay phuong\cont... from C:\Users\DELL\Downloads\CTDL&GT thay phuong\contest/\ok.<pp
+
+C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x8...._ In instantiation of ‘class std::reverse_iterator<std:: Bit iterator>':
+713 5 C:\Program Files («86)\Dev-Cpp\MinGWE64\lib\gcc\x86_... required from here
+96 11 C:\Program Files («86)\Dev-Cpp\MinGW64\lib\gcc\x86_... [Error] no type named ‘iterator_category’ in ‘struct std:.iterator_traits<std::_Bit_iterator>’
+C:\Proaram Files (x86)\Dev-Cop\MinGW64\lib\acc\x8..._ In instantiation of ‘class std:reverse iterator<std:: Bit const iterator>’:
+Line: 96 Cok 11 Set 0 Lines: 1164 Length: 37217 Insert Done parsing in 0.016 seconds
+
+ 
+
+ 
+

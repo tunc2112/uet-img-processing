@@ -1,0 +1,71 @@
+   
+
+(S} code - bt (1)/src (1)/exam/SinhVien,java - Eclipse
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+a. @ 'Gixit-O-@-Q- if 6G i869: 'PBe Bem H- H-ee-o- Quick Access| ‘| aS | 99
+2 SinhVienjava 82 |) Thiklanhjava sels
+2 package exam; :
+iy 2 Packag 2
+1 3@limport java.io. BufferedReader;| @
+
+S B
+7 public class Sinhvien {
+
+8 private int maSv; a
+3 private String hoTens =
+16 private Boolean gioiTinh; &
+21 private string seDts
+
+2 private double diemTk; = e
+13@ public int getMaSv() {[] a
+
+16® public void setitaSv(int maSv) {(]
+19 public String getHoTen() {{]
+
+22@ public void setHoTen(String hoTen) {[]
+
+25® public boolean isGioiTinh() {[]
+
+28® public void setGioiTinh(boolean gioitinh) {{]
+31® public String getSopt() {{]
+
+34® public void setSodt(String sodt) {{]
+
+37® public double getDienTk() {[]
+
+40% public void setDiemTk(double dientk) {{]
+
+ 
+
+ 
+
+ 
+
+439 public SinhVien()
+a
+45 this.masv-2;
+46 this hoTen="5
+& 47 this.gioiTinh=equals ("nu")
+43 this.soDt=
+49 this.dienTk=05
+50
+51S public SinhVien(SinhVien x)
+52 of
+53 this maSvex.masv;
+54 ‘this -hoTen=x.hoTens
+55 this. gioiTinh=x.gioiTinhs
+56 this.soDt=x.soDt;
+57 this. diemTk=x.dienTks
+53}
+595 public void nhapDL() throws IOException
+of
+61 InoutStreamReader r = new InoutStreamReader(Svstem.in): z
+
+Writable ‘Smart Insert
+
+ 
+
+ 

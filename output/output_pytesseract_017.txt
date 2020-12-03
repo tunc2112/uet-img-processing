@@ -1,0 +1,77 @@
+Hoatdéng Eclipse ~ Thg 123 17:03@
+
+Cole e ee LU Are eet LCE uC Ln TC eae
+CC. ace CeCe ee
+
+oe ee 2 od
+
+   
+
+oat a a ae
+
+ 
+
+return true;
+
+7
+
+ 
+
+i
+LE (Y==9)
+i
+Sime etsD)
+i
+for(int i=0; i<9;i++)
+for(int j=0; j<9; j++)
+dm.setValueAt (Sudoku[i][j]+"", i,j);
+//Cap nhat lai dap 4n 1én table
+
+ 
+
+public static void SolveSudoku(int Sudoku[][], int x, int y)
+
+ 
+
+casa e eed
+= a
+else
+ox ue , SolveSudoku (Sudoku, xt+1, 0);
+al else if (Sudoku[x] [y]==0)
+
+te
+
+for(int k=1; k<10;k++)
+
+ 
+
+ 
+
+if(CheckTrue (Sudoku, x, y, k))
+i
+Sudoku[x] [y] =k;
+6 8 SolveSudoku (Sudoku, x, y+1);
+_ Sudoku[x] [y]=0;
+
+a
+
+SolveSudoku (Sudoku, x, yt1);
+
+ 
+
+public static int n=100;
+public static JButton Giai;
+7 public static int [][]Sudok
+
+ 
+
+ 
+
+ 
+
+Pet Sane 55:48: 1304
+
+ 
+
+ 
+

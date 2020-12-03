@@ -1,0 +1,31 @@
+Cc Y Input @
+
+1 <stdio.h>
+2
+3} number ();
+vi
+i) main() {
+6 a
+Ly (i = 12; i>{ 7;i--P)f{
+ts) number ();
+f°)
+10 ( , 1);
+|
+iy)
+13 }
+eA
+15 number() {
+16 rater ii ted
+Wi ( ele
+18 num--;
+19 }
+@ @ Output
+Hello number 10
+Hello number 9
+Hello number 8
+Hello number 7
+Hello number 6
+Hello number 5
+
+Your number 6
+

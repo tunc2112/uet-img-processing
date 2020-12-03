@@ -1,0 +1,32 @@
+200 G-
+
+double nghiem;
+Std:icout <<
+Stditcin >> a;
+Stditcout <<
+Std: icin >> b;
+if(e—p) {
+
+ 
+
+1f (b==0)
+
+return 0
+
+b Compile Lag | f Debug | fa Find Results
+
+Stdi:icout << ' << endl;
+
+Felgen {
+
+cout << << ena ti;
+
+j, else. {
+nghiem
+
+Stdiicout <<) "Pp
+
+(double) - b/a;
+
+<< nNghiem << endl:
+System(!"'

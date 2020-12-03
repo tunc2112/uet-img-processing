@@ -1,0 +1,56 @@
+$B file Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help  VietNamePost -_tablejsp - IntelliJ IDEA - x
+
+ 
+
+ 
+
+ 
+
+VietNamePost » src) main » webapp ) WEB-INF ) views ) admin ) newsGroup > jg _tablejsp A} AM Tomeat9035 ¥ Ge G& > mA
+3 Project ¥ @©@ = & — © NewsaPljava tablejsp gp head,jsp ge Menujsp isp layoutjsp m
+é ea webapp <%@ page contentType="text/html; charset=UTF-8" Language="java" isELIgnored="false" %> ag
+= Fesources <*@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> ~
+oo <table class="table table-hover"> eeeaocece
+2 i@icd_catalog.xml S
+g Akstylecss <thead> g
+a fonts <tr> Ee
+: images <th>Id</th> *
+WEB-INF <th>Name</th> >
+HP. <th></th> .
+mmcomactisp </tr>
+eaten </thead>
+hindexjsp <tbody id="tbgr"...>
+ib Introjsp </table>
+a loginjsp <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+views <script>
+admin $.ajax({
+re url: "/groups.json",
+‘Bieagisp success: function (res) {
+Bmenujsp var dl =;
+newsCategory $(res).each(function (index, g) {
+newsDetail dl += ° <tr>
+3 newsGroup ktd>> + g.id + “</tad
+8 ze_formjsp <td>" + g.name + °</td>
+Fd m_lablejsp </tr>;
+x incense » '
+layout jsp
+8 tesa $("#tbgr") .append(dl);
+©} ip webxml }
+. BB target bp
+5 17 pom.xml </script>
+iz ts VietNamePost.iml
+E > li External Libraries
+FE _ scratches and Consoles script > success() > callback foreach > dl
+Qzrind 61000 Qs:services Terminal “Build = 0:Messages FE JavaEnterprise Spring Q event Log
+42:54 CRLF UTF-8 4spaces ‘ma @& &
+
+    
+
+(Cl Build completed successfully in 5 s 166 ms (21 minutes ago)
+
+ 
+
+7
+6/24/2020
+
+  

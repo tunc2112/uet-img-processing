@@ -1,0 +1,68 @@
+anni
+
+ 
+
+ 
+
+     
+
+   
+
+ 
+
+  
+
+   
+
+ 
+
+2 Fincludecbive/stdcrr.n>
+
+BEB using namespace sta;
+
+3 Long Long a[20000]
+
+MME int a3;
+
+5 | tong long M:
+
+6 bool KINT(long long n)
+
+7 lec
+
+2 || ae (neo) return raise:
+
+9 + i<=sqrt(n); i-
+10 ) return false:
+a1 || return true:
+vw tly
+13 int main()
+
+“uo Ek
+
+as] cimowt
+
+16 1: a[2]
+
+u :
+
+ae || wnite(atzi<-m
+
+a Ek
+
+20
+
+a | a{a-21)+(ats-21)7
+22
+
+23
+
+24 || wnizerxrur(ain)) —= faise)
+25 ||»
+
+26 || contecatnicc""
+
+27 | return 0;
+
+ze |
+

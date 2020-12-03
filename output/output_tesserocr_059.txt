@@ -1,0 +1,129 @@
+ 
+
+Edit Source Refactor
+tie me Bix|o
+“4p Debug. Project Explorer
+1 BanHangOniine EAP
+1G BanHangOniine EB
+1G BanHangOnline WEB
+v $3 Demo
+Referenced Types
+Deployment Descriptor: Demo
+22 IAK-WS Web Services
+\ 2 Java Resources
+vg sre
+
+BME
+
+ 
+
+ 
+
+{G} eclipse-workspace - Demo/src/impls/Facadelmpl java - Eclipse IDE
+fi Navigate Search Project Pydev Run Window Help
+
+Rim Sig, O-
+
+ 
+
+ 
+
+ 
+
+Ble veo
+
+ 
+
+ 
+
+[D) FacadeRemotejava
+
+ 
+
+ 
+
+Q-QaiBe9-P Ae Ret vlc
+
+{D) Facadeimpljava 52 | [2] Danglyjsp
+
+ 
+
+ 
+
+By Flv er
+
+ 
+
+2) Danaky ave
+
+1 package impls;
+
+ 
+
+import java.sql.Connection;
+import Java.sql.PreparedStatement;
+import Java.sql.SQLException;
+
+import connection.ConnectSQL;
+import entities .khachHang;
+
+9 import services.FacadeRenote;
+
+11 public class FacadeImpl implements FacadeRemote {
+
+ 
+
+   
+ 
+
+BB connection 2
+B Connects java 139 public Facadetmpl() {
+Bi entities ga // 000 Auto-generated constructor stub
+‘vB impls pS +
+. 16
+-Disaiies H72 — @override
+Q Facadeimpl 18 public boolean dangky(KhachHang kh) throws SQLException {
+BB services a Connection con = new ConnectSQL().getConnection()3
+Uf FacadeRemotejava a values| y3
+BB servlet
+| 22
+-B) angKyjova is eye
+BA Libraries 24
+Bi Apache Tomcat v8.5 [Apache Tomeat v8.5] ps pstm.setString(1, kh.getHoten())5
+Bi JRE System Library [Jav2SE-12] ps pstm.setString(2, kh.getSdt());
+Ik Referenced Liteanes 27 pstm.setstring(3, kh-getemail());
+pane Raters Be pstm.setString(4, kh.getacc())s
+BA JavaScript Resources 29 pstm.setString(S, kh-getPass())3
+i Referenced Libraries 50 return pstm.executelpdate() > 23
+& build BL } catch (SQLException e) {
+Y © WebContent p2 y rPrintstacktrace():
+B3
+Sing Ba return false;
+& META.INE a}
+& WEB-INF 36
+37° public static void main(String[] args) throws SQLException {
+38 Khachtiang kh = new KhachHang("Que", "123", "ASD", “aaa”, “aaa");
+39 new FacadeImpl().dangky (kh);
+0}
+a1
+42
+43}
+EConsole 2% |] Problems [i Debug Shellid Servers
+
+ 
+
+B) ConnectSQLjava
+
+‘Tomcat v8.5 Server at localhost [Apache Tomcat] C:\Users\Admin\Downloads\eclipse\jre\bin\javaw.exe (Jun 25, 2020, 5:25:47 PM)
+
+  
+
+Servlet.service() for servlet [servlet-Dangky] in context with path [/Demo] threw exception
+java. lang.NullPointerexception
+‘at inpls.FacadeImpl.dangky(FacadeTmp]. java:21)
+at servlet. Dangky .doGet (Dangky. java:39)
+at javax. servlet. http.HttpServet. service (HttpServlet. java:634)
+at javax. servlet. http.HttpServlet. service (Httpservlet. java:741)
+at org-apache. catalina. core.ApplicationFilterChain. internalDoFilter (ApplicationFilterChain. java:231)
+at org-apache. catalina. core.ApplicationFilterChain.doFilter (ApplicationFilterChain. java:166)
+at_org-apache. tomcat .websocket.server.WsFilter.doFilter (WWsFilter. java:52)

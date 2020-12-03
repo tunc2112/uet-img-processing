@@ -1,0 +1,56 @@
+QJ) ConsoleApplication2 - Microsoft Visual Studio ae meres er en eure) Ped
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+ 
+
+ 
+     
+
+Co ee ee eC yore}
+(<i Cc eo eC ea ee | =
+F Condon" = -8
+oes cr) Sore) =|
+11 [gine isEvenWord(string word) re
+syd a
+3B int lengthWord = stringLength(word);
+Pv string *checkWord = new string[lengthWord];
+ccs cart eae
+oT Peat se eee Tey
+cg iChat Paras Crs Peer)
+18 a
+19 CU ae ees Ea)
+20 {
+wl eeu at. ea
+= 2 | while (checkWord[run] != '\@" && checkWord[run] != i) run++;
+Pe) Ce Sema peewee eur errs ce td)
+oy ine
+25 eso
+Pa nS oes eer ee
+7 oP ae aes
+Dr} eons
+ery | a
+rca
+ian vax
+: @ oMessages : Caan P-
+eer” Does File
+Cee eee ee ee eee a eee eee ee Ree
+ees een ee
+ee} See Cen eed
+@ 2078 qT aE EN oer eco a Ry (ETH ee) Emi  ceieaeetey |
+
+cI
+Error List Output
+
+ 
+
+iC

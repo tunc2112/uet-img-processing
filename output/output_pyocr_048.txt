@@ -1,0 +1,40 @@
+1B *main.cpp [CodeBlock] - CodeBlocks 16.01 - x
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tools Plugins DoxyBlocks Settings Help
+FFBBSA\e 2|4BB\QAiSP ¢ @ B [rer VE > 83 G2 Ol ol G
+£ <alobal>
+& Ble <| SBS Vile > 2b ae ~
+Menegement XX | smaincpp
+4 Projects | Symbols | Fies > -_ 5
+(© Workspace 175
+lj CodeBlock 176
+c5-B3 Sources 177 #include<iostream>
+178 #include<math. >
+17s
+180 using namespace std;
+isl int n,m,sum=0;
+ae2 int maia()
+ass Ek
+is4 ein>on:
+ies while (n--)
+1e6
+187 cin>om
+ee contccm/10<<" " <cmbl0<cendl;
+ies sums=pow (m/10,m$10) ¢
+180 cont:
+asi cont:
+ase | y
+asa return 0;
+ase Ly y
+< >
+Logs &others x
+4) DicodersBlocs | Qysearchresuts | J cece X| ©)Bulldlog X| FBuldmessages —x| J} CopCheck | J CppCheckmessages | J} Cscope x | GpDebugger x J Doxys >
+
+ 
+
+ 
+
+ 
+
+ 
+
+F:\CodeBlock\main.cpp Windows (CR+LF) __unknown—-1 Line 192, Column 6 Insert Modified Read/Write defauit =

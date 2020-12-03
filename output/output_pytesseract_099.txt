@@ -1,0 +1,125 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+            
+
+   
+ 
+ 
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+BH main.c [c] - CodeBlocks 16.01 - x
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+(FRB BA! 2)¥MB AAS Ph  @ B [Derg V]Em 8E G2 SI gf G: |B
+£ | <global> © |maind + int vibe >| BB RR
+ie blr r<| ele Ni E vile o 2 baw ih [Ol | | | E z
+Manegement IF rman x
+4 Projects | Symbols | Fies > a
+(© Workspace 2
+aac 3
+EB Sources 4 int main()
+main.c 5
+6 || int (1uachon, 201,202, ketqua) :
+7 prints ("----menu-—--\n") 7
+8 printé("1-phep aben\n") 7
+9 print#("2.phep gong\n")?
+10 printé ("3.phep ggu\n")7
+a printf ("ghon phep sgan"):
+2 scant ("$d\n", luachon) :
+13 printé ("ghap so can ¢inh Jan iuee\n"):
+14 scant ("Sd\n", 201);
+1s scant ("Sd\n", 202) 7
+16m ketuqua=0;
+a7 switch (luachon)
+te
+1s casei:
+20 printg ("$d*sd=8d\n", 201, 302, ketqua) ;
+21 break
+23 printé ("éd+#d=8d\n", 201, 302, ketqua) 7
+24 break;
+25 || cases:
+26 printé ("$d-8d=#d\n", 201, 302, ketqua) 7
+27 break
+2e || aecane:
+29 print ("Khong co gi ca")
+30 break:
+31 }
+32 return 0
+oe |
+34
+< >
+4| J coder:Blocks x) Oy Searchresuts x J cece X| G)Buldlog x) © Buildmessages x | | CppCheck | | CppCheckmessages x | Cscope | EYDebugger >
+Line Message a
+18 error: ‘02 undeclared (first use in this function)
+error: ‘ketuqua’ undeclared (first use in this function)
+E error: expected
+5 warning: label * y
+E\c\main.c Read/Write default
+

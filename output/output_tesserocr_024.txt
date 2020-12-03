@@ -1,0 +1,69 @@
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+o- OUGiwi-O-@- AiG ieo97-PBe BHM P- F-Ce-o- Quick Acces
+ B)SinVienjava {3} ThiHanhjava %3 a2)
+iy 5)
+public static void main(String[] args) throws 10Exception { :
+InputStreamReader r = new InputStreamReader(System.in); @
+aufferedReader b ~new SutferedReader(r); a
+String cho! e
+into
+int[] Arras 5
+ArcayList<SinhVien> ds = new ArrayList<Sinhvien>()s
+do { 8
+Systen.out.printIn(“*t#t+s+senensestsesensesentseneneesenenenenteny:
+System.outprintln(* * CHUONG TRINH QUAN LY SIN VEN “3 a
+System.out.println( * 1 ~ Nap div 1igu cho danh sach sinh vién =");
+System.out.println(" * 2 - Tim sinh vién theo Ma sinh vign =");
+System.out.println(" * 3 - Xéa 1 sinh vién di cé trong danh séch*")3 j
+System.out.printIn(" * 4 - Sita théng tin cia sinh vién +);
+System.out.println(" * 5 - Danh ach sinh vién hoc lai “3
+System.out.printIn(" * 6 - Danh séch sinh vién duge cap hoc béng*");
+System.out.println(" * 7 - Két thic chyong trinh “3
+
+System.out.printIn(" *tttetsserisestesstensentesenensenensenene);
+String tam3
+chon=b.readLine();
+swith (chon) {
+case "1!
+‘system.out.printIn("Nhap so sinh vien")5
+‘tam = b.readLine();
+n = Integer.parseInt (tam);
+
+ 
+
+ 
+
+ 
+
+ 
+
+Array = new int[n]3
+for(int i = @ 5 i < Array.length 5 i++)
+{
+SinhVien x = new SinhVien()5
+x.nhapDL() 5
+ds.add(x)5
++
+break;
+case "2!
+break;
+case "3
+
+ 
+
+  
+
+Writable SmartInsert | 35:18
+
+ 

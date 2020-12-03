@@ -1,0 +1,72 @@
+Hoatd6éng = Eclipse v aU RPS ry Tia Aa Dead
+
+     
+
+ 
+
+    
+
+   
+
+ 
+
+ 
+
+   
+
+    
+
+   
+
+e eclipse-workspace - DesignUI/src/solveSodoku/huubinh49/solveSudokuUI java - Eclipse IDE ae
+CC eee
+fe ean) Ce a a ee Od a .
+SP ene eee eer an
+ee SolveSudoku (Sudoku, O, Oj); ar]
+© s //Khii nhaén giai oo
+i Fa
+~ iam
+public void addControls()
+136 if
+ry 137 Container con= getContentPane();
+sists JPanel main = new JPanel();
+@ 13 con.add (main);
+Le // JB
+Giai= new JButton("Giai");
+re) main.add(Giai);
+a) ay =
+a DefaultTableModel ();
+. tbh= n JTable (dm) ;
+JScrollPane sctb= new JScrollPane (tb);
+at a sctb.setBounds (400, 100, 400, 400);
+Ae ee: erect Rep mR Clete acre sete OIF
+1a for(int i=0; i<9;i++)
+dip) if
+| sims) dm.addColumn (i);
+i for(int j=0; 4<9;j++)
+i Sudoku [i] [j]=0;
+i s.add("0");
+i } . :
+1 Rare) Sune oi) OF
+1 for(int i=0; 7
+iS if 5
+1 of
+
+ 
+
+fep=z- elias yerol
+S Sudo.add(tb);
+amor main.add (Sudo);
+
+   
+
+ 
+
+public static void showWindow(solveSudokuUI UI)
+
+ 
+
+Pet Sane 14135: 3094 f |
+
+ 
+

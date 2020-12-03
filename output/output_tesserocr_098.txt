@@ -1,0 +1,78 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    
+  
+
+ 
+
+ 
+
+DQ] <- Microsoft Visual Studio Quick Launch (Ctr!+Q) p- 28
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+©-o|®@-amw|9- > Local Windows Debugger - Auto ~ Debug - Win32 ~|| si, on > re |
+een + 9X tam giaedgml E
+@ 0-2ai o +p (Global Scope) ~ @ main(int argc, char * agrv{]) e
+- 1 Ei#include<iostream> Ez
+Search Solution Explorer (Ctsl;) 6 > Teinctudecnoch he =
+FH Solution 'e' (1 project) 3 | #includecstdio.h>
+4 Ble 4 using namespace stds
+DEG External Dependencies 5 Glint main(int argc, char * agrv[])
+4 &] Resource Files et .
+7 GRSEBREA Float a,b,c;
+ee 8 cout<<"tin tam giac\n"5
+4° Si] Source Files 9 cout<<"nhap a"; cin>>a;
+b+ Source.cpp 10 cout<<"\nnhap b"3 cin>>bs
+a2) | coutc<"\nnhap "3 cim>e3
+2 if (a!=0 && b!=0 && c!=0 && (atb>c) && (atcrb) && (b+c>a))
+B {
+4
+1s
+16 if ((ata + b*b ata) coutc<"tam giac vuong"s
+wv else if ((a*a + b*b ) || (b*b + c*c == a%a) 88 (1
+18 else coutc<"tam giac thuong";
+1 }
+20 else {coutc<"khong hop 1
+a system("paus:
+2 |}
+100% ~|4 »
+Error List vax
+Y ~ [© terror Search Error List a
+Description File = Line Project Column
+[1 Intelisense: invalid combination of type specifiers Source.cpp 7 < 2
+
+Solution Explo... | Class View | Property Man.
+
+Output
+
+ 
+
+Team Explorer Breakpoints| Error List
+
+saniadoig xogjoo, _s210jdhyg s90185

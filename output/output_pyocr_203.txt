@@ -1,0 +1,44 @@
+int n, x Za, 55 6 OF
+printf ("Nhap yao mot so: ");
+scanf("%td", &n);
+printf ("Tong cac so nguyen to nho hon n la: ")
+for(x=2; x < n; x++)
+if (KTSoNguyenTo (x)
+Sisk
+
+printf ("td\n", S)
+getch:();
+
+KTSoNguyenTo (int x)
+
+ 
+
+ 
+
+it i= 2;
+
+while (x
+
+1
+
+De ae
+return 1
+
+else
+
+ 
+
+return
+
+ae
+
+Srrrrrrty:
+¢ Bull log x | P Build messages a A copct "eek wm : 3
+
+Line Message
+
+=== Build finished: 0 error(s), 0 warning(s) (0 minute(s),
+
+ 
+
+“Windows (CR+LF)  WINDOWS-1252 _Line

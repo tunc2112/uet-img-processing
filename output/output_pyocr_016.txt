@@ -1,0 +1,37 @@
+Bs | File Edit Selection View Go Run Terminal Help index.html - lock - Visual Studio Code _
+ie} oto’ coe Na © indexhtml X © js-cb4f2895024df.html
+Pie cy [eres uke eos Re oat oMe aren au omene nmi a oR Am ea Rootes U Roma oe
+p aera a var coid="';var play_mode="true';var IMG_SERVER='"https://img.gamen.com';var IMG_PATH='/2018/201805/104/';var GA”
+Paes 2  js_ver='14110';var GAME_JS_PATH=JS_SERVER+'/game'+JS_PATH;var COMMON_JS_PATH=JS_SERVER+'/game/global';var RANK_¢
+go Pele ol 3. nickkey='user[nick]';function getLocalStorage(strKey,type) {if(typeof(localStorage)=='undefined'){alert("iAy 2
+a 4 function setLocalStorage(strKey,strVal,msg,gourl) {if(typeof(localStorage)=="undefined'){alert("SAl HetPAE 7
+ala 5 function confirmgo(msg,url,gotarget){if(confirm(msg)) {if(gotarget=='self'){location.href=url;}else if(gotarget=
+£ one 6 loaded(){window.scrollTo(@,1);} $.fn.digits=function(){return this.each(function(){$(this) .text($(this).text().r °
+| 9 prertaperatenem 7 expires="expires="+d.toGMTString() ; document .cookie=cname+"="+cvalue+"; “+expires;} gamen.setCookieAt@@=function( *
+] een 8 Date()) {expiredays=expiredays-1;} todayDate.setDate(todayDate. getDate()+expiredays) ;document . cookie=name+"="+e<
+Sear) er Fe
+Males eerie orl m e 10 <ca.length;i++) {var c=ca[i].trim();if(c.indexOf(name)==0)return c.substring(name.length,c.length);} return "";}
+Somneeainl ae */rankview/" ,success: function(data){$( ‘#ranking_modal').html(data.tag) ;$( ‘#ranking_modal'").show();}});} ge
+> mgamen.com sy "json", crossDomain: true, xhrFields:{withCredentials:true}, timeout: gamen.ajax_time,type: ‘post',data:{ "p": "i
+aN nee) o Be} "json", crossDomain: true, xhrFields:{withCredentials:true}, timeout: gamen.ajax_time,type: ‘post',data:{ "p": "i
+Sa Ae u ai *#guest_tmp_point').html(point) .digits();$( ‘#guest_tmp_point2"').html(point).digits();$( ‘#guest_play_contir
+> CEILS AUIERSEM ENS 15 gamen. loginAndPlay=function(){$( ‘#guest_play_continue_modal .modal_body').hide();$( ‘#guest_play_continue_n
+2 CNEL ; a) ){gamen.loginAndPlay();return;} $.ajax({dataType: “json”, crossDomain: true, xhrFields : {withCredentials:true},t
+aiemneladaiil a ) {$( '#guest_play_continue_modal') .hide();cash_modal_open();} else {gamen.gameplay_status=true;gamen.achiev
+One TEESE SES aE) *#loginmore_result').show();}}});} gamen.loginmore_close=function(){$( '#guest_play_continue_modal") .hide() ;
+Soa 19 "#guest_play_continue_modal').show();$( ‘#guest_play_continue_modal .modal_body').hide();$( '#loginmore_sigr
+mer cree tnt yX-) *" width="100%" height="100%" marginheight="0" marginwidth="@" scrolling="yes" frameborder="0"></iframe>' );}
+ya ‘<iframe src="https://ssl.gamen.com/login/?refer=playloginmore&onlymember='+gamen.onlymember+ ‘&goURL=" widt
+yes $( '#charge_modal').show();$( ‘#charge_modal .modal_body').hide();$( '#chargemore_layout').css({ "top": "@p>
+yee} "" width="100%" height="100%" marginheight="0" marginwidth="0" scrolling="yes" frameborder="0"></iframe>');}
+pL gamen.gameout=function(v, time) {document . location. href=gamen.gameouturl;} gamen.loadend=function(){$( “#intrc
+v3 {gamen.endJscall_status=true;var head=document.getElementsByTagName( ‘head')[@];var script=document.createE]
+26 *head')[@];var script=document.createElement( ‘script');script.type="text/javascript' ;script.src=JS_SERVER+
+ya “script');script.type='text/javascript' ;script.src=JS_SERVER+ '/js/idangerous.swiper-2.1.min.js‘;head.apper
+p23 */js/nateonShare. js‘ ;head.appendChild(script) ;window.___gcfg={lang: ‘en-US'};(function(){var po=document.cre
+(2) 29 head=document .getElementsByTagName( ‘head')[@];var script=document.createElement( ‘script');script.type='te>
+30 btnChangeNick=$( '#btn_change_nick');var change_modal=$( ‘#modal_nick_change');var change_request={ ‘nick’:
+$3 se *#btn_change_nick_cancle').unbind( ‘click').bind( ‘click',function(){change_modal.hide() ;});change_modal. fir
+yaournve EY) Seo OM a te aes ee Ee TU Ao Pe Se eR el Metal ea
+@eAi Ln 112, Col 59 Spaces:4 UTF-8 CRLF HTML & QQ
+ee oe LT aaa

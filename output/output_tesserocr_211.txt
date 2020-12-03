@@ -1,0 +1,46 @@
+File Edit Search View Project fxecute Tools AStyle
+
+Help.
+
+BOBS 68/ 8) --\GRimalaaio) jaomay)x\ ae) |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ath Compile Log | 4
+
+v|
+
+printf (
+
+printf( );
+fflush(stdin) ;
+gets(ts.hoten);
+
+printf ( );
+
+scanf ( ,&ts.toan);
+
+printf ( );
+
+scanf ( »ats.ly);
+
+printf ( );
+
+scanf ( ,&ts.hoa) ;
+ts.tong=ts.toantts.ly+ts. hoa;
+if(ts.tong>19) *ts.loai= i
+else *ts.loai=
+
+fwrite(&ts, cideotinet a fp);
+
+) Debug | [teh Find Result | Close

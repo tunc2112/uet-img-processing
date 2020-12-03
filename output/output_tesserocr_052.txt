@@ -1,0 +1,37 @@
+29] ProbiemOnstack - Microsoft Visual Studio BAG F cuicktaunch(ceisg) Px
+
+ 
+
+eae at i Ce ER Sy
+(ea Lina i ieee ccd Sa eR a (eae eee aod Le
+z eam att Era a Pees set oe teres
+ac coon) ae eee
+494, g } CCCs NIC ce Un oe ae a ae eae
+eerste ete Cee ne eee ey OR Came trai.) Peer saa re
+Cy Ea 3 eet aes ee
+rls Elint main() Press any key to close this window . . .
+497 rs 7
+ety | stack<int> sts
+499 H
+rd a TONED
+Eve a TOTES
+502 ! st. push(31);
+503 CE
+Ey a oe
+i) ee CE)
+Er B
+Ed MSc cst eC haeines ete Ua acu erinceta sean
+33) H
+509 I: while (!result.empty())
+510 }
+Cann H PSL SORE) © BS
+ESP) | | result. pop();
+513 1}
+ae y
+Es) ‘return @5 i
+Es } 2
+FE i
+
+ 
+
+rr aecaied

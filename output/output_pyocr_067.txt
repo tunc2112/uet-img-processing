@@ -1,0 +1,114 @@
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+SBA mMkXnalQAaroereen
+
+   
+
+ 
+
+ 
+
+ 
+
+| m*<| BA © b|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘#include <math.n> a“
+
+int main()
+«
+
+int n, x= 2, 8 = 0;
+
+Printf ("WRap vag mot so: ");
+
+scant ("sa") én);
+
+printf ("Tong gag so agRysR to akg hon n la: ");
+
+for(x=2; x <n; xt+)
+
+«
+
+if (KTSoNguyenTo (x) != 9)
+S t= x:
+
+»
+
+printf ("$d\n", 8);
+
+getch():
+
+ 
+
+ 
+
+int KTSoNguyenTo (int x)
+
+int i=
+while (x = i != 0)
+atte
+if( x == i)
+
+return 1;
+
+ 
+
+else
+return 0;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4) Ji Colertlods x) Qj Searchresits x) J}Cac Xx, © uldlog | Bukdmesoges | J} Cppcheck | Jj GopCheckmessges | J}Caope x G)cbugger | J) De b
+
+ 
+
+(0 error(s), 0 varning(s) (0 minute(s), 7 second(s)) a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E:\SOFT\14124321_TRAN HAl DUONG\TUANOS\tong cac so nguyen to nho hon n.c Windows (CR+LF)  WINDOWS-1252, Line 3, Column 34 Insert Modified Read/Write default =

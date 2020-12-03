@@ -1,0 +1,135 @@
+ 
+
+Project2 (Running) - Microsoft Visual Studio
+File Edit View Project Build Debug Team Tools
+o- 2 kad a
+Process: [16120] Project2.exe .
+
+Source.cpp # X
+I Project
+
+using namespace std;
+const int ID = 123;
+const int password = 123456;
+Sint main()
+t
+int IDe, passworde;
+= do
+t
+
+]
+|
+|
+1 cout <<
+cin >> IDe;
+cout << 3
+1 cin >> passworde;
+if ((IDe != ID) || (passworde
+| {
+cout <<
+1 ,
+| *
+while (IDe
+| cout <<
+1 system(
+
+ID || passworde
+<< endl;
+
+ds
+
+Locals Watch 1
+
+Test Analyze
+
+password))
+
+<< endl;
+
+password);
+
+Window
+
+Hell
+
+B
+
+(Global
+
+p
+2 und
+
+%
+
+H! C\Users\vcuon\Desktop\c+ +\Project2\Debug\Project2.exe
+
+Enter ID: 1:
+
+ie a EC elae
+Soeeeecuree)
+
+Enter ID: 1:
+
+eae ela
+Neceeeeetees sheet
+eam COOL LT
+
+Show output from: Debug
+243.269 ‘Project2.exe
+143.269 ‘Project2.
+143.269 ‘Project2.
+143.269 ‘Project2.
+143.269 ‘Project2.
+143.269 ‘Project2.
+
+exe
+exe
+exe
+
+elcome ris
+
+aaa
+
+(Win32):
+(Win32):
+(Win32):
+(Win32):
+(Win32):
+(Win32):
+
+e
+vcuong0909 ~
+
+x
+
+ 
+
+a
+
+=) @ Application Insights ~ —
+
+Peeve ROLL Maer ole be Rey
+
+ 
+
+ita
+
+Cannot ind or open the PUS file
+Windows \syswow64\kerne132.d11". Cannot find or open the PDB file.
+
+“C:\Windows\syswow64\KernelBase.dll*. Cannot find or open the PDB file.
+
+. Windows \syswow64\vcruntime14@d.d1l*. Cannot find or open the PDB fil:
+
+“C:\Windows\syswow64\msvcp14@d.d11". Cannot find or open the PDB file.
+
+. Windows \syswow64\ucrtbased.d1l*. Cannot find or open the PDB file.
+
+:\Windows\syswow64\ntdll.dLt*.
+
+Exception Settings Command Window Immediate Window feMiug
+
+nea
+ETP)
+
+ 

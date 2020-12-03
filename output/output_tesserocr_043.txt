@@ -1,0 +1,67 @@
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[GY C:\xampp\htdocs\test2\index.php - Notepad++ x
+Tgp Chinhsia Jim Xem Mahéa Ngénngi Thiétlap Tools Macro Chay Plugins Ciasé 2 x
+sSH GRR 8/4 Gace #42 2/BR/51FaGAae|seoae
+Doc 21) Signin php |B SonUp php | Bal TrangChu php | Bl Excel php | Bl Suaphp | BBlXoaphp | BA Nhaptt ehp | BalConnect php | BAIPHPExcel php | Bllnew tehp | lbody.css [lindexehp |BHOKphp |
+Name 73
+=
+ne 92 <!-- ‘start thyc hién kiém tra d& 1iéu nguéi ding nhap 6 form ding nhap' -->
+Exc | 93 i <?php
+Bue | 94 4 if (isset($_POST["dangnhap"])) {
+Eixo | 95 $tk = $_POST["user_name_lg"];
+a 96 $mk = $_POST["passlg"];
+Bpxee| 97 $sqll = "select * from devpro where user_name = '$tk' and password = '$mk'";
+Brews] 98 $rows = sqlsrv_query($conn, $sqll);
+Bibody | 99 $count = sqlsrv_num_rows ($rows) ;
+ares 100 if (Scount==1) {
+101 $_SESSION["loged"] = true;
+102 header ("location: index.php") ;
+103 setcookie("success", "Ding nhap thanh céng!", time()+1, " 0):
+104 }
+105 B else{
+106 die( print_r( sqlsrv_errors(), true));
+107 header ("location: index.php") ;
+108 setcookie("error", "Dang nhap khong thanh céng!", time()+1, " 0):
+109 | // die( print_r( sqlsrv_errors(), true));
+110 }
+111
+112 }
+113 2>
+114 <!-- ‘end thyc hién kiém tra d@ liéu nguéi dang nhap 6 form d&ng nhap' -->
+< > a 15 > ’
+PHP Hypertert Preprocessor file tength: 4.758 fines: 150 Col:46 Sel: 0/0 Windows (CRLF) UTE INS
+
+ 
+
+ 

@@ -1,0 +1,69 @@
+£29) Project - Microsoft Visual Studio PIR] F auicktaunch (cei)
+en ee ene
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+       
+
+ 
+
+   
+
+   
+
+ 
+
+   
+
+   
+
+ 
+
+~O|@-Sbu) 9 -C-| [debug -| {x86 =| D Local Windows Debugger ~ | Auto ~|| Mets a .
+Secrenei ~ ax oe
+@a- ©-S ao F-| ExProject5 ~[__ Global Scope) =] main 13
+Search Solution Explorer (Ctl) Po wm. a
+122 Glint main() e
+Fil Solution ‘Projects’ (1 project) 123 {
+4 Projects 124 List As gi
+> em References 125 CreateList(a)s AnConTro()s
+> i External Dependencies 225 while (1)
+Header Files 127 { .
+Sesect 129 cout << setw(88) << "(\\__/) MENU SINH VIEN = ON _/)\n"5 1
+ee ance 13e cout << setw(88) << "(>'.*<) Or \n
+b+ Source.cpp 131 cout << setw(83) O_O") MENU CHINH LO" )\n" 5 a
+132 cout << setw(74)
+= 133 inMlenu(Menutlain, 1, sizeMfain, 40); I
+134 cout << endl << setw(73) < q
+235 n= Choice(Henutiain, 1, sizeMain, 40)s :
+136 if (n == 1) Memul()3
+137 if (n == 2) 7
+138 {
+rer system(“cls") HienConTro()s
+weg while (2)
+aan {
+142 PrintFile((char*)"Sinhvien.dat", A)s setColor(4)s
+13 cout << “nhan backspace de quay ve menu chinh "s
+aa cout << setColor(15); ~
+100% | 4 — ° »
+Error List vax
+Entire Solution - A 5 Warnings | @ 0 Messages Build + IntelliSense - ‘Search Error List aP-
+Code Description Project File Lim
+(C4091 ‘typedef’: ignored on left of ‘Sinhvien’ when no variable is declared Project ‘source.cpp 6
+“A. C4091 "typedef ‘ignored on left of ‘Node’ when no variable is declared ProjectS source.cpp 2
+| C4091 typedef ‘ignored on left of ‘List’ when no variable is declared ProjectS source.cpp 2
+2664 ‘void inMenu(char*[] int, int,int)': cannot convert argument 1 from ‘const char *[6]' to ‘char “[]' source.cpp 133
+S
+(3 2564 ‘int Choice(char “[.int.int,int)’: cannot convert argument 1 from ‘const char “[6]' to ‘char *[]' Project ‘source.cpp 135
+
+Solution Expl | Class View Property Man... Team Explorer ¢ >

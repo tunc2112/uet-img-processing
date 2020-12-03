@@ -1,0 +1,126 @@
+tie me Bix|o
+“4p Debug. Project Explorer
+1 BanHangOniine EAP
+1G BanHangOniine EB
+1G BanHangOnline WEB
+v $3 Demo
+Referenced Types
+Deployment Descriptor: Demo
+22 IAK-WS Web Services
+\ 2 Java Resources
+vg sre
+
+JB connection
+
+BME
+
+ 
+
+G eclipse-workspace - Demo/src/impls/Facadelmpl.java - Eclipse IDE
+File Edit Source Refactor Navigate Search Project Pydev Run Window Help
+
+ 
+
+Rim Sig, O-
+
+evra
+
+import
+import
+import
+
+import
+import
+9 import
+
+ 
+
+11 public
+
+[D) FacadeRemotejava
+
+    
+ 
+
+Qa-Qisav-'®? @id
+B Facadelmpljava 22 | [2] Dangky,jsp
+
+ 
+
+Bir Ble Ber orl
+
+BD Dangkyjava {3 ConnectSQLjava
+
+1 package impls;
+java.sql.connections
+Java. sql.Preparedstatements
+Java. sql SQLException;
+
+connection.ConnectSQL;
+entities. KhachHangs
+services.FacadeRemote;
+
+class FacadeImpl implements FacadeRemote {
+
+BD ConnectSQL java 13> public FacadeImpl() {
+Bi entities Gis 7/ TODO Auto-generated constructor stub
+‘vB impls pS +
+16
+-Disaiies H72 — @override
+Q Facadeimpl 18 public boolean dangky(KhachHang kh) throws SQLException {
+BB services a9 Connection con = new ConnectSQL().getConnection()3
+Uf FacadeRemotejava a values| ys
+BB servlet
+| 22
+By Dang ve 3 trv ¢
+¥ i Libraries 2a
+Bi Apache Tomcat v8.5 [Apache Tomeat v8.5] 25 pstm.setString(1, kh.getHoten())5
+i JRE System Library [Jav2SE-12] 26 pstm.setString(2, kh.getSdt());
+Ik Referenced Liteanes 27 pstm.setstring(3, kh-getemail());
+mh ontewt he Be pstm.setString(4, kh.getacc())s
+ipt Resources 29 pstm.setString(5, kh.getPass())5
+i Referenced Libraries 50 return pstm.executelpdate() > 23
+& build Bl } catch (SQLException e) {
+v & WebContent B2 e.printstackTrace()3
+& img a 3 earn Fal
+Ba return false;
+& METALINE a}
+& WEB-INF 36
+37° public static void main(String[] args) throws SQLException {
+38 KhachHiang kh = new KhachHang("Que”, "123", "ASD", “aaa”, "aaa";
+39 new FacadeImpl().dangky (kh);
+4
+a1
+42
+43}
+
+Console 23 {%) Probles
+
+‘Tomcat v8.5 Se
+ser
+
+  
+
+ 
+
+(i) Debug Shell 4 Servers
+
+rver at localhost [Apache Tomcat] C:\Users\Admin\Downloads\eclipse\re\bin\javaw.exe (Jun 25, 2020, 5:25:47 PM)
+
+‘vlet.service() for servlet [serviet-Dangky] in context with path [/Deno] threw exception
+
+java. lang.NullPointerexception
+
+at
+at
+
+‘impls.FacadeImpl. dangky (FacadeImpl.java:21)
+servlet .Dangky .doGet (Dangky. java:39)
+
+at javax. servlet. http.HttpServet. service (HttpServlet. java:634)
+at javax. servlet. http.HttpServlet. service (Httpservlet. java:741)
+
+at org-apache. catalina. core.ApplicationFilterChain. internalDoFilter (ApplicationFilterChain. java:231)
+at org-apache. catalina. core.ApplicationFilterChain.doFilter (ApplicationFilterChain. java:166)
+
+at_org-apache. tomcat .websocket.server.WsFilter.doFilter (WWsFilter. java:52)

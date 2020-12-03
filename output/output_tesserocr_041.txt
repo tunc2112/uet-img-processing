@@ -1,0 +1,52 @@
+ommnd Tea AOD ag
+
+1 -lude <stdio.h>
+
+2
+
+3} »id number();
+
+v
+
+5 int main() {
+
+6 aie abe
+
+7 for (i = 12; i> rf
+
+ts} number ();
+
+ss) i
+
+10 printfC"Your number %d \n", i);
+|
+
+12 eturn 0:
+
+13 }
+
+14
+
+15 void WET sI=I) {
+
+16 C oe 010) ee Oe
+
+17 ere ie miret. Pom aneraee a1611D ie
+18 num--;
+
+inode
+
+SO vetieett L]
+Hello number 10
+
+Hello number 9
+
+Hello number 8
+
+Hello number 7
+
+Hello number 6
+
+Hello number 5
+
+Your number 6 vi

@@ -1,0 +1,88 @@
+DJ File Edit View Project Build Debug Test Analyze Tools Extensions Window Help _ Search Visual Studio (Ctrl+Q) P| WindowsFormsApptt
+
+@- 0) eo bee | D ~~) Debug ~ Anycru > D> Stat~| pf 2 tS CE] nm :
+
+   
+
+ 
+
+ 
+
+[| WindowsFormsApp11 >| WindowsFormsApp11.Form1 +) @5 TreViewO
+8 using System.Text;
+9 using System. Threading. Tasks;
+10 using System.Windows. Forms;
+1
+12 Einamespace WindowsFormsApp11
+2B {
+
+ 
+
+‘3 references
+public partial class Forml : Form
+
+{
+
+wa oo
+15
+16 | string path = @"C:
+Lreference
+
+7 oe public Form1()
+18
+19
+20
+
+21
+
+TreView();
+
+reference
+
+void TreView()
+23
+24
+25
+26
+27
+28
+29
+
+TreeNode tree = new TreeNode() { Text = "Hoang" };
+TreeNode node = new TreeNode() { Text = "Child" };
+
+TV1.Nodes .Add(tree);
+
+reference
+void Loaddisk(TreeNode root)
+
+ 
+
+22 fat
+
+< >? fy
+
+ 
+
+ 
+
+Entire Solution > || Errors || & Oof1Waming | @ 0of2Messages | *y|| Build + Intellisense Search Error List
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Code Description « Line Suppression St... Y
+
+era B
+EW PE) 1
+
+ 

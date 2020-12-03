@@ -1,0 +1,84 @@
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+    
+    
+   
+ 
+    
+
+ 
+
+ 
+
+#include <iostream>
+
+int main(){
+
+float 4; 6, c, max:
+Std: tcoupess *
+
+Std: :cin => a>
+
+Std: icout <<
+
+Std: icin >> b:
+Std:iicout <<
+
+Std: :cin >> c:
+
+float p=atpbic:
+Std::cout << "Tr
+float s=a*b*¢;
+Std::cout <<
+
+float Pe Sila tb tic 173
+Std:icout <<
+Max = a:
+
+if (max < by ¢
+Max =,b;
+
+if(max < ic
+
+MAO .c';
+
++
+
+Stditcour <<
+SYStem("Pauee") +
+
+return 6;
+
+(New ta] Insert Bl Toagle Goto |
+
+T1P2_LeQuancvinh_GK.opp |
+
+ 
+
+-
+
+oH
+
+ 
+
+ 
+
+Sees td: end 5
+
+Seem | Std: end:
+
+»
+
+<< tie |Staint end -
+
+Se | MA | can Std: tendi;

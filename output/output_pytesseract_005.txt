@@ -1,0 +1,16 @@
+eselect clb.MACLB, clb.TENCLB, svd.TENSAN, svd.DIACHI, COUNT(ct.MACT) soluongcauthunuocngoai
+(CAUTHU ct Inner join QUOCGIA gg on qg.MAQG=ct .MAQG)
+
+from CAULACBO clb, SANVD svd,
+where qg.TENQG!=N'Viét Nam"
+and ct.MACLB=clb.MACLB
+
+and svd.MASAN=clb.MASAN
+Group by clb.TENCLB having COUNT(ct.MACT)>2
+
+the se an aggregate funct
+
+246977+07:00
+
+ 
+

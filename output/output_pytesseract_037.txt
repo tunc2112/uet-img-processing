@@ -1,0 +1,142 @@
+ee
+eT
+e-
+
+Ee
+Cea
+
+dy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+Debugging) - Microsoft Visual Studio
+View Project Build Debug Team Tools Test Analyze Window Help
+GQmauw 9-¢c- Lect eae ed 298 a ae
+Fell eMac Red
+Sais 1: ze
+Rem Per RSC ee cee
+F Wetec ue our os) x
+eta eee ee UN oe em acura ey
+system.Reflection.Assembly myAssembly = Syste occurred in System.Drawing.dll
+fehreadLst] = new MyThread[26];
+ime a5 Pee een Rm ee Roms
+ae Une ued Tae Tater athe
+cited iiressa Ree LE
+an ast
+CR eae e ToD)
+for (cot = 0; cot < xMax; cot++) mutList[
+ie aos ane AU ee oa
+Cae aE Rae TEE CoD)
+it 3 Pee errr?
+fehreadist[i] = new MyThread(rnd, xMax, yM
+eee iene s eee oer es eee | Ban UR Ue ks aR UNL)
+(char)(i + 65); Xo Les
+Boa UE At eee lance Sens
+OS gee ee ee Seen
+aes ea ec er Lr
+eee ea eee
++
+(obese. Be S61 OLE er Rae)
+ea Rete hk Ea
+BP. ceS Cees UE HET
+a
+Deena Rao) chan
+Coc
+© void Form1_KeyDown(object sender, KeyEventArgs e)
+t
+eto ae Cea reg aaa
+int newch = e.KeyValue;
+if (newch < @x41 || newch > @x5a) return;
+pe Pretty Pee SS pean ES
+if (e.Control && e.Shift)
+iC
+Sameer erate?
+eggee ets Masts ee eet
+
+ 
+
+ 
+
+iCnees
+
+ 
+
+ 
+
+eae
+
+Col 17
+
+ronra
+
+amet aera
+
+Mq
+
+Meer oye ms ut)
+
+Ns
+
+(Ctrl+Q)
+
+Pe
+
+= es
+Ce
+nan)
+
+ae
+0
+
+as
+
+3
+8
+
+.
+
+Py
+
+.
+
+.
+
+a
+Ctl canes
+

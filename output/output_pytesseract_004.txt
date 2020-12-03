@@ -1,0 +1,36 @@
+ 
+
+using namespace std;
+ong long [100];
+
+char Fibo(int n,long long k){
+) return
+
+ 
+
+) return *2°5
+[n-2]) return Fibo(n-2,k);
+return Fibo(n-1,k-F[n-2]);
+
+ 
+
+int main(){
+
+ 
+
+for(int in3;i<93;i++)
+
+ 
+
+ 
+
+FLi]=#[i-1]+[4-215
+int ts
+cinsoty
+uhide(t--){
+int ny
+ong long ks
+cinsomoks
+cout<Fibo(n,k)<cendl;
+y
+

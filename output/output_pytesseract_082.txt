@@ -1,0 +1,99 @@
+OQ) <- Microsoft Visual Studio Quick Launch (Ctrl+Q) p- @ x
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+o-o @- aay > Local Windows Debugger ~ Auto ~ Debug ~ Wing? ~ | Mion ~ <>
+
+ 
+
+Solution Explorer + 1X tam giacdgm! Sourcecpp # X
+
+@ e-2ed@ o sip (Global Scope) + © mainiint argc, char" agrv{])
+Ei#includeciostream>
+#includecmath.h>
+fi Solution ‘c’ (1 project) #include<stdio.h>
+4 le using namespace std;
+DZ External Dependencies Flint main(int argc, char * ogrv[])
+
+4 Resource Files {
+ae a unsigned double a,b,c3
+ere cout<<*tim tam giac\n";
+cout<<"nhap a"; cind>as
+> Sourcecpp cout« cin>>bs
+cout« cin>>cs
+cout<<"tim loai tam giac";
+if (a!=0 && bl=0 88 c!=0 && (atb>c) 8& (atc>b) BB (b4c>a))
+{
+
+ 
+
+ 
+
+ 
+
+ 
+
+bob
+
+sapiadoig xogjoo, s2.ojdyg s90185
+
+Search Solution Explorer (Cts) e-
+
+   
+
+cout<<"tam giac can";
+) cout<<"tam giac deu";
+
+*c) || (ata + etc = b*b) || (b*b + cc = ata)) cout<<"tam giac vuong"s
+
+) I] (aa + cfc = b*D) BB (axsc) || (b*b + c*C == ata) 8B (
+
+  
+
+else if (ata + b*b
+else if (ata + b*b = c¥c) && (a
+else cout<<"tam giac thuong"s
+
+ 
+
+   
+
+c)) couts<"tam
+
+   
+
+else {couts<"khong hop 1
+system("pause");
+
+   
+
++
+
+10% - 4 »
+
+Y = [€ 3Errors | [8 1 Warning Search Error List a
+Description File a Line Project Column
+2 error C2106: =": left operand must be I-value source.cpp 7 c
+3. error C2106: =": left operand must be F-value source.cpp 18 c
+4 1 waring C4076: ‘unsigned’: can not be used with type ‘double’ source.cpp 7 c
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REE ee Sourcecpp i Ei
+
+Solution Explo... Class View Property Man... Team Explorer Breakpoints Error List
+
+Output
+
+ 
+

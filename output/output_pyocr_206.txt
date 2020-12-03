@@ -1,0 +1,10 @@
+Y= input('Enter a word: ‘)
+y 5 |
+
+at ae
+while X t= ¥s
+4# Z <a TT:
+¥ = input('Enter a word:
+zz2Z+i
+( else_print('You Lost")
+else: print('You won')

@@ -1,0 +1,65 @@
+on00<PP
+
+ 
+
+Finclude<bits/stde++.n>
+using namespace std;
+long long a[19000] ;
+int n,4;
+
+long long M;
+
+bool KTNT(1ong long n)
+
+4
+
+if (n<2) return false;
+
+9 for(int i=2; icssqrt(n); i++)
+
+ 
+
+ 
+
+   
+
+  
+
+ 
+
+ 
+
+ao || izinsieno) return faise:
+a1 || return true:
+
+vz [ly
+
+13 int main()
+
+a Et
+
+15] ctmou
+
+16 a(il=1; a[2]
+
+u :
+
+ae || wniteratsi<m
+
+a Et
+
+20] ass
+
+2a |) atsi=(ate-21)+(as-21);
+22
+
+23 nt
+
+24 || white (snwr(atn]) — faise)
+2s |) a
+
+an een
+
+27 | return 0;
+
+ze 3

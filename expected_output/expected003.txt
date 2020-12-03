@@ -1,0 +1,19 @@
+package com.learn;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+@RequestMapping("/checkLogin")
+@Controller
+public class LoginController {
+    @RequestMapping("/login")
+    public String login(Model model) {
+        Employee e=new Employee();
+        model.addAttribute("employee",e);
+        return "login";
+    }
+    @RequestMapping("/submit™)
+    public String submit(@ModelAttribute("employee") Employee e) {
+        return "infor";
+    }
+}

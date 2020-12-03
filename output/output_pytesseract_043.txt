@@ -1,0 +1,94 @@
+[Lif C:\campp\htdocs\test2\index.php - Notepad++
+
+3
+
+Doc... xi]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+Bsignir
+asignu
+EXtang
+Bixee!
+sua
+Eixca
+ENhap
+conn
+ESPHPE:
+newt
+EAbody
+Blindex
+ok
+
+<>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+  
+  
+
+ 
+
+    
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+x
+Tp Chinhsta Tim Xem Maha Ngénngi Thiétlp Tools Macro Chay Plugins Ciasd 2 x
+35 Bl Dlac|*#*®4s/RBB|s 1BAae|a
+HaSoninohe | Sone. chp |B Trenachu phe | Excel oho | Suschp | x03 php | Nhapt che | Connect. oho |B PHPE%celohp | new 1.php | ilbody css ejindexphp |B OK cho |
+<!-- ‘start thuc hién kiém tra d& liéu nguéi ding nhap 6 form dang nhap' -->
+<?php
+if (isset ($_POST[
+Stk =
+smk =
+$sqll select * from devpro '$mk'";
+$rows = sqlsrv_query($conn, $sqll);
+Scount = sqlsrv_num rows (Srows);
+i € (Scount==1) {
+$_SESSION["
+header ("1
+setcookie ( Ne
+}
+else{
+die( print_r( sqlsrv_errors(),
+header ("locati Ey
+setcookie ("error", g i", Ode
+die( print_r( sqlsrv_errors(),
+}
+112 }
+113 2>
+114 <!-- ‘end thyc hién kiém tra d& liéu nguéi ding nhap 6 form d&ng nhap' —->
+« a > iy
+PHP Hypertext Preprocessorfile Tength 4738 fines: 150 1n:98 Col:46 Sel:0|0 Windows (CRLA_UTF-8 INS
+
+ 
+

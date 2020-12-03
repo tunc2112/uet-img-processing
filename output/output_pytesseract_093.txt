@@ -1,0 +1,90 @@
+se ed Prema er EST kaetd - a a4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ia} ae eT a or oh i loners Pa Pmt)
+Auta Cc cc> @ maind :
+
+ve) 1 #include <stdio.h> .
+
+int main () |
+
+> i
+
+char c3
+
+printf("Nhap ky tu: ");
+c = getchar();
+printf("Ky tu vua nhap:
+putchar(c);
+
+fx-nae lel C2)
+
+ 
+
+3
+Do.
+
+ 
+
+ 
+
+ 
+
+   
+
+Val
+O©ANAUBWHDN
+
+ 
+
+aT et]
+
+ 
+
+ray
+®
+=
+
+ 
+
+ 
+
+Rented
+
+eee cee Be ee?
+
+ 
+
+ 
+
+eee eae Roo ean ce eet) Pen rege atest)
+Penta b bet anos CRMec Leu caer ce eC
+
+CoN seen) cer) coe eRe Cee cee eae ad ee) OR a cee tener ee aod
+pee een eage as Qe rae to ae eee ee ane e ce se ae Ee ee ene a ce eee
+he Ce oecage peak a ee een ae eum Cee Name Ni cA ee ne cee ec
+
+   
+
+      
+
+@
+
+:\Users\tamtu\Desktop\c> & ‘c:\Users\tamtu\.vscode\extensions \ms-vscode. cpptools-@.29.@\debugAdapters\bin\WindowsDebuglauncher .ex
+pee Ue egeag ee a Gece eee ee Canes ace ste eer Oa ee ence ce ec ae ay
+eRe een ag et eee ena Ce Sek a Rt emo) mee Lc on sh eae ea
+
+     
+
+ 
+
+Rani Eee eee eae ea
+a ec as
+

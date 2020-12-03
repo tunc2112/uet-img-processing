@@ -1,0 +1,43 @@
+public partial class frmPhieutuaHang Xtral
+
+t
+
+ 
+
+public HangHoa_DTO hangHoa;
+HangHoa_BUS hh = new HangHoa_SUS()3
+public frmPhieuttuaHang()
+
+t
+}
+
+InitializeComponent();
+
+private void frmPhieuMluaHang_Load(object sender,
+
+t
+
+ 
+
+cbBMaHang.DataSource = hh.LayDanhSach();
+cbBMaHang.Valuetlember = "Mali";
+cbBtMaHang.SelectedIndex = -13
+
+  
+
++
+
+private void theml_Click(object sender, Even
+
+t
+}
+
+ 
+
+private void cbBMaHang_SelectedIndexchanged(object sender, Eventargs e)
+
+t
+}
+
+//8inh Khong bit Lam nhu mio & phan nay]
+

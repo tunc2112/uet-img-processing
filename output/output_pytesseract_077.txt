@@ -1,0 +1,78 @@
+ 
+
+eer a
+Tee ee
+Creve PaaS MeO CER
+
+   
+
+ry
+aC
+Cea
+7 int i - 0;
+Ey
+cy
+
+ 
+
+ 
+
+printf("Nhap khoa k: k = ");
+
+  
+
+ 
+
+ea MeL
+CRUE Car)
+21 printf("Nhap chuoi can ma hoa:
+SV ee)
+13° printf("Chieu dai cua chuoi can ma hoa la: %d\n",strlen(a));
+ae (Clea ean)
+cL an
+BT (k<strlen(a))
+cv rf
+cr a[i]-ali]+k;
+19 ins;
+20 }
+Pa (kostrlen(a))
+Py] rf
+23 (kestrlen(a)) k-k-strlen(a);
+2 a[i]-ali]+k;
+PL) ins;
+P13 }
+27)| }
+28 — printf("Chuoi sau khi duoc ma hoa la: %s",a)3
+29 CH
+Ee)
+31
+
+Neen eae ae)
+
+p
+
+   
+
+aa Yet ee xc)
+
+Py)
+Peers
+
+ 
+
+iat
+Df
+[3
+i)
+f)
+
+)
+%
+)
+
+ 
+
+8 B20 Genco
+
+ 
+

@@ -1,0 +1,87 @@
+ 
+
+_ ii
+
+ial Execute. Debs CVS Window
+
+ 
+
+\al|+-\|RRS)ellaaio
+® | (New i] Insert i Toaale Wj Goto
+sf
+
+T1P2_LeQuang¥inh_GK1.cpp |
+
+ 
+
+le
+
+#include <iostream>
+
+ 
+
+int main(){
+
+float a, B, c, max;
+Std: :coutbe<< "Nhap
+
+ 
+
+  
+
+SO: Aa:
+Std: lcinws a:
+Std: :cout << "Nhap vao so b: ce
+std: 'cig => b:
+Std: icout << "Nhap vao so @: ™:
+
+Std: icin S> c:
+
+float p =a +b + c;
+Stdiicout << "Tong p
+float s=a*b*¢;
+
+     
+
+S/5aa, b, ia: ™
+
+Std: icome ae) " T
+float pe
+
+ 
+
+ 
+
+Maeetbt+c )/3: 2
+Std: ieomeE ge " 7 Eig aa
+
+7 2 2 cua a de
+max = a;
+
+ 
+
+if(max < by ¢
+Max = b;
+if (max < ei).
+Max = c;
+}
+
+Stdiicour << " 55
+System("Pauee") ;
+return 6;
+
+ 
+
+Resources ih Compile Lag f Debug | [a Find Results
+sert :
+
+ 
+
+Sees | Std: send;
+
+fees std: :end1:
+
+t << std::endl;
+
+<< stdi:endi;
+

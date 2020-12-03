@@ -1,0 +1,89 @@
+ 
+
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] - ..\app\src\main\java\com\example\kavechua\doctruyen\Man3,java - Android Studio 22.1
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+     
+
+ 
+
+   
+
+   
+
+  
+
+   
+  
+
+    
+
+   
+
+ 
+
+ 
+
+   
+
+ow ® Goa ¢ A (Go =) b B & |? 4
+Doctruyen Cuapp [isc Eimain [ijava Elcom Elexample Eikavecua [i docruyen © Man3
+Android : © & | He I+ | © Man2Actityjava x | © Men3jeva x | © Ttemjava x | [Bi manda! x ieee
+€ & Dimanifests &
+Beaten import
+© E com.example.kavechua.dectruyen
+re oy cient, public class Man3 extends Activity
+a a tan implenents View.OnClickListener {
+& So ene TextView tv, tv:
+is BD a imaiieciony Button bt_backkk;
+© w Man3
+£8 [E51 com example. kavechua. dectruyen st protected void onCreate (Bundle savedInstancestate) {
+2 £8 [E] com. example. kavechua. dectruyen super.onCreate (savedInstancestate) +
+& & Pares setContentView(R.layout.man3) ;
+2 cB 5 drawable tv = (TextView) findViewByld(R.id. textView) :
+3 Elayout tv2 = (TextView) findViewByld(R.id. textView2):
+iS activity_main xml bt_backkk = (Button) findViewByld(R.id.bt_backkk)
+i actvity_main2.2ml bt_backkk. setOnClickLi stener ( (View. Onc: this);
+item ad Intent a = getIntent();
+i man3. xl String nt = a.getStringfetra("2");
+GE mipmap tvesetText (nt)
+aE vehes 8
+68 @ Grade Scripts String dates
+StringBuffer sbuffer = new StringBuffer ();
+InputStream is = this.getResources () .cpenRawResource (R.rawa)?
+2 BufferedReader reader = new BufferedReader (new InputStreamReader(is));
+8 if (is '= mull) [
+3 try {
+$ while ((dataA = reader.readLine()) != null) {
+sbuffer.append(dataA + "n")
+} *
+4 tv2.serTent (sbustex) z
+5 is.close(); g
+eh } catch (Exception e) { z
+
+e.printStackTrace ()
+
+1
+
+  
+
+EventLog [| Gradle Console
+
+@To0o
+Li cradle build frshed in 18 967ms (18 minutes ago)
+
+om @
+
+Android Monitor [&] Terminal 0: Messages
+
+ 
+
+Dachars 30:35 CRIES UTF-8? Context: <nocontet> —& @
+aD
+
+ 
+
+re
+
+         
+

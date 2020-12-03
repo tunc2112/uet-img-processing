@@ -1,0 +1,103 @@
+ 
+
+see Ore Cee sinnViendge, dlp aa = ° om Gal
+
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+a. @ 'Gixit-O-@-Q- if 6G i869: 'PBe Bem H- H-ee-o- Quick Access| ‘| aS | 99
+(2) SinhVienjava 82 | 2) Thianhjava sels
+2 |e ES ea oan SE Saat a TSE =
+
+& BufferedReader b new BufferedReader(r); a
+
+63 systen.out.printIn("nhap na so sinh vien “); @
+
+4 String tan = b-readLine(); B
+
+6 this mosv-Integer.parseInt(tam)s
+
+66 System.out.println("nhap ho ten sinh vien “)5 a
+
+& this hoTensb-readLine()s S
+
+6 systen.out-printIn("ahap gioi tinh “)s
+
+6 fansb.readtine()s
+
+7@ this. gioiTinh=Boolean.parseBoolean(tam); eS
+
+n systen-out.printin("nhep so dien thoal sinh vien “); a
+
+2 this. sodt=b.readLine()s
+
+3 systen.out.printIn("nhap dien TK sinh vien ”
+
+74 tansb.readtine()s
+
+75 ‘this. dient k=Double.parseDoubLe(ton)
+
+% OD
+
+772 public String xepLoai()
+
+mf
+
+73 string ka;
+
+30
+
+a
+
+32 else if(this-dientk<6)
+
+33 kqe"T8"3
+
+34 else iF(this.dientk<s)
+
+35 kge"kha"s
+
+36 else
+
+37 qo" gio F
+
+38 return kas
+
+3}
+
+50° public Boolean datYeucau()
+
+af
+
+22 return this.dienTkos;
+
+3}
+
+s4© public String thongTin()
+
+3 f
+
+36 systen.out.printIn(“ma sinh vien: “#this.masv)3
+
+27 systen.outprintIn(*ho ten sinh vien: "this hoTen);
+
+33 systen,outprintIn(“gioi tinh sinh vien? “+(this.gioiTinh?"nu":"nan"));
+
+Writable Smartinsert | 61:64
+
+ 

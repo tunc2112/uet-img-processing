@@ -1,0 +1,93 @@
+ 
+
+19%
+
+Deets
+
+eres
+
+eters
+
+ 
+
+dajs
+
+ 
+
+import { Card } from ‘react-native-paper ;
+
+function FirstComponent(){
+
+ 
+
+cond
+
+ 
+
+KH
+
+Paes Me Od ey Web | Gi
+
+DR re ns
+
+CO qaeezarsm Peer Preteen tae ae
+<View> BTR Core ee
+eens Pe Crom SECM SC MERTArs cd
+</View>
+ae 3 pee a)
+
+Pes
+
+ 
+
++
+
+export default function App() ff
+
+ 
+
+ce
+Pe arises
+coerce One
+
+es Lot dOk@ > 21 | render(){
+i return ( A
+Peers Reeraag Ce esaCemc ier aes cre
+by READMEmd Paap Ce sg ee ra em Seer Sarees Pome Co
+ae <TextInput placeholder="some thing “ /> {styles.container}>
+Pe sense ea ee pra) ep
+: FOoptee aed
+LL Go Perron et Maya rests
+" oF ree pT a
+fl eee Pt
+i
+
+COR BON Sed erences)
+
+const styles = StyleSheet.create({
+rerun
+caro
+Bes tae ease
+PEL cru ac Pmecnee ne meeteeriat
+
+ 
+
+ 
+
+Error: /Appjs: Unexpected token,
+rec aE)
+
+ 
+
+Pom) Prettier {} Editor ©! Expo v39.0.0¥ Devices Preview @
+
+CPuhereeOouepaegiir
+
+aid
+
+ 
+
+ramerr
+ee
+
+ 

@@ -1,0 +1,36 @@
+[alma m@acalaaliscy igs
+
+en, x = 2, 5S = 0;
+printf ("Nhap yao mot so: ");
+scanf("%td", &n);
+printf ("Tong gac so nguyen to nho hon n la: ");
+for (x=2; x < n; x++)
+{
+if (KTSoNguyenTo (x) != 0)
+Sa x,
+}
+PEintfl("td\n"™, S);
+getch();
+
+KTSoNguyenTo (int x)
+
+= 2;
+Mien (xot 1 != Q)
+itt;
+ia? x= i)
+
+return i;
+else
+
+return 0;
+
+Buldlog » © Buildmessages % /\ CppCheck % /\ CppCheck messages
+
+Line Message
+
+=== Build finished: 0 error(s), 0 warning(s) (0 minute(s),
+
+ 
+
+ee me 2 AWindows (CR+LF) . WINDOWS+lI
+

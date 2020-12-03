@@ -1,0 +1,104 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+B main.c [c] - CodeBlocks 16.01 - x
+File Edit View Search Project Build Debug Fortran wnSmith Tools Tools+ Plugins Dorylocks Settings Help
+(FPBBAle 2) 4¥MB AALS Ph & @ B [Derg ViEm SE G2 SI gf G: |B
+£| <olobal> vy [mainO + int vie o|RP BBR
+£8 Bl *<| ie} BNE i Milo > 2 ob ae ~|Fh || | | | | i aX
+anagement x
+et) Projects, esiatalemn| tesa 1 #include <stdio.h>
+(Workspace 2 #include <etdlab.n>
+omc 3
+EB Sources 4 int main()
+maine s Ek
+6 |] int (1uachon, sot, 202, ketqua) ;
+7 printg ("----menu-—--\n") 7
+e printf ("1.phep shan\n");
+9 printf ("2.pnep cong\n");
+10 printf ("S.phep pru\n");
+a printf ("chon phsR kan"):
+2 scant ("¥d\n",1uachon) ;
+13 printé ("ghar so can ¢inh Jan iuee\n"):
+14 scant ("¥d\n", 201);
+a5 scant ("$d\n", 202) 7
+16m ketuqua=0;
+7 switch (uachon)
+ae ‘
+a9 caset:
+20 pring ("td*sd=$d\n", 201, 302, ketqua) 7
+2a break:
+22 | | casea:
+23 printf ("ed+td-td\n", s01, 02, ketqua)
+24 break:
+2s || cases:
+26 printd ("$d-8d=8d\n", 201, 302, ketqua) ;
+27 break:
+22 || aerauit:
+29 printé ("Khong co gi ca")
+30 break:
+a1 ,
+32 return 07
+33)
+34
+< >
+4) Aicoderlods x ySearchresuts x J) Cac GBuldiog | F Build messages x | Copcheck > /| CopCheckmessages J Cacope | ©) Debugger >
+File Line Message a
+15 error: ‘so2* undeclared (first use in this function)
+16 error: ‘ketuqua’ undeclared (firet use in this function)
+20 error: ‘ketqua’ undeclared (first use in this function)
+e\main.c 30 error: expected ';' before ':' token
+E:to\main.c 25___varning: label ‘case3" defined but not used [~Wunused-label] y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E\c\main.c Windows (CR+LF) __unknown--1 ine 16, Column 1 Insert Read/Write default
+
+ff
+
+ 

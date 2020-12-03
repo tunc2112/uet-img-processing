@@ -1,0 +1,59 @@
+ 
+
+No Environment vy, ® ©
+
+ 
+
+GET http://localhost:8080/groups  @
+
+key VALUE DESCRIPTION see Bulk Edit
+Key Value Description
+jody Cookies Headers (5) Test Results @ Status: 2000kK Time: 898ms Size: 504B Save Response v
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+Pretty Raw Preview ‘Visualize = JSON ¥ => Q
+1s.
+2 {
+3
+4 “Tin VietNam Post™
+5 hs
+6 L
+7
+8 “Buu dién - Van héa xa"
+9 ,
+18 {
+11
+12 “Nguoi buu di€n™
+B b
+14 {
+15
+16 “Hoat déng Bang - Doan thé”
+7 b
+18 {
+19 5,
+28 : "Cum tin méi cing”
+a }
+22 «i
+23 “timestamp” "2020-06-24T@9:@9:56.971+20000",
+24 “status”: 200,
+25 “error’ IK",
+26 “message”: “No message available”,
+
+ 
+
+27 “path”: "/groups”

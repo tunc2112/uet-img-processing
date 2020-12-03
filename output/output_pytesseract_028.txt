@@ -1,0 +1,57 @@
+ 
+
+No Environment x, ® ©
+
+ 
+
+GET http://localhost:8080/groups  @
+
+key VALUE DESCRIPTION see Bulk Edit
+Key Value Descriptio
+jody Cookies Headers (5) Test Results @ Status: 2000K Time: 898ms Size: 504B © Save Response v
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+Pretty Raw Preview _Visualize JSON vy 3 Q
+1 oe
+2 {
+3
+4 “name
+5 I
+5 | ff L
+7 "id":
+8 “name
+9 bs
+10 {
+a1 “id"
+12 “name
+3B hb
+14 {
+15
+16 “name joat déng Bang - Doan thé"
+v7 hb
+18 {
+19 5,
+28 2 "Cum tin méi citing”
+2 }
+220 «iE
+23 “timestamp”: "2020-06-24T@9:09:56.971+0000",
+24 “status”: 200,
+25 "OK",
+26 No message available",
+7 ‘/groups”
+
+ 
+

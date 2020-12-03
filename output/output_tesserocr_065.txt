@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+sint main()
+
+{
+
+aaa od
+
+(onl ana
+
+char a[100];
+
+char c;
+
+fgets(a, n, stdin);
+cout << a;
+system("pause”) ;
+return(@);
+
+tudio Debug Console
+
+ 
+
+Er
+Cee ea cs
+
+PANG e aa U TACT a Cae. ashe Ree
+ieee east bles eases CRU Ct toes eer OMCs ene Le Ce SU eee ee eke Teas
+Pee e st sues
+
+Cee gS gs Cece ne
+
+ 

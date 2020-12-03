@@ -1,0 +1,89 @@
+ere ar a
+
+ 
+
+  
+
+ 
+
+ 
+
+Tee
+. . . . Dic nC Rt Sac RE
+
+af
+
+CBC
+
+Cea ss
+
+ya ys
+
+8 — printf("Nhap khoa k: k = “);
+
+Ctra oy
+
+UMS sUEL esc Ly
+
+cr trec@n Lo a ee
+
+cP OOFy
+
+13 printf("Chieu dai cua chuoi can ma hoa la: %d\n",strlen(a));
+
+14 uhile(a[i]!="\@")
+
+chy ee
+
+BT if(k<strlen(a))
+
+cu] rf
+
+cr a[i]-ali]+k;
+
+19 chen
+
+20 }
+
+2 if(k>strlen(a))
+
+oa) rf
+
+pe) while (k>strlen(a)) k-k-strlen(a);
+
+7 PEN ESE
+
+Py chen
+
+7 }
+
+an
+
+tyes ce ee SLC ae
+
+pt
+
+cans
+
+EST
+
+Dae eT) 2G v
+
+ 
+
+ 
+
+ 
+
+ry)
+Peers
+
+iat
+
+   
+
+Fo) > a
+
+ 
+
+iv = Dla

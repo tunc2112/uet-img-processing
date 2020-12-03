@@ -1,0 +1,65 @@
+[iid CA Users\admin\Desktop\KTLT\Gia tri_tuyet_doi.cpp - Dev-C++ 5.11
+File Edit Search View Project Execute Tools AStyle Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+OG@eeee\a « BE\B8 aa OB Sa! 7 | %¢| ohh ib | |to-coc 4.9.2 capac Release
+qa (giobais) ¥ S
+Project Classes Debug hien_thi.mang.cpp_ [*] Gia_tri_tuyet_doi.cpp
+28 cout<<a[i]<<" "5
+29 }
+30 cout<<endl;
+31}
+32 void ht_gia tri_tuyet_doi(int *a, double n)
+BAL
+34 int tong=0, dem=@;
+35 for(int i=1;icnji++)
+36H {
+ar] if(a[i]<0&afabs(a[i])>5)
+38H {
+39 cout<<" So am gia tri tuyet doi > 5 la: "<<a[i]<<endl;
+40 tong=tong+a[i];
+41 dem=dem+1;
+42h }
+43+ }
+a4 double tbc=tong/dem;
+45 cout<<"Tbhe cua cac so am la: "<<fixed<<setprecision(3)<<tbc<<endl;
+46°}
+47 void remove(int *a, int n, int k)
+485 {
+49 cout<<"Xoa phan tu thu k: ";cin>>k;
+58 if (k>=0&&k<8)
+518 {
+52 for (int isk;icn;i++)
+53 a[i-1]=a[i];
+54 n--3
+55+ }
+56 4 }
+Compiler Gi Resources fli CompileLog w/ Debug [G FindResults i] Close
+- Errors: 0
+
+- Warnings: 0
+- Output Filename: C:\Users\admin\Desktop\KILT\Gia_tri_tuyet_doi.exe
+- Output Size: 1,83669281005859 MiB
+
+Cishorten compilerpaths |- Compilation Time: 1,13s
+
+ 
+
+ 
+
+Line: 41 Cok 22 Sek 0 Lines: 70
+
+ra P Type here to search
+
+var)
+
+ 
+
+ENA)

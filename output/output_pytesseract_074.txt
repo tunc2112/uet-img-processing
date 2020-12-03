@@ -1,0 +1,108 @@
+© Test2 - [C:\Users\kavec\AndroidStudioProjects\Test2] - [app] -
+
+‘\app\src\main\java\com\example\kavec\test2\Main2Activity java - Android Studio 2.2.1
+
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oao CA MA|AAlS A (Baar) DH GB E |?
+‘Testz) Ea app)) Else) Eiman ) Eaieva)) lam) Elexanie)) Eiavec) (testa) (©) manzacivty
+eae : at- 1+ [lo Mard.inva x | © NentOiova x | (©) Mentijava x | (©) Mani2java x | © Manaacivtyjove x [Bibt x | Eset x
+z Ou hoe SRP RESET
+& a) comerample avec test] (once
+w com.example.kavec. test2 (te: et lv1.setOnItemClickListener((parent, view, position, at
+& Bares String Slectediten = nane[+position]
+SE dranable Toast makeText (getApplicetionContex= () , Slectediven, Toast. ENGIH_SHORD) show ()7
+2 al back ong
+4 notes Invent i = new Intent (getApplicationContext(), Man3.class):
+i cy syn ‘png i-putExtra("z",name[+position]};
+eet nanan startactivity (2);
+& activity main2
+F Bsc Intent o = new Invent (getapplicationContent(), Mand.class)
+A aaa o.putExtra("2" name [#position]):
+Sn startactivity (0);
+7 ist man12.xml
+B mars Intent q = new Invent (getapplicationContent(), ManS.class)
+mando q-putExtra("2" name [#position] ):
+man starthctiviey (q)7
+mane.
+men? Intent w = new Invent (getapplicationContent(), Mané.class)
+mand. w.pacExtra ("2",name[+position] )
+& mans startactivity (ws
+e-E momap
+? i xt Intent s rew Intent (getApplicationContext(}, Man7.class);
+7 $-putExtra("z",name[+position]};
+ba searsaceivioy()2
+& diet
+gt intent d = new Invent (getapplicationContent(), Man®.class)
+eee d.putExtra("2" name [#position]
+ee svartactivity (2);
+£ (=) hetxt
+i oe intent b = new Invent (getapplicationContent(), Mand.class)
+3 stat b.putExtra("z",name[+position]);
+Be Eivakes startactivity ();
+(> Gradle Scripts
+i Terminal Android Monitor 0; Messages @.:Find p> 4:Run TODO
+
+ 
+
+Bi cradle build finished in 1m 17s 476ms (3 minutes ago)
+
+om
+
+ 
+
+     
+
+© Man8,java x
+
+7 Event Log
+UF8?
+C
+
+99:34 CRLF?
+
+ 
+
+Pant
+
+ 
+
+ 
+
+pe ©
+
+[Ppow plospuy i
+
+il Gradle Console
+
+Context: <no context>
+
+a
+
+ag
+
+ 
+
+ 
+

@@ -1,0 +1,40 @@
+() *Hinhjava @) *HinhChuNhatjava °
+1 package communityuni.com.modle;
+
+ 
+
+ 
+
+2
+3 public class HinhChuNhat extends Hinh {
+a
+5 private double chieuDai;
+gg private double chieuRong;
+7
+ge public HinhChuNhat(String mau, double chieuDai, double chieuRong) {
+9 super(mau) ;
+1@ this.chieuDai = chieuDai;
+a1 this.chieuRong = chieuRong;
+12 }
+13
+14° @Override
+215 public double tinhDienTich() {
+16 return chieuDai * chieuRong;
+ig }
+18
+H9> — @Override
+20 public double tinhChuVi() [f]
+21 return 2 * (chieuDai + chieuRong);
+22 W
+23
+a24° public void layThongTin() {
+25 system.out.println("Hinh chit nh@t mau" + this.mau);
+26 System.out.printIn("Chiéu dai “ + this.chieuDai + "
+27 system.out.print1n("Dién tich hcn = " + tinhDienTich());
+28 system.out.println("Chu vi hen = " + tinhChuVi());
+29 }
+30
+31}
+
+chigu rong " + this.chieuRong);
+

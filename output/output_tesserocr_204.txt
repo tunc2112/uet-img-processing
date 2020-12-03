@@ -1,0 +1,45 @@
+  
+
+(i New il] Insert Hl Toaale 1B Goto
+
+LeQuanavink_GK2.cpp |
+
+  
+
+0b G-
+double nghiem;
+Stdi:cout << "nhap a = 4
+
+Std::cin >> a;
+Std:icout << " »
+Std: icin >> b;
+if(a—p) {
+if (b=0) ‘¢
+Stdivcour << " Phuo trink
+
+  
+
+2%. << endL-
+
+} else: {
+cout << trinh << end ti;
+}
+t, else. {
+
+nghiem = (double) - b/a;
+Std:iicout <<«'"p Adie - << nohiem << endt;
+}
+
+System("Pause™)|:
+
+return 0;
+
+b Compile Log | tH Debua | [co Find Results |
+
+ 
+
+ 
+
+ 
+
+  

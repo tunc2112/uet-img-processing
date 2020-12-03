@@ -1,0 +1,66 @@
+Hoatdéng Eclipse ~ SU RPE MTEL Via a Dod
+eee ee ee ea eee La ee cal) a)
+
+= CCM em
+
+ea ee i en a ee di
+
+ 
+
+a a a ae CU aca ae
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ce} Pe tne eco tec Se 5
+se 7 2
+1} O 4\3} pa leabb somes ably aad
+aa of Fa
+E uh)
+oat public static void SolveSudoku(int Sudoku[][], int x, int y)
+Cw {
+ees] if (y==9)
+a
+50 if (x==8)
+Sal {
+2 cy for(int i=0; i<9;i++)
+is} for(int j=0; 4<9; j++)
+re) by} dm.setValueAt (Sudoku[i][j]+"", i,4);
+55 //Cap nhat lai dap an lén table
+a 56 return;
+= 57 a
+58 else)
+59 SolveSudoku (Sudoku, xt+1, 0); 5
+60 =
+mn else if (Sudoku[x] [y]==0)
+cy) { 7
+63 for(int k=1; k<10;k++) o
+64 {
+65 if (CheckTrue (Sudoku, x, y, k))
+66 {
+iw Sudoku [x] [y] =k;
+68 SolveSudoku (Sudoku, x, y+1);
+69 Sudoku [x] [y]=0;
+Ae) ti
+71 a
+72 a
+73 else)
+we SolveSudoku (Sudoku, x, y+1);
+TS a
+76 public static int n=100;
+vai public static JButton Giai;
+718 public static int [][]Sudoku= new int [n] [n];
+
+nn
+Pea Parad nrcud Cer CEREL
+
+       

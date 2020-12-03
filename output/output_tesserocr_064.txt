@@ -1,0 +1,29 @@
+peeks AES Behe NEO
+
+return hinhanhList.size();
+
+CONSE
+PSEC [a at tet CLL
+
+Pest Tans
+
+a
+
+CONSE
+
+PPVECae Cea aac Tc eCL ae
+et
+
+a
+
+CONSE
+
+PTS Rten FUR cca Et] tee FUR EE ce Cc ne
+LayoutInflater inflater = (LayoutInflater) context .getSystemService(Context .LAYOUT_INFLATER_SERVICE) ;
+Rater Ua une tee O bor een en
+
+ImageView imageView = (ImageView) view. findViewById(R.id. view!) ;
+PU U aCe eects ase)
+imageView. set ImageResource(hinhanh.getHinh());
+
+Stes

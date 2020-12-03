@@ -1,0 +1,104 @@
+B main.c [c] - CodeBlocks 16.01
+File Edit View Search Project Build Debug Fortran waSmith Tools Tools+ Plugins DoxyBlocks Settings Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(FPBBAle 2) 4¥MB AALS Ph & @ B [Derg ViEm SE G2 SI gf G: |B
+£| <olobal> vy [mainO + int vie o|RP BBR
+Ee blr r<| ele N B Milo > 2 ob ae ~|Fh || | | | fo JY
+Management X[Poee
+et) Projects, esiatalemn| tesa 1 #include <stdio.h>
+(© Workspace 2 #include <etdlap.n>
+omc 3
+EB Sources 4 int main()
+main.c s Ek
+6 |] int (1uachon, sot, 202, ketqua) ;
+7 printg ("----menu-—--\n") 7
+e printf ("1-phep abea\n"):
+2 printé("2-phep gong\n")?
+10 printé("3-phep gsu\n")7
+a printf ("chon PER £Qan"):
+2 scant ("¥d\n",1uachon) ;
+13 printé ("ghar so can ¢inh Jan iuee\n"):
+14 scant ("¥d\n", 201);
+as scant ("$d\n", 202) 7
+16m ketuqua=0;
+7 switch (uachon)
+te ‘
+19 casei:
+20 pring ("td*sd=$d\n", 201, 302, ketqua) 7
+21 break:
+22 || casez:
+23 print ("td+8d=8d\n", 201, 302, ketqua) ;
+24 break:
+25 || cases:
+26 printd ("$d-8d=8d\n", 201, 302, ketqua) ;
+27 break:
+22 || aesauit:
+29 printé ("Khong co gi ca")
+30 break:
+31 ,
+32 return 07
+33)
+34
+
+4 AicodeiBlods | ySearchresuts x J) Cece | G)Buidiog | $ Build messages >| _/) CopCheck
+
+ 
+
+ 
+
+File Line Message
+15 error: 'so2" undeclared (first use in this function)
+16 error: ‘ketuqua’ undeclared (first use in this function)
+
+ 
+
+20 erro:
+
+ 
+
+‘ketqua’ undeclared (first use in this function)
+
+ 
+
+e\main.e 30 error: expected ';' before ':' token
+E:\o\main.c 25__varning: label ‘case3" defined but not used [-Wunused-label]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E\c\main.c Windows (CR+LF) __unknown--1 ine 16, Column 1
+
+ 
+
+ 
+
+ 
+
+ff

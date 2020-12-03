@@ -1,0 +1,76 @@
+(G) eclipse-workspace - Demo/stc/impls/Facadelmpl,java - Eclipse IDE
+File Edit Source Refactor Navigate Search Project Pydev Run Window Help
+
+Gym Bxl|o BM so o| BIN SiG ty O- OQ! 86 oP Fase BH rifi+ sre o-royle
+[GS Project Explorer 5% | S| @ Y = 6 Gj FacadeRemotejava [J Facadelmpljava 5¢ [Z) Dangkyjsp 7) Dangkyjava —_‘{) ConnectSQLjava
+
+ 
+
+ 
+
+ 
+
+1D BanHangOnline EAP 1 package impls;
+1D BanHangOnline EB ae
+ies = import java.sql-Connection;
+v i Demo 5 import java.sql-SQLexception;
+& Referenced Types 6
+Deployment Descriptor: Demo 7 Amport connection.ConnectSQL3
+2 JAK-WS Web Services 8 import entities khachangs
+9 import services.FacadeRenotes
+> BB dav Resources 2
+Vea 11 public class FacadeImpl implements FacadeRenote {
+
+J connection
+
+B) ConneetSQL java public Facadetmpl() {
+
+ 
+
+   
+
+  
+
+Bi entities (1 10 autorgansrated constructor stub
+© BB imple
+¥ [i] Facadelmpljava H72 — @override
+Q Facadelmpl 18 public boolean dangky(KhachHang kh) throws SQLException {
+Y BB services ns Connection con = new ConnectSQL().getConnection();
+Uf FacadeRemotejava po 3
+v GB servlet 3
+BD Dangky.java GS
+¥ BA Libraries pa
+Bi Apache Tomcat v8.5 [Apache Tomcat v8.5] ps pstm.setString(1, kh.getHoten())5
+i JRE System Library [J2vaSE~12} ps pstm.setstring(2, kh.getSdt());
+th Referenced Libraries 27 pstm.setstring(3, kh-getemail());
+Bi JavaScript Resources 3 pstm-setstring(4, kh.getAcc())s
+s pt 2a pstm.setstring(5, kh.getPass());
+i Referenced Libraries bo return pstm.executelpdate() > 23
+& buila BL } catch (SQLException ©) {
+© WebContent B2 e.printStackTrace();
+ears B3 }
+ba return false;
+& METAINE oan
+& WEB-INF 36
+1 Dangky.jep 372 public static void main(string[] args) throws
+B Loginjsp 38 KhachHiang kh = new KhachHang("Que", "123
+w seves 39 new FacadeInpl() .dangky(kh)3
+4}
+a1
+42
+3}
+BV console #3 |%) Problems fil Servers
+
+  
+
+‘Tomcat v8.5 Server at localhost [Apache Tomcat] C:\Users\Admin\Downloads\eclipse\jre\bin\javaw.exe (Jun 25, 2020, 5:25:47 PM)
+SEVERE: Servlet.service() for servlet [servlet.Dangky] in context with path [/Demo] threw exception
+java. lang.NullPointerexception
+‘at impls.FacadeImpl.dangky (FacadeImpl.java:21)
+at servlet.Dangky .doGet (Dangky. java:39)
+at javax. servlet .http.HttpServiet. service (HttpServlet. java:634)
+at Javax. servlet .http.HttpServiet. service (HttpServiet. java: 741)
+at org.apache. catalina. core. ApplicationFilterChain. internalDoFilter (ApplicationFilterChain.java:231)
+at org.apache. catalina. core. ApplicationFilterChain.doFilter (ApplicationFilterChain. java:166)
+at_org.apache. tomcat .websocket. server .isFilter .doFilter (\sFilter. java:52)
+

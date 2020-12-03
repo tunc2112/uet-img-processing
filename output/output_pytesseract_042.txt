@@ -1,0 +1,69 @@
+ 
+
+DMJ File Edit View Project Build Debug Test Analyze Tools Extensions. Window Help Search Visual Studio (Cti+Q) ——_ WindowsFormsApptt - Xa
+e- @~2 mt |D~-o ~) Debug ~ Anycru > pb Stat~| pe li tS n < 18 liveShare Pp
+
+  
+
+Formi.cs* + X [iia
+
+WindowsFormsApp11 > | 3 WindowsFormsApp11.Form1 @, TreViewO
+8 using System. Text;
+9 using System. Threading. Tasks;
+10 using System.Windows. Forms;
+q
+12 Einamespace WindowsFormsApp11
+13 {
+
+ 
+
+3 references
+public partial class Forml : Form
+
+{
+
+14
+15
+16
+
+string path = @"C:
+1 reference
+public Form1()
+
+17
+18
+19
+20 :
+21 :
+
+TreView() 5
+
+1reference
+22 ‘void TreView()
+23 ‘
+
+24 TreeNode tree = new TreeNode() { Text = "Hoang" };
+
+25 : : | TreeNode node = new TreeNode() { Text = "Child" };
+26
+
+27
+28
+29 TV1.Nodes.Add(tree);
+30 io
+1 reference
+31 void Loaddisk(TreeNode root)
+a (ee | ge
+Error List
+Entire Solution > | OErrors || 4 Oof1Warning | €) Oof2Messages | %y Build + IntelliSense Search Error List
+
+* Code Description « Project Line Suppression St...
+
+Cy Add to Source Control =
+
+Cera
+
+aE Ur)
+
+ 
+

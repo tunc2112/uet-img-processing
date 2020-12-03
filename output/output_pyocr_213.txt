@@ -1,0 +1,6 @@
+Sd Es
+| a oa
+input_filel = open(os.getcwd()+'ten gmail.txt', 'r’,encoding="utf-8")
+4 ten gmail = input_file1.read()
+
+Pee ets ee)

@@ -1,0 +1,29 @@
+#include<bits/stdct++.h>
+Q
+int main () {
+
+using namespace std; .
+Wind 2
+int n, cnt[26];
+
+memset (cnt, 0, sizeof(cnt));
+cin>>n;
+for(int i=l; i<=n; i++) {
+string s;
+cin >>s; C
+cent[s[0]-' i ]++; 7
+}
+bool ok=false;
+for(int i=0; i<26; i++)
+if(cnt[i]>=5) {
+cout <<char(' '+1);
+ok = true;
+
+"2
+
+}
+if (!ok)
+
+cout << "SURRENDER";
+return 0;
+

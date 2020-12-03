@@ -1,0 +1,73 @@
+File Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+m- @'1Dir-O-B AiG eos 'P MH Mi fi - Fl e-o- (Quick Acces | po | 99
+ [B)SinhVienjava {3} ThiHanhjava 2&3 ay;
+fa Fel g
+public static void main(String[] args) throws I0Exception { -
+InputStreamReader r = new InputStreamReader (System. in) ; iS
+BufferedReader b =new BufferedReader(r); B
+String chon =" 5
+int n 5 Ss
+nt] Array = nulls i
+pe AreayListcbinhVien> ds = new ArrayList<Sdnhvien>()s
+pt do {
+bo System.out.printIn("tettesetresetnssnereceensenenscneneseeneent) 5 e
+23 System-out printIn(” * CHUONG TRINH QUAN LY SINH V: * a
+a System.out.println(” * 2 Nap a 14gu cho danh sch sinh vin *
+ps System.out.println(” * 2~ Tim sinh vién theo Md sinh vin *
+
+System.out.println(
+System.out.println(
+System.out.println(
+
+= X6a 1 sinh vién d& cé trong danh séch*
+Sita théng tin cla sinh vién *
+
+= Danh sch sinh vién hoc lad *
+System.out.printIn( = Danh sich sinh vién duge cap hoc béng™
+System.out.printIn( = Két thc chuong trinh *
+System.out printIn(" *#ettssrtrssnessennresnensenensceenecenneeen) |
+String tam;
+chon=b.readLine();
+switeh (chon) {
+case "1"
+
+System.out.println("Nhap so sinh vien");
+
+tam = b-readLine();
+
+Integer .parseInt (tam);
+
+ay = new int[n];
+for(int i = @ 5 i < Array.length 5 i++)
+
+t
+
+SinhVien x = new SinhVien();
+
+x.nhapDL() 5
+
+ds.add(x)s
+
+       
+
+Vounun
+
+  
+
+ 
+
+Writable SmartInsert | 35:18
+
+ 
+

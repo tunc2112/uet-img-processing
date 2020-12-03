@@ -1,0 +1,45 @@
+<iostream>
+<queue>
+<math.h>
+eA
+mae MMT Ciisel Gira ye
+ureahe
+
+yy
+
+    
+
+Part CFSEEO ye
+
+Lit
+Poe
+3
+Bi
+Saar
+y
+int main(){
+ay
+font Pair
+
+queue<int> q;
+( int i = 2;1<10,i<:
+(tim_so_nguyen_to(i)){
+
+q-push(i);
+
+ 
+
+(!q.empty()){
+(int i =1;i<=9;i++){
+int m = q.front()*10 + i;
+(Cre: eet MEST iol CODY |
+q.push(q. front()*10 + i);
+
+   
+
+Bi
+cout << q.front()<< " "3
+CoO
+
+os
+

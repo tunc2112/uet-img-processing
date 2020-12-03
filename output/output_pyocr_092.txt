@@ -1,0 +1,25 @@
+sa © Baal 3
+
+#include<stdio.h>
+
+main( re
+aCe
+er ese LeC ea
+printf("a[%d]=%d = a[%d]=%d\n",@,a[@],1,a[1]);
+[ead
+m*=n*=m*=n;
+printf("m=%d_ = n=%d\n",m,n);
+iy
+
+Bo CAUsers\TLIDes Op
+
+ 
+
+Process exited after 9.0352 seconds with return value @
+eesetis mea acts ct en
+
+Shorten compiler
+
+ 
+
+Seton

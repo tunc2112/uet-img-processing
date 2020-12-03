@@ -1,0 +1,115 @@
+© Test2 - [C:\Users\kavec\AndroidStudioProjects\Test2] - [app] -
+
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+-\app\src\main\java\com\example\kavec\test2\Man12,java - Android Studio 2.2.1
+
+ 
+
+   
+
+ 
+
+        
+
+         
+
+   
+
+   
+
+  
+
+    
+
+ow ® a LA) S A (as) > B E 4|?
+Test2 Cjapp [ise Elman Cijeva Elcom [lexample [lkavec [ltest2 © Mani2
+Android : I+ | © Mano.java x | © Mand,java x | © Manitjeva x | © Mani2java x | © Main2Actvty.java x | [ibe x
+a © & Moniz seeConventView(R-1ayout .mani2);
+€ cE com.example.kavectest2 (andoidTes! tvi8 = (TextView) findViewById (R. id. testView) ;
+£8 [5 com. example. kavec.test2 (tes tvi9 = (TextView) findViewByld (R. id. textView2) ;
+Dares bt_bacl (Button) findViewByld(R.id.bt_backkk)
+Eo drawable bt _backkk. setOnClickListener ( (View.onc this);
+8 a] backong Intent a = getIntent ();
+& i] nextiong tvi8.setText (nt) =
+. 3 Elayout
+oe, sering aad
+2 Bem StringBuffer jbuffer = new StringBuffer ():
+é & mani0 aml InputStream i} = this.getResources () .cpenRawResource (R.raw3)?
+Se martian BufferedReader reader = new BufferedReader (new InputStreamReader(i3)):
+S Se mani2am) af (43 != mull) [
+iS man3.xl try
+iS mand. xl while ((datad = reader.readLine()) != null) {
+iS man. xl jbuffer-append(datad + "n")
+iS man. xl )
+iS man? tv19. setText (jbuffer):
+iS mand. xl ij.close()
+iS mand. } catch (Exception e) {
+68> E mipmap e.printStackTrace ()
+Ea }
+att )
+4 batet
+£ cbt }
+e ditet
+ett
+fet <j
+att
+2 Bl hot Intent i = new Intent (this, Main2Activity.class)
+5 an startActivity (i):
+z oEyvetes ) ,
+™ | 65. @ Grade Scripts 1
+[Terminal sj §: Android Monitor BQ: Messages Q.3:Find Pp 4:Run TODO
+Eo cradle build fished in im 17s 476ms (3 minutes 290)
+
+ 
+
+ 
+
+om
+
+   
+
+E j.tet x
+
+© Man8,java x
+
+  
+
+7 Event Log
+30:4 CRLF UTF-8?
+
+C
+
+Context: <no
+
+Pant
+
+   
+
+pe @
+
+[PpoW plospuy i
+
+il Gradle Console
+
+context>
+
+a
+
+ 
+
+ag
+
+ 
+

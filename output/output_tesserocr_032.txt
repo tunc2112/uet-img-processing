@@ -1,0 +1,37 @@
+C6 bai t&p lap trinh m nc x
+
+€ eaqia
+On & Hr ° a ad Suashi
+
+     
+
+CODE.cs s:
+
+ 
+
+nee eet CLO)
+oa
+int[] b = new intfa.Length];
++ for (int i= 0; i< bLength; i+=1)
+esa
+SCOR REX)
+
+ 
+
+ 
+
+s what you w. er nneTeany
+a return afi
+Given an array a tha , ee
+first duplicate number for which the c c othe! ECG bei bats
+Jadu return the number f¢ ° See
+. seaha }
+ind of the |
+Example
+* For Rory
+acs)
+aces
+ee)
+Secor
+
+@ NEEDACLUE? © RUN TESTS OT a ORC ed

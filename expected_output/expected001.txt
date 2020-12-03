@@ -1,0 +1,21 @@
+    public static void main(string[] args) throws Exception {
+        String PathClick = "H:\\Lab DeskTop\\Project\\abc\\ab";
+        File folder = new File(PathClick);
+
+        if (folder.isFile()) {
+            folder.delete();
+        } else {
+            File[] listofFiles = folder.listFiles();
+            String fileName;
+            for (int i = 0; i < listofFiles.length; i++) {
+                fileName = listOfFiles[i].getName();
+                String newPath = PathClick + "/" + fileName;
+                  File folderl = new File(newPath);
+
+                  folder1.delete();
+            }
+        }
+
+    }
+
+}

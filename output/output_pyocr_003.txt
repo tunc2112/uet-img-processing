@@ -1,0 +1,35 @@
+1 package com. learn;
+2° import org. springframework. stereotype.Controller;
+
+3. import org. springframework.web.bind. annotation. RequestMapping;
+4 import org. springframework.ui.Model;
+
+5 import org. springframework.web.bind.annotation.ModelAttribute;
+6 @RequestMapping("/checkLogin")
+
+7 @Controller
+
+8 public class LoginController {
+
+9e @RequestMapping("/login")
+
+10 public String login(Model model) {
+
+a Employee e=new Employee();
+
+12 model. addAttribute("employee",e);
+
+2B return “login”;
+
+14 }
+
+ase @RequestMapping("/submit™)
+
+16 public String submit(@ModelAttribute("employee") Employee e) {
+a7
+
+18 }
+
+19 }
+
+20

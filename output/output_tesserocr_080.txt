@@ -1,0 +1,131 @@
+ 
+
+ile Edit Source Refactor Navigate Search Project Run Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ty Ore arf 6186 9-! Py BH TB wi Pir Feb Oror
+IB Package Explorer 13 | & 7 > GG) moduleinfojava | (7) Mainjava 52 | [i Studentjava
+vB java 1 package java;
+tem Library [JavaSE- 2
+2 Re sem ira does) 3 public class Main {
+vB ste 4
+vine 5© public static void main(String[] args) {
+> Di) Mainjava 6 71 TODO Auto-generated method stub
+> [) Studentjava 7
+tile-infojave 3 Student studentone = new Student();
+> Bi module-infojav 9 Student studentTwo
+ol
+a studentOne.name 3
+a2 studentOne.code = "S001";
+3 studentOne birthday = 2000;
+a4
+as studentTwo.name = “nghia"s
+as studentTwo.code = "S002";
+a7 studentTwo.birthday = 2000;
+ne
+a9 system.out.println(“thong tin showInfo")s
+20 System.out println(“name"+ studentOne.name)3
+2 System.out println(“code"+ studentOne. code)
+22 System.out.println("birthday"+ studentOne.birthday);
+23
+2a system.out.println(" ds
+bs
+2s system.out.printIn("thong tin shoInfo")3
+27 System.out.println(“name"+ studentTwo.name)3
+Be System.out println(“code"+ studentTwo. code)
+29 System.outprintln("birthday"+ studentTwo.birthday);
+po}
+31
+32}
+33
+<
+
+Console 2
+«terminated» Main [Java Application] C:\Program Files\Java\jdk-12.0.1\bin\javaw.exe (Jul 1, 2019, 2:40:21 PM)
+
+  
+
+ 
+
+ 
+
+ 
+
+[Quick Access] :| | 99 [Bi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 | Gltaxktist 2a
+“ a-| e| xh el av
+Find Q] > All > Activate... @®
+® Connect Mylyn sg
+Connect to your task and ALM tools or create a local task.
+
+BE Outline 23 eSPbRmaewewvga
+
+B java
+
+v @, Main
+
+@ ® main(String[]) : void
+
+ 
+
+x %| Ret e-n-ca
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Error occurred during initialization of boot layer
+
+jjava.lang.LayerInstantiationéxception: Class loader (instance of): ‘app’ tried to define prohibited package name: java
+
+ 
+
+ 
+
+ 
+
+arr
+
+me}

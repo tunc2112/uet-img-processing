@@ -1,0 +1,51 @@
+Vong Ip For - Microsoft Visual Studio eee
+View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+‘Global Scope)
+I] #include <iostream>
+2), using namespace std;
+3||Eiclass Vonglap{
+public:
+VongLap(int a, int b){
+for(a = 1, b = 10; a <= 10 && b >= 1; att, b--){
+cout << a <<" "" <« endl;
+cout <<" " << b << endl;
++
+
++
+// Nong Lap a b c la bang cuu chuong tu 1 den 9, lololololel. Khong the tin duoc :))
+
+/*Vonglap(int a, int b, int c){
+for(a = 1; a <= 10; at+){
+for(b = 1; b <= 10; b++){
+cout << (b*a) << endl;
+for(c = 10; ¢ <= 5; c--){
+cout < " "<< b* atc << endl;
+
++
+
+wy
+
+public:
+
+void TimUoc(int a, int bienchay){
+cout << "Tim uoc nho nhat cue 1 so" << endl;
+cout << "Moi ban nhap yao 1 so :
+cin >> a;
+for(bienchay = a + 1; bienchay bienchay++){
+
+if(bienchay % a == @){
+"<< a <<" la" << bienchay << endl;
+
+ 
+
+|) oWarnings | i) 0 Messages
+
+Description
+1. IntelliSense: no default constructor exists for class "VongLap”
+
+00 f} Tue 04:00PM Q.
+
+ 
+
+Ve EE | ©) Tai sao tao ra th.

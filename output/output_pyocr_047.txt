@@ -1,0 +1,38 @@
+LY #include <cmath>
+2 #include <cstdio>
+
+3 #include <vector>
+
+4 #include <iostream>
+5 #include <algorithm>
+6 using namespace std;
+7
+8
+9
+
+y int solveMeFirst(int a, int b) {
+J/ Wint: Type return a+b; below:
+
+ 
+
+19
+1}
+
+12
+
+13 ¥ int main() {
+
+14 int num, num2;
+
+15 int sum;
+
+16 cin>>numi>>num2;
+
+17 sum = solveMeFirst(numL,num2) ;
+18 cout<<sum;
+
+19 return 0;
+
+20 }
+
+Line: 1 Col: 1

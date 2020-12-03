@@ -1,0 +1,27 @@
+select clb.TENCLB,COUNT( ct.MACT) soluong
+
+from (CAUTHU ct Inner join QUOCGIA gg on qg.MAQG=ct.MAQG)
+Inner join CAULACBO clb on ct.MACLB=clb.MACLB
+
+where qg.TENQG=N'Vviét Nam’
+
+Group by clb.TENCLB
+
+-iselect*
+
+from (CAUTHU ct Inner join QUOCGIA qg on qg-MAQG=ct.MAQG)
+Inner join CAULACBO clb on ct.MACLB=clb.MACLB
+
+where qg.TENQG!=N'Viét Nam"
+
+Group by clb.TENCLB |
+
+ 
+
+% ~
+Messages
+Msg £120, Level 16, State 1, Line 77
+
+Column 'CAUTHU.MACT' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+
+Completion time: 2020-11-21722:42:37.2488154+07:00

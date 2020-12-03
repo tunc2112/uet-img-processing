@@ -1,0 +1,47 @@
+#include<iostream>
+#include<queue>
+beanies te Cr Lali
+
+Pest anes tases Fy
+
+Cy ae et eM TON ime Cran ye
+
+ 
+
+cea Creo ye
+return false;
+SIRT
+for(int i = 2;i<=sqrt(n);i++){
+if(n%i == 0){
+return false;
++
+3
+iain aoe
+3
++
+int main(){
+Sa
+Colao amir
+
+queue<int> q;
+for( int i = 2;1<10,i<
+if(tim_so_nguyen_to(i)){
+
+ 
+
+ 
+
+q-push(i)5
+3
+7
+while(1q.empty()){
+for(int i =13i<=95;it+){
+int m = q.front()*10 + i;
+if(m<=n && tim_so_nguyen_to(m)){
+q-push(q.front()*10 + i);
++
+3
+cout << q.front()<< " "5
+q-pop()s
+7
+aay

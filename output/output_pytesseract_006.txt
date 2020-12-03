@@ -1,0 +1,34 @@
+tinclude <stdio.h>
+finclude <stdlib.h>
+finclude <math.n>
+finclude <string.h>
+Finclude <ctype.h>
+Finclude <stdbool.n>
+int main() {
+
+int n, dem-1, array[10
+
+printz("n= ");
+
+scanf ("$d", cn) ;
+
+for (int is0;icnsit+) (
+printé ("array[$d]= ", 4);
+scant ("$d", carray(i]):
+
+ 
+
+ 
+
+}
+for (int i-0; demsit+)(
+for (int j=i+1;J<n;3++) {
+Af ((array(i]+l=array(3]) | | (azray[il-
+demt+;)
+printf ("sd\n", array[i]);
+
+   
+
+princé("sd", dem) ;
+return 0;
+

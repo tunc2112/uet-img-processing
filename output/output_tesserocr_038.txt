@@ -1,0 +1,27 @@
+void *produce(void *arg)
+
+{
+
+Cty
+
+Rae ee Seer oC
+For(i=0; i<s; i++)
+
+/* Entry Section */
+
+choosing[pi] = 1; // choosing[i] = true
+num[pi] = max(num,5) + 13
+choosing[pi] = 9; // choosing[i] = false
+
+for(int pj = 0; pj<5; pj++)
+ie
+Precast]
+while(num[pj]!=0 && ((num[pj],pj) < (num[pi],pt)));
+a
+Vememeate erased]
+Ste Yael eee OL S1
+Breese
+printf("Consummer thu %d cong them %d. Tong la: %d\n",pi,produc
+
+ee reas |
+num[pi] = 0;

@@ -1,0 +1,25 @@
+#include<bits/stdct++.h>
+
+using namespace std;
+
+int main () { Arind 2
+int nh, cntl26);
+memset (cnt, 0, sizeof(cnt));
+cin>>n;
+
+for(int i=1; i<=n; i++) {
+string s;
+
+Gin >>s;
+ent [s[0j-"atj+e; /
+} ;
+
+bool ok=false;
+for(int i=0; i<26; i++)
+if(cnt[i]>=5) {
+cout <<char('a'+i); 7
+ok = true;
+}
+LEU oOk)
+cout << "SURRENDER";
+return 0;

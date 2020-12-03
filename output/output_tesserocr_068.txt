@@ -1,0 +1,118 @@
+£29) Project - Microsoft Visual Studio PIR] F auicktaunch (cei)
+en ee ene
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ 8-omw ~~ Debug ~ x86 ~ > Local Windows Debugger ~ Auto > Milos a .
+Solution Explorer vax ~F
+GQH- o- Sa o si Fal Project5 | ___(Global Scope) =) © maind 13
+Search Solution Explorer (Ctrl+:) Py wm. +8
+122 Blink main() 2
+Fa] Solution ‘Project5' (1 project) ast
+4. Fl Projects 124 List As =o
+Dem References, 125 CreateList(A); AnConTro();
+> IG External Dependencies 226 while (1)
+Header Files v7 t .
+= 128 int ns .
+
+-¥i Resource Files
+
+4 Ga) Source Files 129 cout << setw(88)
+
+OT MENU SINH VIEN
+
+   
+
+- (WA)
+
+ 
+
+       
+
+ 
+
+   
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+130 cout << setw(88) << "(>".*<) Oo
+b+ Source.cpp 131 cout << setw(83) O_O") MENU CHINH LO" )\n" 5 a
+
+132 cout << setw(74)
+= 133 inMlenu(Menutlain, 1, sizeMfain, 40); I
+
+134 cout << endl << setw(73) < 4
+
+135 n = Choice(HenuMain, 1, sizetain, 40); :
+
+136 if (n == 1) Menul();
+
+137 if (n == 2) in
+
+138 {
+
+139 system("cls"); HienContro()3
+
+we 8 while (1)
+
+aan {
+
+aaa Printrile((char*)"Sinhvien.dat", A)3 setColor(14)5
+
+143 cout << “nhan backspace de quay ve menu chinh "5,
+
+144 cout << setColor(15); .
+100% | 4 — ° »
+Error List vax
+
+Entire Solution + [9 B4Erors | [A SWarnings | @ OMessages [Xp] Build Intellisense Search Error List 2.
+Code Description Project File Lin
+A C4081 “typedef ignored on left of 'Sinhvien’ when no variable is declared Project5 source.cpp 15
+A. C4091 typeder ignored on lft of ‘Node’ when no variable is declared Project5 source.cpp 2
+A. C4091 typedef ignored on left of ‘List’ when no variable is declared Project5 source.cpp 24
+3 ©2664 ‘void inMenu(char *[]int,int,int)’: cannot convert argument 1 from ‘const char *[6]' to ‘char*[]' Project5 source.cpp 133
+€3 2664 int Choice(char“Lintntint): cannot convert argument 1 from ‘const char [6] to ‘char “I! Project5 source.cpp 35
+
+Solution Expl | Class View Property Man... Team Explorer ¢ >
+
+ 

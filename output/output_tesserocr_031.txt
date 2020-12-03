@@ -1,0 +1,58 @@
+© Cébdi tap ldp teinh mn.
+
+€ eaqia
+On& HFM © on
+
+DESCRIPTION
+
+SOLUTIONS (ED
+
+iS E epaak
+
+I strowll have lispantad 90 than vatae insta me
+
+ 
+
+CODE.cs
+
+Int firstDuplicate(int{] a)
+All langu i
+
+ 
+
+int[] b = new intfa.Length];
++ for (int i= 0; i< bLength; i+=1)
+
+ 
+
+ 
+
+  
+
+URES
+SCOR REX)
+Se UPesEst)
+Dette
+ee
+eed eked
+return -1;
+
+on
+
+cc
+Peace
+Score:
+
+Te ae Be
+
+@ NEED A CLUE?
+
+Ce mies
+
+ 
+
+6848
+
+(B Denpa Onna: »
+
+a Ch lated

@@ -1,0 +1,50 @@
+Rd
+PRC eC Saar oe
+{
+
+ 
+
+Pes Ree are Reece ove se estptst se esc Lap SeU essai ie ce econo)
+
+ 
+
+ 
+
+eee eee cnn
+Oe
+pee Tt ea are Caer eae ee ere ee ee ee ee
+
+ 
+
+ee eg ee ee nee ere te an ee
+Greece (eee
+erect SE en eee ene een en TL a
+
+ 
+
+ 
+
+Pere etree VL
+ee eer errs eye
+ee eer errs eye
+ee eer errs eye
+ee eer errs eye
+Pee eee ETN
+
+Seo
+aoe
+Scan
+ene Gary)
+eon
+SUC a TStarco
+
+ 
+  
+
+sqlDataReader dr = cmd.ExecuteReader();
+Peet See Teor
+dt.Load(dr) 5
+
+arate or
+
+ 

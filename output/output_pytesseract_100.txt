@@ -1,0 +1,60 @@
+eo Véng |p For - Microsoft Visual Studio ooe
+File Edit View VAssistX Project Build Debug Team Data Tools Architecture Test Analyze Window Help
+
+|» [Debus -|[winge2 fia ZI =
+
+oF $e & | BU 8) o€ Fa V1 ee
+
+ 
+
+(Global Scope)
+64] |}5
+65|/Glint main(){
+66 int a, b, x, bien, z, c, scl, bien1;
+67 a=b-=x = bien =z=c = scl = bienl = @
+68 string luachon;
+69 VongLap BienGoi;
+70 VongLap BienGoi2;
+7a VongLap BienGoi3;
+72 cout << "Ban muon 'Tim Boi’ hay ‘Tim So Le’ hay ‘Tim So Chan’ ?\nMoi ban lua chon(Nhap dung tu ngu): "5
+73 cin >> luachon;
+74 if (stricmp((char *)luachon.c_str(), "Tim Boi")
+75 BienGoi.TimBoi(x, bien);
+76 }
+77 else if(stricmp((char *)luachon.c_str(), "Tim So
+78 BienGoi2.TimSoLe(z, c);
+79 t
+80 else if(stricmp((char *)luachon.c_str(), "Tim So
+81 BienGoi3.TimSoChan(sc1, bien1);
+82 +
+83 //Nonglap BienGoi(a, b);
+84 //Nonglap BaiToanTimUoc;
+85 //Nonglap BienGoi2(a, b, c);
+86 system("pause");
+87 return Q;
+88
+
+ 
+
+ 
+
+Output panes
+
+een NPE © 0 Errors | 3 Warrings |[(O/O Messages
+"BBL L-exe'r Loaded "C7 WHNDO\ayatenSOnEGIT.GII", Cannot find or open the PDB file on a
+"BAL Lene’: Loaded *C:\NINDOWS\systen32\kernei32.411", Cannot find or open the PDB Fl
+"Bai l.exe': Loaded 'C:\WINDOWS\system32\msvcp1@@d.d11', Symbols loaded. warning C4996: 'stricmp': The POSIX name for this item is bai 1.cpp
+"Bai l.exe': Loaded 'C:\WINDOWS\system32\msvcr1@@d.d11', Symbols loaded deprecated. Instead, use the ISO C-- conformant name.
+The thread 'Win32 Thread’ (@x62c) has exited with code -107374151@ (@xc@00013a) -stricmp. See online help for details.
+The program '[378@] Bai l.exe: Native’ has exited with code -107374151@ (excee@@13a) 2. warning C4996: ‘striemp': The POSIX name for this item is
+
+deprecated. Instead. use the BO C-~ conforment name
+
+cieiemp. See online help for details
+
+ 
+
+@ @BEE ”* Scyerstatiom Scr ae © Tai sao tao rath. testproject.cpp Tue 04:33PM Q
+
+ 
+

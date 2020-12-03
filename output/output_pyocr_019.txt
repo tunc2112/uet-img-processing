@@ -1,0 +1,59 @@
+Hoatdéng Eclipse ~ aU RPE ry Via a Die bd
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= eee eee dete eet ee ee col ee ae)
+CCM em
+Ee] Pee ee ee ee Cann or oes
+= di *solveSudokuUljava % |B sodokuSolve.java ne)
+Be 130 SolveSudoku (Sudoku, O, O)F a]
+© © 132 //xni nbn ia ul
+132 a .
+N 133) i
+a ;
+135¢e public void addControls()
+Zz 136 i Ms
+137 Container con= getContentPane(); &
+138 JPanel main = new JPanel(); s
+@ 139 con.add(main);
+140 a)
+en Giai= new JButton("Giai");
+re) iy, main.add(Giai);
+143 ere
+5 es dm= new DefaultTableModel ();
+. 145 tb= new JTable (dm);
+146 JScrollPane sctb= new JScrollPane(tb); a
+ei sctb.setBounds (400, 100, 400, 400);
+148 Vector<String> s = new Vector<String>(); S
+149 for(int i=0; i<9;i++) =
+150 {
+151 dm.addColumn (i); a
+452 for(int j=0; 4<9;3++)
+aloys} Sudoku [i] [j]=0;
+per s.add("0");
+55 }
+156 //Kh@i tao 9 cOt va mang s gém 9 sé 0; 7
+alow) for(int i=0; i<9;i++) 7
+158 { a
+159 dm.addRow(s);
+160 }
+am // Tao table 9x9 gém cdc mang s
+any JPanel Sudo=new JPanel ();
+163 Sudo.add (tb);
+164 main.add(Sudo);
+165 a
+ae) public static void showWindow(solveSudokuUI UI)
+
+ 
+
+Pea Parad nrcud STEERED ry

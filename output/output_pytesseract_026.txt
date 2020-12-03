@@ -1,0 +1,129 @@
+ 
+
+‘D Ubuntu 64-bit - VMware Workstation a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+File Edit View VM Tabs Help [J ~ 2 >| fel~
+Boe X Il @ Home [Jp ubuntu 64-bit
+PL Type here tosea.. Suite 7 3
+Cn Mra lanl
+& GI My Computer rr demo.cpp
+[ Ubuntu 64-bit
+1 Shared VMs patna ite x demo.cpp x ailatrieuphu.cpp x
+vous Caunoty)
+Hf
+int N;
+fstream hoi("cauhoi.txt");
+hoi >> Ns
+
+string cauhot;
+string dapani, dapan2, dapan3, dapan4;
+string ketqua;
+
+string tralot;
+
+bool datraloi = true;
+
+for (int j = 0; j < Ns j++)
+
+for( int i = 0; ! hot.eof() ; i++ )
+
+{
+
+ 
+
+hoi.ignore();
+getline(hot,cauhoi);
+= getline(hoi,dapani);
+“ getline(hoi,dapan2);
+
+getline(hoi,dapan3);
+getline(hoi,dapan4);
+
+getline(hoi,ketqua);
+hoi.close();
+3
+San while (datraloi == true)
+{
+
+cout << cauhoi << endl;
+cout << setw(5) << dapani << setw(30) << right << dapan2 << endl;
+cout << setw(5) << dapan3 << setw(30) << right << dapan4 << endl;
+
+ 
+
+cin >> traloi;
+if (tralot
+{
+
+ 
+
+ketqua)
+
+datraloi = true;
+
+cout << "Chuc mung ban da tra loi dung cau hoi" << endl;
+sleep(5);
+
+system("clear");
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+else
+ory {
+badd datralni — falee:
+000 CH > Tab Width: 4 + Ln10,cols + INS
+To direct input to this VM, move the mouse pointer inside or press Ctrl+G Q 224 0/D
+
+   
+
+a P Type here to search e n a ~~]
+
+Z 9:11 PM
+A @)
+@ © @ ENG 2/29/2020
+

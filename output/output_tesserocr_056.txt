@@ -1,0 +1,95 @@
+@ 8 H| a) «.
+
+ARIBs So S| | 9¢| fh MB! | |tocce 4.5.2 cabic aeiease
+(globals v Lv
+ses Debug hien_thi_mang.cpp_ [*] Gia_trituyet_doi.cpp
+31 L } a
+32 void ht_gia tri_tuyet_doi(int *a, double n)
+330 {
+34 int tong=@, dem=0;
+35 for(int i=1;i<n;i++)
+364 {
+37 if(a[i]<@&&fabs(a[i])>5)
+384 {
+39 cout<< <<ali]<<end];
+40 tong=tong+a[i];
+41 dem=dem+1;
+42+ }
+43 fb }
+44 double tbc=tong/dem;
+45 cout<< <<fixed<<setprecision(3)<<tbc<<endl;
+46 4}
+47 void remove(int *a, int n, int k)
+435 {
+49 cout<< 3cin>>k;
+50 if (k>=08&k<8)
+510 {
+52 for (int i
+53 a[i-
+54 n--;
+555 } v
+[Resources CompileLog w/ Debug [K Find Results #] Close
+- Errors: 0 a
+- Warnings: 0
+
+mpiler paths
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Output Filename:
+Output Siz
+
+  
+
+ 
+
+ 
+
+70
+
+Lines Length: 1224 insert Done parsing in 0,016 seconds
+
+cancel
+
+Type here to search
+
+©roM ©
+
+ 
+
+HJ CAUsers\admin\Desktop\KTLT\Gia_tri_tuyet_doi.exe
+
+Teen eee
+
+acecee Meshes ae Ree Me tee Or ee car a
+(ene Saeco cae
+
+ 
+
+r than several replies to a topic in a row, please consider a single reply that includes quotes from
+us posts or @name references.
+
+an edit your previous reply to add a quote by highlighting text and selecting the quote reply button
+dpears.
+
+sier for everyone to read topics that have fewer in-depth replies versus lots of small, individual
+
+Cr cen
+
+ 
+
+18/06/20 a

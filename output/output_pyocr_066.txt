@@ -1,0 +1,98 @@
+B main.cpp [gigki] - CodeBlocks 17.12 - x
+File Edit View Search Project Build Debug Fortran wxSmith Tools Tgols+ Plugins DoxyBlocks Settings Help
+
+(RBBBA\ et 2/XBB\AAES Pm ¢ @ B [paw Jar eee 1e|/Om
+
+[pare ipo >| RM RES Bl e<| RQ Ea © b|
+fh |O|M@|=eemoOoo|aals ci
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+ 
+
+ 
+
+ 
+
+ 
+
+cout << "Hello world!" << endl;
+return 0;
+
+   
+ 
+
+DODIANDUBWNE
+
+B
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E\ Thu muc mdi (2)\gjgkj\main.cpp icic++ | Windows (CR+LF)  WINDOWS-1252_Line 6, Col 2, Pos 60 Insert Read/Write default =

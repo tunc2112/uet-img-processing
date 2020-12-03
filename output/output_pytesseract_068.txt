@@ -1,0 +1,105 @@
+ 
+
+Project5 - Microsoft Visual Studio WF duick Launch (Ctri+O) e
+File Edit View Project Build Debug Team Tools Test. Analyze Window Help
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e®-cae Debug ~ x86 ~| D> Local Windows Debugger ~ Auto -|| 5 ts a .
+Solution Explorer vax ae
+Qi- o-Ssap of FBI Projects =|__ Global Scope) =) ® maind 13
+Search Solution Explorer (Ctrl+;) e- aan =
+122 a
+Fal Solution ‘Project5' (1 project) Db
+4. [Bl Project5 124 List a3 =
+Dam References 425 CreateList(A); Ancontro()s
+> External Dependencies 125 «while (a)
+sl Header Files 127 { .
+Resource Files * anes 5
+ns 129 cout << setw(88) << - MENU SINH VIEN 5 1
+4 fal Source Files Be cout << setw(88) <<
+b  ** Source.cpp 1B cout << setw(88) << MENU CHINH (\W)_Q")\n"5 1
+132 cout << setw(74) << I\n"5
+2 intenu(Menutiain, 1, sizeMain, 40)3 I
+ae cout << endl << setw(73) < 5 3
+35 n= choice(Menutlain, 1, sizetain, 40); :
+6 if (n == 41) Menud();
+a? og Sf (n == 2) in
+Bs {
+39 system("cls"); HienConTro()s
+“we while (1)
+{
+PrintFile((char*)"Sinhvien.dat™, A); setColor(14);
+cout << “nhan backspace de quay ve menu chinh "5
+cout << "=> "3 setcolor(15)5 s
+100% ~ 4 = >
+Error List vr aX
+Entire Solution ~  |€3 24 Errors | | 5 Warnings | @) OMessages |p| Build + IntelliSense - Search Error List Pp
+Code Description Project, File Lin
+COST ‘typedef ignored on left of 'Sinvien’ when no variable is declared Projects source.cpp 15
+Jk C4091 ‘typedef ignored on let of Node! when no variable is declared Projects source.cpp 20
+4k C4091 ‘typedef ignored on left of ‘List when no variable is declared Projects source.cpp 24
+© 2564 ‘void inMenu(char*[]int int int)": cannot convert argument 1 from ‘const char “[6)'to ‘char “I Project source.cpp. 133
+(3 2564 ‘int Choice(char “[.int.int int)’: cannot convert argument 1 from ‘const char *[6]' to ‘char *[]' Project source.cpp 135
+Solution Expl... Class View Property Man... Team Explorer 4 eS = . —_— eG 5 >
+
+ 
+
+Tee cue Seteeshene Peeretetcn es
+

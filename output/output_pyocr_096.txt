@@ -1,0 +1,79 @@
+File Edit Search View Project Execute Tools AStyle Window Help
+
+o@ @#e|4\*- |BBIBS 8 OB 88| | % | hh ab ||zex-cc «9-2
+DAO | tcrvars) v
+
+Project Classes Debug _test.cpp_ test2.cpp
+
+3 #include <stdlib.h>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+   
+    
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+54 int main(void) {
+6 FILE * fp;
+7 fp = fopen("dictionary.txt","r");
+8
+9 char points[1000][20];
+10] ant 0,45 Second
+120 for(j=0; 5<20; j++) { abcd 7
+18e if(points[i][j] == ‘\n'){ _
+14 itt; aaaaa
+45 fscanf (fp, "%c",&points[i][j]); aaaaaa
+167 } aaaaaaa
+175 else{ aaaaaaaa
+18 fscanf(fp,"%c",&points[i][j])3 aaaaaaaah
+' } } aaaaaaauugh
+21 print("%e\n", points[][0]); aaaaaagh
+22 printf ("%e\n", points[@][1]); aaaaaa
+23 printf ("%e\n", points[@][2]); aaaaaaugh
+24 printf("%c\n", points[@][3]); aaaaagh
+25 printf("%c\n", points[@][4])5 aaaaah
+26 printf("%c\n", points[1][@])5 aaaarthur
+27 return 0; aaaaw
+2aha} aaagghhhh
+25 Compiler My Resources th CompileLog ~ Debug [Eh Find Resuits ME] Close aaah ’
+- Warnings: 0 Ln 8, Col9 100% Unix (LF) UTF-8 a
+- Output Filename: D:\!\Labc\C.L.P0001\test2.exe
+- output Size: 128.7724609375 KiB
+- Compilation Time: 0.175
+Lishorten compiler paths ¥
+
+ 
+
+ 
+
+ 
+
+13 Cok 27 Set 0 Lines: 28 Length: 567 Insert Done seconds
+
+    
+
+ee Ree eras ne Ree Petre

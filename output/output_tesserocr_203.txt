@@ -1,0 +1,34 @@
+int n, x
+
+printf ("Nhap yao mot so: ");
+
+scanf("%d", &n);
+
+printf ("Tong cac so nguyen to nho hon n la: ");
+for(x=2; x < n; x++)
+
+{
+if (KTSoNguyenTo (x) != 0)
+Sis 2x
+
+printf (“td\n", S) ;
+getch();
+
+KTSoNguyenTo (int x)
+imtie= 2;
+while (x
+tee;
+Mita Oe 1),
+return i;
+else
+return
+
+Line Message
+
+=== Build finished: 0 error(s), 0 warning(s)
+
+(0 minute(s),
+
+ 
+
+Windows (CR+LF) WINDOWS- 1252

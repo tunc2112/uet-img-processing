@@ -1,0 +1,35 @@
+greats wisw Bangi
+select RoutesID,Times, ScheduleDate, Schedules. AircraftID,AircraftName, FightNumber, ScheduleID, EconomyPrice,
+EconomyPrice *0.03 as ‘Business Price',EconomyPrice *0.13 as ‘First Class Price’, Confirmed
+
+from Schedules inner join Aircrafts
+
+on Aircrafts.AircraftID-Schedules.AircraftID
+
+with check option
+
+SELECT * from Bangl
+
+orsane. view, Bang?
+
+select Airports.AirportID, Airports.AirportName, RoutesID, DepartureAirportID
+
+from Airports inner join Routess on Airports.AirportID-Routess.DepartureAirportID
+
+with check option
+
+select * from Bang2
+
+creeks. view, Bangs
+
+select Airports.AirportID, Airports.AizportName, RoutesID,ArrivalAizportID
+from Airports inner join Routess on Airports.AirportID-Routess.ArrivalAirportID
+with check option
+
+select * from Bang3
+
+creeks. view, HienTRiThongTin
+
+ 
+
+ 

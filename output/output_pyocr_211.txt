@@ -1,0 +1,31 @@
+File Edit Search View Project ‘Gace Tools “AStyle (i es
+O@MG@e) 2) ~-|ca\ea|| 04/0) omy
+
+¥
+
+printf (
+
+printf ( );
+fflush(stdin) ;
+gets(ts.hoten);
+
+printf ( );
+scanf ( ,&ts.toan) ;
+
+printf ( ;
+
+scanf (
+
+printf (
+
+scant ( ,&ts.hoa) ;
+ts.tong=ts.toantts.ly+ts.hoa;
+if(ts.tong>19) *ts.loai= ;
+else *ts.loai= ;
+fwrite(&ts, siveoe(ee) a fps
+
+ 
+
+ 
+
+ee ail aa Debud | (ch Find Result We) Close

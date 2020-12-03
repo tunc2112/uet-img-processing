@@ -1,0 +1,88 @@
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+File Edit Search View Project Execute Tools AStyle Window Help
+o@ ge|al\e BE\B8 BS SS] | 9 | ohh || [zox-coc 42.2 cabic release Vv
+FT] @ Ol || ras) S =
+Project Classes Debug  UntitledS.cpp
+
+1 #include <iostream>
+
+2
+
+3 using namespace std;
+
+4
+
+5@ int main(){
+
+6 int 3
+
+7 int dem
+
+8 int min
+
+9 int max
+
+10 float tbe = 0;
+
+cr while(4){
+
+12 cout << "Nhap vao day so: " << endl;
+
+13 cin >> ny
+
+14 dem++5
+
+15, if(n>max) max
+
+16 if(n<min) min
+
+17
+
+18
+
+19 cout << "So lon nhat la: " << max << endl;
+
+20 cout << "So nho nhat la: " << min << endl;
+
+21 cout << "Trung binh cong la: " << tbe << endl;
+
+22 }
+
+aly
+
+25 Compiler My Resources tll CompileLog w/ Debug [GQ Find Results i] Close
+
+Compilation results... a
+
+ 
+
+ 
+
+- Errors: 0
+- Warnings: 0
+
+= Output Filename: C:\Users\Admin\Documents\Code\Untitleds.exe
+- Output Size: 1.83260917663574 MiB,
+
+- Compilation Time: 9.703
+
+ 
+
+ 
+
+ 
+
+Line: 18 Cok 16 Set_0 Lines: 23 Length: 426 Insert Done parsing in 0 seconds
+
+DTT
+
+ 

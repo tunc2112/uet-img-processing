@@ -1,0 +1,67 @@
+DQ) dasdiasd - Microsoft Visual Studio Quick Launch (Ctr!+Q) p- # x
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+©-°o ®- game 9- > Local Windows Debugger - Auto + Debug > Win32 - Alte Pe8 :
+&G %
+Solution Explorer RAE aE ciasdasd.cpp + ~#
+@ o- di o +{B] (Global Scope) | © _tmain{int argc, TCHAR* argv{)) a
+scorch Solution Eeplorer (Cl) De 1 Gi) desdend.cpp + Defines the entry point for the console application. Ee
+Fl Solution ‘dasdase' (1 project) 3 .
+4 (Bl dasdasd 4 Giinclude "stdafx.h" 3
+DB Bxtemal Dependencies 5 | wincludeciostream | g
+4 Gal Header Files © int eeain(ent ance, TCHAR® argv] 2
+Dan 2 Fine main(int argc, _TCHAR* argv[]) z
+B targetverth of] int a,b,c,ds 2
+al Resource Files 10} | cout<<"nha so a"; &
+4 Gil Source Files 11} | cin>oas
+> + dasdasd.cpp a2} | coute<"nhap so b"5
+rorriaeopp 13) | cin>>bs
+Bi ReadMent as} | coutc<*nhap soc
+a5) cin>>e3
+16} | coute<"nhap so 4"
+a7) cin>>ds
+as) F(ab)
+a9} | cout<<("max:",a)5
+20) | iF(b>e)
+2a} | coute<("max:",b)5
+22) if(e>4)
+23) | coutc<("max:",¢)5
+2a} | else if(d>c)
+25) | coutc<("max:",d)5
+26} | else
+27) | cout«<"khong co so lon nhat"s
+28 | system("pause");
+2 |}
+30
+BL
+100%
+Output vax
+Show output from: Debug . eu
+‘dasdasd.exe' (Win32): Loaded 'C:\Windows\SyswOW64\KernelBase.dl1'. Cannot find or open the PDB file. “
+‘dasdasd.exe' (Win32): Loaded ‘C:\Windows\SysWOW64\msvcp110d.d11". Symbols loaded.
+‘dasdasd.exe’ (Win32): Loaded ‘C:\Windows\SysWOW64\msver110d.d11". Symbols loaded.
+The thread @x834 has exited with code @ (@x@).
+The thread Ox18e0 has exited with code @ (@x®).
+The program '[2664] dasdasd.exe’ has exited with code @ (@x®).
+4 »
+
+Solution Explo... | Class View| Property Man... | Team Explorer Output | Error List
+
+ey
+foes
+
+ 
+
+=D eae

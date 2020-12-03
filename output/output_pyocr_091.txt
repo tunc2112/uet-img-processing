@@ -1,0 +1,40 @@
+{icc Pa =e aC Ufo ole OMCs OTS TL eel OSM Ts Cos Toco) co eT = 4
+
+ 
+
+  
+
+ 
+
+ 
+
+pythonProject ) (% main.py @minvy >» & Q
+peed
+2 :
+a ee na
+5 Y= input('Enter a word: ')
+rane
+a
+while X != Y:
+if Z<=T:
+Y = input('Enter a word: ')
+z= Z+1 —
+else print('You lost') .
+else: print('You won') 7
+alal
+Pa bo oad
+& > + File "C:\Users\Admin\PycharmProjects\pythonProject\main.py", line 7
+- Y = input('Enter a word: ')
+a v .
+a ty ES IndentationError: expected an indented block
+E * 4 Ger Pee ever rye
+eT P-L De elo Update...
+bd
+SS
+| ea OO: od clo eC Te Rol CMAN) cd Cena kay
+
+1D PyCharm 2020.2.4 available // Update... (36 minutes ago) cre UL ata Ceo EN uence f
+
+EN is Pa
+oe ») ENG )
+oe as 11/29/2020 Fy) |

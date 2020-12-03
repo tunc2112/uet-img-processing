@@ -1,0 +1,35 @@
+29] ProbiemOnstack - Microsoft Visual Studio BAG F cuicktaunch(ceisg) Px
+
+ 
+
+a a a ee) CT ead
+(Rew ea0 le e Cd Sa Ro 8 ae.
+acct eri es ee fe Veer ars ten teres
+eased Sa) eye ae Saree?
+494 5 } ue Naa ake a
+: To automatically close the console when debugging stops, enable To
+Cy | 3 eet aes ee
+rls int main() Cee ese eae To
+497 { 7
+rr =o oleae)
+499 H
+rd a TONED
+Eve a TOTES
+502 ! st. push(31);
+503 ey OC
+try a oC
+9 CCE
+506 f
+EA MSc cst eC haeines ete Ua acu erinceta sean
+33) H
+509 | while (!result.empty())
+510 on!
+Cann H PSL SORE) © BS
+ESP) | | result. pop();
+513 1}
+es H ry
+515 return @;
+516 4 y
+S| ——————————————— .
+
+rr aecaied

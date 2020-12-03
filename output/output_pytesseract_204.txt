@@ -1,0 +1,65 @@
+[S88 s/aale)
+
+(i New il] Insert Bi Toaale Wf Geto
+|
+
+_LeQuangvinh_GK2.cpp |
+
+ 
+
+      
+     
+
+#include <iLostream>
+using namespace sta;
+
+  
+
+int main ()|
+{
+int a;
+
+inE Gb:
+
+double nghiem;
+
+Stdiicout << "nhap a = %
+Stditcin >> a;
+
+ 
+
+ 
+
+Std:itcout << " nhap bo = (">
+Stdi:icin >> b;
+if(a=o0) ¢
+if (b==0) ¢
+Stdstcout << " ph Ong trinkh va s gaiem" << endl;
+} else {
+cout << " Phuo O ma) <<ciheel ls
+2
+Feelse {
+nghiem = (double) - b/a;
+Stdiicout <<) "Phong t Loner | hie +
+
+A
+“A
+
+nohiem << endl;
+
+System("Pa
+
+ 
+
+me) s
+
+ 
+
+return 0;
+
+h Compile Lag | GP Debug
+
+ 
+
+Ready.
+

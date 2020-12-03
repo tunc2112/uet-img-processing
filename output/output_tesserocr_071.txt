@@ -1,0 +1,147 @@
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] ~
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+ 
+
+ 
+
+OW O|+¢ xSHA/AAl|]e |S
+
+Ea Doctruyen) F3.app) Este) Cimain) java ) 5 com
+sie Anroid tL OH iE
+5 Capp
+
+€) © Cimanfests
+
+5 I AncrodMenifest. xi
+
+S| a Dew
+
+(GE com.example.kavechua.dectruyen
+2 © w Customuistadapter
+q (Item
+a © % Man2actvity
+7 © w Mainactvity
+© % Man3
+5 com.example-kavechua.doctryen (androidTest)
+2 FE comexample.kavechua.doctruyen (test)
+3 Pures
+Ei dranable
+
+GE layout
+
+[Si actvity_main xml
+
+[i actvity_main2.aml
+
+ 
+
+  
+
+ 
+
+ 
+
+tem x
+{S man3.xml
+5 mipmap
+Eraw
+values
+© Grade saints
+
+i
+3
+
+ 
+
+ 
+
+.\app\src\main\java\com\example\kavechua\doctruyen\Man3,java - Android Studio 2.2.1
+
+ 
+
+PRG Gms [Crh]?
+[example ) Ei kavechua ) 5 dectruyen ) (©) Mans
+(©) Main2Actvty java x | © Man3java x | ©) Itemjava x | [Si man3.xml x
+
+ 
+
+package com-example.kavechua .doctruyen;
+import
+
+[public class Man3 extends Activity
+implements View.OnClickListener {
+TextView tv, tv2;
+Button bt_backkk;
+Goverride
+at protected void onCreate (Bundle savedInstanceState) {
+super.onCreate (savedInstanceState) :
+setContentView(R.layout.man3) ;
+tv = (TextView) findViewByld(R.id. textView) +
+tv2 = (TextView) findViewByld(R.id. textView2) +
+bt_backkk = (Button) findViewById(R.id-bt_backkk) ;
+bt_backkk. setOnClickListener ((V
+Intent a = getIntent ()7
+
+ 
+
+this);
+
+  
+
+StringBuffer sbuffer = new StringBuffer();
+InputStream is = this.getResources() .openRawResource (R.raw.a) +
+BufferedReader reader = new BufferedReader (new InputStreamReader (is) );
+if (is != null) {
+try {
+while ((dataA = reader.readLine()) !
+sbuffer.append(dataA +
+
+ 
+
+ 
+
+ 
+
+null) {
+
+ 
+
+}
+
+ 
+
+Platform and Plugin Updates
+Android Studio is ready to undate,
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 v2. sevTene (sbustex) z
+3 ss.close()7 z
+fi } catch (Exception e) { z
+Z e.printStackTrace (): E
+1
+TODO sf &: Android Monitor [Terminal [| Q: Messages: EventLog
+LD cradle build finished in 18s 967ms (18 minutes ago) UIF-8¢ Context: <nocontext> —& @
+om @ De
+
+   
+
+ 

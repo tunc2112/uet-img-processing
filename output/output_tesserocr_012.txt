@@ -1,0 +1,39 @@
+ 
+
+gxeate view HienThiThongTin
+
+select Bang2.AirportName as'From',Bang3.AirportName as 'To', FightNumber, Bangi .AircraftNeme, Bang1.EconomyPrice,
+Bangl.EconomyPrice “0.03 as ‘Business Price’,
+
+Bang.EconomyPrice “0.13 as ‘First Class Price’, ScheduleDate, Times, Confirmed
+
+from Bangi inner join Bang2 on Bangl.RoutesID-Bang2.RoutesID
+
+inner join Bang3 on Bang2.RoutesID=Bang3.RoutesID
+
+with check option -
+
+select * from HienThiThongTin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FResuts | [79 Messages
+
+ 
+
+ 
+
+ 
+
+From To FightNumber AircraftName EconomyPrice Business Price FirstClass Price ScheduleDate Times Confirmed
+[Atporis005 | Aiports001 100 Aname003 250 750 3250 2018-01-20 00:00:00.000 21:00 Huy

@@ -1,0 +1,24 @@
+wef.cpp
+eH
+peered
+Pore eee re
+
+main()
+ay
+id_user, password_user;
+i ne
+conaeed 5 cin >> id_user;cout << endl;
+Poaees Sree SUS Eat MCT ccTLan cg
+
+eer mT
+Conaeoare or
+
+(password_user != password))5
+ceo Paces)
+
+@
+
+cuments\wef.exe
+
+ 
+

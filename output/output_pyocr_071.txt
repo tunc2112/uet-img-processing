@@ -1,0 +1,88 @@
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] -..\app\src\main\java\com\example\kavechua\doctruyen\Man3.java - Android Studio 2.2.1 -
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+    
+
+   
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+DH O|¢s|¥HmM/AAle >|< PeReGG OES |e |? Q
+_EgDoctruyen ) Ejapp ) Fist ) Eimain ) Fi java) Eicom ) Eiexemple ) Ei kavechua ) 1 doctruyen ) (¢) Man3
+19 Android y e > $+ | ©) Mananctivity.java x | ©) Man3.java x | (©) Item.java x | [Si man3.xml x Platform and Plugin Updates
+&-Caape package com.example. kavechua.doctruyens Android Studio is ready to update,
+€)  & Cimanfests
+a 1g AndroidMenifest.xml ot
+@ Diva tape
+° Ee crane Koved ocuren | public class Man3 extends Activity
+a ae implements View.OnClickListener { a
+5 © & ManaReovty TextView tv, tv2; a
+iS © % Manactvty Button bt backkk;
+© % Mans @override -
+[E5 com.example.kavechua.doctruyen (ancroidTest) | 81 protected void onCreate (Bundle savedInstanceState) { o
+8 [Ei com.example.kavechua.doctruyen (test) super. onCreate (savedInstanceState) ;
+3 © Dgres setContentView(R.layout.man3);
+drawable tv = (TextView) findViewSyld R.id. textView) +
+GE layout tv2 = (TextView) findViewSyld R.id. textView2): -
+[Bi activity_main.xml bt _backkk = (Button) findViewByld(R.id.bt_backkk) ; oq
+B actvty rand bt_backkk. sevOnClickLi svener ((\ tis);
+tem. 3
+Intent a = geeIncent ();
+[Si man3.xml se 0 =
+En mipmap
+Biren
+Envaies
+3 Grade Scripts
+€ StringBuffer sbuffer = new StringBuffer();
+InputStream is = this.getResources () .openRawResource (R. raw.a) 7
+£ BufferedReader reader = new BufferedReader (new InputStreanReader (1s)) 7 >
+3 aif (is != null) {
+5 try { -
+a while ((dateA = reader.readLine()) != null) { oq
+sbuffer.append (date +
+1
+4 v2. sevTene (sbustex) z
+5 is.close(): g
+& } catch (Exception e) { z
+& ¢.printSvackTrace (); =
+1
+TODO sf &: Android Monitor [Terminal [| Q: Messages: EventLog
+
+ 
+
+ 
+
+CRIFS UTF-8: Context: <nocontert>
+ean
+
+ 
+
+Bi Grade build finished in 18s 967ms (18 minutes ago)
+
+om @
+
+ 
+
+re

@@ -1,0 +1,41 @@
+select clb.TENCLB,COUNT( ct.MACT) soluong
+
+from (CAUTHU ct Inner join QUOCGIA qg on qg.MAQG=ct.MAQG)
+Inner join CAULACBO clb on ct.MACLB=clb.MACLB
+
+where qg.TENQG=N'Viét Nam’
+
+Group by clb.TENCLB
+
+ 
+
+= select*
+from (CAUTHU ct Inner join QUOCGIA qg on qg-MAQG=ct.MAQG)
+Inner join CAULACBO clb on ct.MACLB=clb.MACLB
+where qg.TENQG!=N'Viét Nam"
+Group by clb.TENCLB |
+
+% >
+
+Messages
+isg $120, Level 16, 1, Line
+
+     
+ 
+
+in either an aggregate function or the
+
+   
+
+elect list because it is not cont
+
+   
+
+Column 'CAUTHU,
+
+~21722:42:37.2488184+07:00
+
+ 
+
+Completion time: 2020-:
+

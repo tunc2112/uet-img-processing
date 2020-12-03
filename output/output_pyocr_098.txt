@@ -1,0 +1,63 @@
+DQ] <- Microsoft Visual Studio Quick Launch (Ctr!+Q) p- # x
+
+FILE EDIT VIEW PROJECT BUILD DEBUG TEAM SQL TOOLS TEST ARCHITECTURE ANALYZE WINDOW HELP
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+    
+      
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+©-o|®@-amw|9- > Local Windows Debugger - Auto + Debug > Win32 ~ | Moo <> re | :
+Senn See eneeetiant 2 i
+@)o-ea o +B] (Global Scope) §|claaarasissaran B=
+- 1 El#include<iostream> se
+Search Solution Explorer (Ctsl;) 2 2 Teincludecmeth. ho a:
+FH Solution 'e' (1 project) 3. | #includecstdio.h> ‘
+ace 4 using namespace stds 3
+> EB xtemal Dependencies 5 Glint main(int argc, char * agrv[]) e
+4 &] Resource Files et .
+7 GRSEBREA Float a,b,c; >
+ee 8 coutc<"tim tam giac\n"; 3
+4 i] Source Files 9 cout<<"nhap a"; cin>>a; 3
+> Sourcecpp 20 cout<<"\nnhap 6"; cin>>b; &
+ai) coutc<"\nnhap "3 cin>>e3
+2 if (a!=0 && b!=0 && c!=0 && (atb>c) && (atcrb) && (b+c>a))
+B {
+4
+1s
+16 if ((ata + b*b ata) coutc<"tam giac vuong"s
+v else if ((ata + bb ) |] ("> + ete == ata) 88 (
+18 else coutc<"tam giac thuong";
+1 }
+20 else {coutc<"khong hop 1
+a system("paus:
+2 |}
+100% ~|4 »
+Error List vax
+Y ~ [© terror Search Error List a
+Description File = Line Project Column
+[1 IntelSense: invalid combination of type specifiers Source.cpp 7 < 2
+
+Solution Explo... | Class View| Property Man... | Team Explorer Breakpoints| Error List
+Output

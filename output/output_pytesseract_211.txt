@@ -1,0 +1,39 @@
+od Edit Search View Project Execute Tools AStyle Window Help
+OMG0a/2)~-|Geigalaaia, [85 mas) | | dha! |[amecee
+aan aa —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+printf ("Nhap th sinh thu %d:\n",i)3
+printf("Ho ten: ")
+fflush(stdin) ;
+gets(ts.hoten) ;
+
+printf("Diem Toan: ");
+
+scanf ("%f",&ts.toan) ;
+printf("Diem Ly: ");
+scanf("%f",&ts.ly);
+printf("Diem Hoa: ");
+scanf("%F",&ts.hoa) ;
+ts.tong=ts.toantts.lytts.hoa;
+if(ts.tong>19) *ts.loai="Do";
+else *ts.loai="Truot”;
+fwrite(&ts,sizeof(ts),1,fp);
+
+ 
+
+ 
+
+oT co nite Load |aF Debug | ibd Find Results We) Close
+

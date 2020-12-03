@@ -1,0 +1,89 @@
+ 
+
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] - ...\app\st¢\main\java\com\example\kavechua\doctruyen\Main2Activity java - Android Studio 2.2.1
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+   
+
+bao a ¢ 4 Gas) > $b G 4 |?
+Doctruyen Eaapp [isc Elman Eijava Elcom Elexample Eikavectua [Eidocruyen © Main2Activity
+= © # | He be | Bimansam x | © manzactivity.iava x | © Man3.iava x Platform and Plugin Updates
+
+© Android Studi is ready to uodate.
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+  
+ 
+ 
+
+ 
+
+   
+
+   
+
+ 
+
+   
+ 
+
+     
+
+wtrayén agin 7” a
+"Truyén ngdn 8", =
+S) S-Di ey, 7
+Ey com.example.kavechua. doctruyen 7 = cane
+© & CustomlistAdepter Rs
+2 © & Item ruyén ngén 11
+3 © & Main2aetvity ye
+& © & Mainactvity View
+& © % M3 Button bt_back,bt_next
+<8 EE com.example kavechua.doctruyen (ani
+<a B com.example.kavectua.doctruyen (st et protected void onCreate (Bundle savedinstancestate) {
+2 res super. onCreate (savedinstanceState)
+a Ei drawable setContentView(R. layout. activity main2) ;
+r = Elayout
+ actvity_main xml bt_back = (Button) findViewsytd(R.id.bt_back) ;
+Si actvty_main2.xnl bt_next = (Button) findViewSyId(R.id.bt_next)
+tem xml bt_back. setOnClickListener ((View.OnClickL this!
+® man3.xm bt_next. setOnClickListener ( (Vi this!
+«aE mipmap -
+Eran
+ca 5 values
+Cr CustonListAdapter adapter = new CustomListAdapver (this,nane) ;
+Ivi= (ListView) findViewSyld(R.id.1vi);
+Wi. setadapter (adapter) +
+2 st IWL.setOnTtenClickListener( (parent, view, position, id) + {
+8 String Slectediten = name[+position];
+a int :
+c Toast.makeText (getapplicationContext () ,Slecteditem, Toast. LENGTH_SHORT) . show ():
+Intent i = new Intent (getApplicationContext(), Man3.class);
+i -putExtra ("2",name[+position]}
+8 foputexcra ("x" noidung position] z
+: startactivity (1 £
+rs) a
+S: Android Monitor (BlQ: Messages] Terminal Eventlog [El Grade Console
+
+@To0o
+i cradle bul frshed in 21s 216ms (today 4:49 PM)
+
+ 
+
+10420 CRIFS UTF-8¢ Context: <nocontet> —& @
+EN
+
+  
+

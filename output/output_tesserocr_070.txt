@@ -1,0 +1,111 @@
+ 
+
+® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] -..\app\src\main\java\com\example\kavechua\doctruyen\Man3.java - Android Studio 2.2.1
+
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+OH O|¢ + |S M|/QAl¢ > |\\ Garr FRG MIL |S [lL |? Q
+Doctruyen) Pg app) Else) E]main) Sljava) Ejcom) jexample) [Ej kavechua ) [i doctruyen ) © Man3
+
+1B Android a © & | #- I+ | © Main2actvityava x | © Man3ijava x | © Itemjava x | iman3xml x es
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bo Cia TexeView bo, Wis Android Studios ready to update,
+7 & Dimenfests cvarifestxml Button bt_backkk; GF
+a |g} AndroidManifest.xml 0) i.
+
+@- Diva a protected void onCreate (Bundle savedInstancestate) {
+
+© Exon example kavechus.dectuyen super. onCreate (savedInstanceState) ;
+
+ 
+
+    
+
+2 © w Customuistadapter
+a aes setContentView(R. layout-man3) ;
+& (© w Monzacvity tv = (TextView) findViewByld(R.id. textView) ;
+fs © @ Mainsctvity tv2 = (TextView) findViewByld(R.id. textView2):
+8 Mand bt _backkk = (Button) findViewByld (R.id.bt_backkk) ;
+FE com.examle.kavechua.doctruyen (ancroidTest) bt_backkk. setOnClickListener ((
+2 F com.example.kavechua.doctruyen (test) Invent a = getIntent();
+i es String nt = a.getStringfxtra("2");
+& Fy drawable tv.setText (nt) 7
+Elayout if (nt == "truyena") (
+[S actvity_mainxml pore
+|B actvity_main2.am1 Ee eee ste eee eee
+Steno Seen i tees cee) Meee cn cere ee
+Si man3ami eee ee et a eee eee ace CECE
+E1mipmep Prareeeetse tin
+Eves pa
+
+ 
+
+> STC See eee eee
+® Grade serpts
+
+& rt Sessa cae ws
+Caeser ote
+eeteent
+
+east
+
+BuidVaients
+
+Secteatey
+
+ 
+
+ 
+
+ 
+
+ 
+
+*
+
+4 z
+eB if (nt == "truyenb") { S
+£ String datan ="; 2
+StringBuffer sbuffer = new StringBuffer (); es
+
+TnnutSt = th: Rs u Rams AR. biz 7
+
+ 
+
+000 Eventlog [Ej Grade Console
+
+Bi Grade build finished in 18s 967ms (17 minutes ago)
+
+Android Monitor [| Terminal [lO Messages:
+
+ 
+
+682 chars, 15lines 31:2 CRLF? UTF-8¢ Context: <nocontext> = @&
+nD
+
+ 
+
+Peon
+
+        

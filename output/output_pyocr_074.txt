@@ -1,0 +1,116 @@
+® Test2 - [C:\Users\kavec\AndroidStudioProjects\ Test2] - [app] - ...\app\src\main\java\com\example\kavec\test2\Main2Activity.java - Android Studio 2.2.1 _ oO x
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+
+Oa S|¢s|KXOM/AAle >/4 PREGGO |S|RlL|? Q
+Ca Test2 ) Ca app) Cisrc ) Dimain ) Di java ) Elcom ) Ejexample ) E] kavec ) [F] test2 ) ©) Main2Activity
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+1H Android : 4 b+ | ©)Mand java x | (©) MantO.java x | ©)ManiLjava x | (©) Mani2java x | © Main2Actvty java x | E)itet x | Elite x | © Mendjava x le
+i © b mani2 Tvl setAdepter (adapter) ame
+€ [2 com.example.kavec.test2 (androidTest) ib
+a FE com.example.kavec.test2 (test) Iwi. setnItenClickListener( (parent, view, position, id) — { 4
+Dares String Slecteditem = name[+position];
+G- Ei dranable Toast.makeText (getApplicationContext () , Slecteditem, Toast. IENGTH_SHORT) .show()
+i) backong
+i] matipg
+
+ 
+
+Invent 4 = new Intent (getApplicationContext (), Man3.class)
+one S.putextze "2" ane [#position]); a
+yet nanan startactivity (1):
+
+|B actvity_main2.xml
+
+ 
+
+‘|
+E
+4
+
+     
+
+ 
+
+ 
+
+ 
+
+Intent 0 = new Intent (getApplicationContext(), Mand.class);
+mario o.putExtza ("2" name [+position]):
+
+inantiaml startActivity (0)
+
+Bi mania!
+
+Siman3.am Invent q = new Intent (getApplicationContext(), ManS.class) ; 4
+Bi manda q.putExtra("2" name [+position] )
+
+Bi manS.xm startActivity(q)?
+
+Bi man6.xml
+
+|Stman7.oml Invent w = new Intent (getApplicationContext(), Mané.class) ;
+[Si mand.am w.putExtza ("2" name [+position]):
+
+i man.xm
+
+startActivity (Ww):
+
+ 
+
+@-Eiraw
+
+ 
+
+ 
+
+ 
+
+rnvent 2 = new Invent (gethopticetionConcext()» Man? class)
+
+r spatExvra("2" mane[ position)
+
+4 earenceiviey(o)t
+
+iS Intent d = new Invent (getAppticationContent(), Mand class)
+upacExera ("2" nane sposition})3
+
+   
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+startActivity (a): *
+
+5 invent b = new intent (getApplicaionContext(), Man8.class); je
+
+5 ; beputtxtra "2" name +position]): 7
+
+* En values startActivity (b): g
+
+® Gradle Scripts aa
+[Terminal jj §: Android Monitor (HQ: Messages @3:Find > 4:Run TODO (Gz EventLog HZ Gradle Console
+
+. Gradle build finished in 1m 17s 476ms (3 minutes ago) 99:34 CRLF UTF-8¢ Context: <nocontext> fw @
+
+ 
+
+Earn

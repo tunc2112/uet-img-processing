@@ -1,0 +1,59 @@
+Hoatdéng Eclipse ~ Thg 123 17:01@ Via a Die bd
+= eee ee ee ea eee La ee cal) a)
+CCM em
+
+        
+
+   
+
+ 
+
+ 
+
+ 
+
+ea ee a di 7 ce a ee
+eR a ee aE ne)
+eer, ae ex heake | se eke as es eo ma Tene) 5
+100 oO
+paOne a s
+102
+sieht) @Override
+mer public void mouseExited(MouseEvent arg0O) {
+ai05 // TODO Auto-generated method stub
+106
+paOM) a
+108
+amehel @Override
+#110 public void mouseEntered(MouseEvent argQ0) {
+t en // TODO Auto-generated method stub
+pine)
+113 a
+S ee
+115¢ @Override
+116 //S¥a kién khi click chuét vao 1 6: 5
+coe public void mouseClicked(MouseEvent arg0O) { al
+118 int row= tb.getSelectedRow();
+119 int col= tb.getSelectedColumn (); 7
+120 String s = JOptionPane.showInputDialog("Nhap vao gia tri cho 6:"); a
+wan Sudoku [row] [col]=Integer.parseInt (s);
+a) //Chuyén s6 d& nhap vao mang 2 chiéu dé xt li va set value tai 6 hién tai
+23) dm.setValueAt (Sudoku[row] [col]+"", row, col);
+ae a
+125 be a
+al Giai.addActionListener(new ActionListener() {
+127 a
+aml @Override
+2129 public void actionPerformed(ActionEvent argQ0) {
+130 SolveSudoku(Sudoku, 0, 0);
+aie //&bi, phan gidi
+132 a
+aS) be
+pcr a
+135¢e public void addControls()
+
+ 
+
+ 
+
+Pea Parad nrcud SR LEee eee} f |

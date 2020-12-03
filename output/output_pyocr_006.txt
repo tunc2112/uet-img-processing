@@ -1,0 +1,24 @@
+finclude <stdio.h>
+fsnolude <stdlib.h>
+fsnolude <math.n>
+fsnolude <string.h>
+fsnolude <otype.n>
+fsnclude <stabool.n>
+int main () (
+int n, dem, array[i00]h
+printf ("n=");
+scant ("ta",cn);
+for (int i=0;icn;itt+){
+printf ("array[$d]= ")4):
+scant ("sd", carray[3]);
+)
+for (int 4-0; dcnsi++) (
+for (ant JHilr3ens3+4) (
+if ((array[i]+l=-array[3]) | | (array[i]-l=-array[3])){
+dem++;}
+printf ("Sd\n",erray[i]);
+
+ 
+
+printf ("sd", dem) ;
+return 0;

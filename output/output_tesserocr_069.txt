@@ -1,0 +1,72 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+@® DocTruyen - [C:\Users\kavec\AndroidStudioProjects\DocTruyen] - [app] - ...\app\src\main\java\com\example\kavechua\doctruyen\Main2Activity,java - Android Studio 2.2.1 - x
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+OA S|¢s|¥OM/AAl|e dS PeRiERGHIA|S|RlL|? Q
+_EgDocTruyen ) Ejapp ) iste) Eimain ) Fijava ) Eicom ) Ej example ) [ikavechua ) [i doctruyen ) (¢) Main2Actvity
+= © | Ee | Bimansxml x | © Main2Aactivity.java x | (©) Man3java x Platform and Plugin Updates
+Android Studio is ready to update.
+So Dina a
+(Ei com.example.kavechua.doctruyen *
+© & Customistadapter
+2 ©d Item .
+g © & Main2Activity i
+& © Manactvity View vi
+ei Oumas Button bt back, bt_nexts a
+eoverride 7
+oa protected void onCreate (Bundle savedInstanceState) { “7
+8| G-Dares super .onCreate (savedInstanceState)
+serContentView(R-layout. activity main2);
+bt back = (Button) findViewById(R.id.bt_back):
+bt next = (Button) findViewById(R.id.bt next):
+bt back. setonClickListener ((V :
+bt next .setonClickListener ((V :
+CustomListhapter adapter = new CustomListAdepter (this, name)
+vis (ListView) findViewByld (Rid. Lv) +
+ivi. secAdepter (adapter)
+£ eo Avi.setOnItemClickListener((parent, view, position, id) — {
+i String Slectediten = nane[+position]:
+2 cosets gesctcne) Seca nee 0 S)ot
+Intent 4 = new Intent (getApplicationContext(), Man3.class);
+4S putExtra("2" name [4position]) : *
+4 S.putextra (*x" noidung[+position]) + z
+: startActivity (i); £
+fh v/ z
+* ws &
+
+ 
+
+TODO iS: Android Monitor (HQ: Messages _[&] Terminal
+
+Event Log
+Bi cradle build finished in 21s 216ms (today 4:49 PM)
+
+10420 CRLF? UIF-8 Context: <ocontat>
+
+ 
+
+ 
+
+EN
+
+ 

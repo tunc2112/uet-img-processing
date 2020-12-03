@@ -1,0 +1,52 @@
+® Test2 - [G\Users\kavec\AndroidStudioProjects\Test2] - [app] - ...\app\src\main\java\com\example\kavec\test2\Man12,java - Android Studio 2.2.1 _ oO x
+File Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help
+OAS|¢ > |XHM/AAle |S PeRRG MB/S [4/7 Q
+Ca Test2 ) Ca app ) Cisrc ) Di main) Pi java ) Elcom ) Ejexample ) E]kavec ) [) test2 ) ©) Mani2
+1 Android : I+ | (©) Mano.java x | (©)Mani0,java x | (c)Maniijeva x | ©) Mani2.java x | (©) Main2Actvityjava x | litt x | Elite x | ©)ManB.java x °
+i © & Mantz ‘gecContentView(R. layout.manl2)+ oo
+5 [Ey com.example kavec.test2 (androidTest) tvig = (TextView) findViewByld(R.id. textView) ; &
+a EE comexample.kavectest2 (tet) tv19 = (TextView) findViewByld(R.id. textView2):
+@- Dares bt _backkk = (Button) findViewById (R.id.bt backkk) 4
+G- Ei dranable bt_backkk. setOnClickListener ((V this):
+3 a] backong Intent a = getIntent();
+ll img jpg String nt = a.getStringExtra("2")
+a i] nextiong tvi8.secText (nt) :
+& -setText (nt) :
+? +E layout mn
+[sh actvity_main. 5
+[i actvity_main2.aml SeetoriseeadiS
+StringBuffer jbuffer = new StringBuffer):
+Bi mantvomi InputStream i} = this.getResources () .penRawResource (R. raw. J)?
+imontio BufferedReader reader = new BufferedReader (new InputStreanReader(i3)):
+iS manizaml af (4) f= null) (
+Bi man3.xml try { 7
+Bi manda while ((datad = reader.readLine()) != mull) {
+Bi manS.xm ‘jbuffer.append (davad +
+[Bi mané.xmi } 7
+Bi man7.xm tv19. setText (jbuffer) ;
+Bi mand.xm ij-close()? >
+1B mand.xm } catch (Exception e) { 4
+e.printStackTzace();
+@-Eirew ,o °
+)
+3 )
+Be @override
+public void onClick (View v) {
+
+Af (veebt_backkk) ( *
+£ Invent i = new Intent (this, Main2Activity.class) ; =
+3 scartaceivity (2): :
+3 ; ) ES
+ia EE valies ) g
+
+© Grade scripts ) a
+Terminal 6: Android Monitor (BQ: Messages @Qa:Find > 4:Run  =HTODO Dy Eventiog El Grade Console
+i cradle bul fished in im 17s 476ms (3 minutes ago) RIF? UIF-85 Context: <nocontext> & @
+
+ 
+
+   
+
+ 
+
+Earn

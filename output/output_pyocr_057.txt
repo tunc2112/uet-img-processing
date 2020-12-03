@@ -1,0 +1,54 @@
+$B file Edit View Navigate Code Analyze Refactor Build Run Tools VCS Window Help — VietNamePost - NewsAPljava - Intelli IDEA - x
+
+ 
+
+ 
+
+ 
+
+   
+
+VietNamePost » src) main » java ng) ngnang > API © NewsAPI > ™ getGroups A} AM Tomeat9035 ¥ Ge G& > mA
+g Project ¥ @ = & — © NewsaPljava ge tablejsp gp head,jsp ge Menujsp isp layoutjsp m
+a . eee? oes import org.springframework.beans.factory.annotation.Autowired; aE
+. import org.springframework.http.MediaType;
+2 @acd_catalog.xml import org.springframework.web.bind.annotation.RequestMapping; _
+8 eax style.css import org.springframework.web.bind.annotation.RequestMethod; =
+I fonts import org.springframework.web.bind.annotation.ResponseBody; &
+: ween import org.springframework.web.bind.annotation.RestController; x
+>
+isp . . ay a *
+‘rcontactisp import java.util.List;
+sige footerjsp
+iw headerjsp @RestController
+usm index,jsp public class NewsAPI {
+ase Introjsp @Autowired
+sa login,sp NewsGroupDAO newsGroupDA0;
+views
+admin
+home @RequestMapping(value = "/groups", //
+layout method = RequestMethod.GET, //
+imheadjsp produces = { MediaType.APPLICATION_JSON_VALUE, //
+use, Menu jsp MediaType. APPLICATION_XML_VALUE })
+newsCategory @ResponseBody
+i & public List<NewsGroup> getGroups(){
+z iB tormiep List<NewsGroup> List = newsGroupDAO.findALL();
+= a_tablejsp return list; =
+x hindexjsp }
+asm layoutjsp +
+8 @atilesxml
+© eh webxml
+Wtarget
+g 1M pomxml
+4 iy VietNamePost.imI
+= > lll External Libraries
+FE _ scratches and Consoles
+Q 3 Find :TODO }§=QsE:Services BM Terminal “Build = :Messages Java Enterprise  @% Spring Q event Log
+(Cl Build completed successfully in 5 s 166 ms (19 minutes ago) 24:18 CRLF UTF-8 4spaces a @ &
+
+          
+
+Ea
+EDEN
+
+6/24/2020
