@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Tin VietNam Post"
+    },
+    {
+        "id": 2,
+        "name": "Bưu điện - Văn hóa xã"
+    },
+    {
+        "id": 3,
+        "name": "Người bưu điện"
+    },
+    {
+        "id": 4,
+        "name": "Hoạt động Đảng - Đoàn thể"
+    },
+    {
+        "id": 5,
+        "name": "Cụm tin mới cứng"
+    }
+]{
+    "timestamp": "2020-06-24T09:09:56.971+0000",
+    "status": 200,
+    "error": OK",
+    "message": "No message available",
+    "path": "/groups"
+}

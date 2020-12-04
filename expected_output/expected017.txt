@@ -1,0 +1,36 @@
+        return true;
+    }
+
+    public static void SolveSudoku(int Sudoku[][], int x, int y)
+    {
+        if (y==9)
+        {
+            if (x==8)
+            {
+                for(int i=0; i<9;i++)
+                    for(int j=0; j<9; j++)
+                        dm.setValueAt(Sudoku[i][j]+"", i,j);
+                //Cập nhật lại đáp án lên table
+                return;
+            }
+            else
+                SolveSudoku(Sudoku, x+1, 0);
+        }
+        else if(Sudoku[x][y]==0)
+        {
+            for(int k=1; k<10;k++)
+            {
+                if(CheckTrue(Sudoku, x, y, k))
+                    {
+                    Sudoku[x][y]=k;
+                    SolveSudoku(Sudoku,x,y+1);
+                    Sudoku[x][y]=0;
+                    };
+            }
+        }
+        else
+            SolveSudoku(Sudoku, x, y+1);
+    }
+    public static int n=100;
+    public static JButton Giai;
+    public static int [][]Sudoku= new int [n][n];

@@ -1,0 +1,42 @@
+void CauHoi()
+{
+    int N;
+    fstream hoi("cauhoi.txt");
+    hoi >> N;
+    string cauhoi;
+    string dapan1, dapan2, dapan3, dapan4;
+    string ketqua;
+    string traloi;
+    bool datraloi = true;
+    for (int j = 0; j < N; j++)
+    {
+
+        for( int i = 0; ! hoi.eof() ; i++ )
+        {
+            hoi.ignore();
+            getline(hoi,cauhoi);
+            getline(hoi,dapan1);
+            getline(hoi,dapan2);
+            getline(hoi,dapan3);
+            getline(hoi,dapan4);
+            getline(hoi,ketqua);
+            hoi.close();
+        }
+            while (datraloi == true)
+            {
+                cout << cauhoi << endl;
+                cout << setw(5) << dapan1 << setw(30) << right << dapan2 << endl;
+                cout << setw(5) << dapan3 << setw(30) << right << dapan4 << endl;
+
+                cin >> traloi;
+                if (traloi == ketqua)
+                {
+                    datraloi = true;
+                    cout << "Chuc mung ban da tra loi dung cau hoi" << endl;
+                    sleep(5);
+                    system("clear");
+
+                }
+                else
+                {
+                    datraloi = false;

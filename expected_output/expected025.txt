@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int n;
+    int dem = 0;
+    int min = 99999;
+    int max = -99999;
+    float tbc = 0;
+    while(4){
+    cout << "Nhap vao day so: " << endl;
+    cin >> n;
+    dem++;
+    if(n>max) max = n;
+    if(n<min) min = n;
+    dem += 1;
+    tbc /= dem;
+    cout << "So lon nhat la: " << max << endl;
+    cout << "So nho nhat la: " << min << endl;
+    cout << "Trung binh cong la: " << tbc << endl;
+    }
+}

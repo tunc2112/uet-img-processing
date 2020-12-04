@@ -1,0 +1,37 @@
+        SolveSudoku(Sudoku, 0, 0);
+        //Khi nhán giải
+            }
+        });
+    }
+    public void addControls()
+    {
+        Container con= getContentPane();
+        JPanel main = new JPanel();
+        con.add(main);
+        // JB
+        Giai= new JButton("Giải");
+        main.add(Giai);
+        // JTable
+        dm= new DefaultTableModel();
+        tb= new JTable (dm);
+        JScrollPane sctb= new JScrollPane(tb);
+        sctb.setBounds(400, 100, 400, 400);
+        Vector<String> s = new Vector<String>();
+        for(int i=0; i<9;i++)
+        {
+            dm.addColumn(i);
+            for(int j=0; j<9;j++)
+                Sudoku[i][j]=0;
+            s.add("0");
+        }
+        //Khởi tạo 9 cột và mảng s gồm 9 số 0;
+        for(int i=0; i<9;i++)
+        {
+            dm.addRow(s);
+        }
+        // Tạo table 9x9 gồm các mảng s
+        JPanel Sudo=new JPanel ();
+        Sudo.add(tb);
+        main.add(Sudo);
+    }
+    public static void showWindow(solveSudokuUI UI)

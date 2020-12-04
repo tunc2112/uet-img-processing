@@ -1,0 +1,35 @@
+                }
+
+                @Override
+                public void mouseExited(MouseEvent arg0) {
+                    // TODO Auto-generated method stub
+
+                }
+
+                @Override
+                public void mouseEntered(MouseEvent arg0) {
+                    // TODO Auto-generated method stub
+
+                }
+
+                @Override
+                //Sự kiện khi click chuột vào 1 ô :
+                public void mouseClicked(MouseEvent arg0) {
+            int row= tb.getSelectedRow();
+            int col= tb.getSelectedColumn();
+                String s = JOptionPane.showInputDialog("Nhập vào giá trị cho ô:");
+                Sudoku[row][col]=Integer.parseInt(s);
+                //Chuyển số đã nhập vào mảng 2 chiều để xử lí và set value tại ô hiện tại
+                dm.setValueAt(Sudoku[row][col]+"", row, col);
+            }
+        });
+        Giai.addActionListener(new ActionListener() {
+
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+    SolveSudoku(Sudoku, 0, 0);
+    //Khi nhấn giải
+            }
+        });
+    }
+    public void addControls()

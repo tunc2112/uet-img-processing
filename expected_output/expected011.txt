@@ -1,0 +1,24 @@
+create wiew Bang1
+as
+select RoutesID,Times, ScheduleDate,Schedules.AircraftID,AircraftName, FightNumber,ScheduleID,EconomyPrice,
+ EconomyPrice *0.03 as 'Business Price',EconomyPrice *0.13 as 'First Class Price', Confirmed
+from  Schedules inner join Aircrafts
+on Aircrafts.AircraftID=Schedules.AircraftID
+with check option
+SELECT * from Bangl
+---
+create view Bang2
+as
+select  Airports.AirportID, Airports.AirportName,RoutesID,DepartureAirportID
+from  Airports inner join Routess on Airports.AirportID=Routess.DepartureAirportID
+with check option
+select * from Bang2
+----------------
+create view Bang3
+as
+select  Airports.AirportID, Airports.AirportName,RoutesID,ArrivalAirportID
+from Airports inner join Routess on Airports.AirportID=Routess.ArrivalAirportID
+with check option
+select * from Bang3
+----------------
+create view HienThiThongTin

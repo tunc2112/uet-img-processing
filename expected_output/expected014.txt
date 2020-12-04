@@ -1,0 +1,28 @@
+#include<bits/stdc++.h>
+using namespace std;
+long long a[10000] ;
+int n,i;
+long long M;
+bool KTNT(1ong long n)
+{
+if (n<2) return false;
+for(int i=2; i<=sqrt(n); i++)
+if(n%i==0) return false;
+return true;
+}
+int main()
+{
+cin>>M;
+a[1]=1; a[2]=1;
+i=2;
+while (a[i]<=M)
+{
+i++;
+a[i]=(a[i-1])+(a[i-2]);
+}
+n=i-1;
+while(KTNT(a[n]) == false)
+n--;
+cout<<a[n]<<"   ";
+return 0;
+}

@@ -1,0 +1,39 @@
+        InputStreamReader r = new InputStreamReader(System.in);
+        BufferedReader b =new BufferedReader(r);
+        System.out.println("nhap ma so sinh vien ");
+        String tam = b.readLine();
+        this.maSv=Integer.parseInt(tam);
+        System.out.println("nhap ho ten sinh vien ");
+        this.hoTen=b.readLine();
+        System.out.println("nhap gioi tinh ")
+        tam=b.readLine();
+        this.gioiTinh=Boolean.parseBoolean(tam);
+        System.out.println("nhap so dien thoai sinh vien ");
+        this.soDt=b.readLine();
+        System.out.println("nhap diem TK sinh vien ");
+        tam=b.readLine();
+        this.diemTk=Double.parseDouble(tam);
+    }
+    public String xepLoai()
+    {
+        String kq;
+        if(this.diemTk<5)
+            kq="yeu";
+        else if(this.diemTk<6)
+            kq="TB";
+        else if(this.diemTk<8)
+            kq="kha";
+        else
+            kq="gioi";
+        return kq;
+    }
+    public Boolean datYeuCau()
+    {
+        return this.diemTk>5;
+    }
+    public String thongTin()
+    {
+        System.out.println("ma sinh vien: "+this.maSv);
+        System.out.println("ho ten sinh vien: "+this.hoTen);
+        System.out.println("gioi tinh sinh vien: "+(this.gioiTinh?"nu":"nam"));
+        System.out.println("so dien thoai sinh vien: "+this.soDt);

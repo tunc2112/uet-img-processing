@@ -1,0 +1,23 @@
+void *produce(void *arg)
+{
+        int i, pi = atoi(arg);
+        for(i=0; i<5; i++)
+        {
+                /* Entry Section */
+                choosing[pi] = 1; // choosing[i] = true
+                num[pi] = max(num,5) + 1;
+                choosing[pi] = 0; // choosing[i] = false
+                for(int pj = 0; pj<5; pj++)
+                {
+                        while(choosing[pj]);
+                        while(num[pj]!=0 && ((num[pj],pj) < (num[pi],pi)));
+                }
+                /* Critical section */
+                int produce = rand()%10;
+                sum += produce;
+                printf("Consummer thu %d cong them %d. Tong la: %d\n",pi,produc
+e,sum);
+                /* Exit section */
+                num[pi] = 0;
+        }
+}

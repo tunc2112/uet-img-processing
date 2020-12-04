@@ -1,0 +1,11 @@
+create view HienThiThongTin
+as
+select  Bang2.AirportName as'From',Bang3.AirportName as 'To',FightNumber,Bang1.AircraftName,Bang1.EconomyPrice,
+Bang1.EconomyPrice *0.03 as 'Business Price',
+Bang1.EconomyPrice *0.13 as 'First Class Price', ScheduleDate, Times, Confirmed
+from Bang1 inner join Bang2 on Bangl.RoutesID=Bang2.RoutesID
+inner join Bang3 on Bang2.RoutesID=Bang3.RoutesID
+with check option
+ --
+select * from HienThiThongTin
+--

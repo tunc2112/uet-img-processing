@@ -1,0 +1,39 @@
+package exam;
+
+import java.io.BufferedReader;
+
+public class SinhVien {
+    private int maSv;
+    private String hoTen;
+    private Boolean gioiTinh;
+    private String soDt;
+    private double diemTk;
+    public int getMaSv() {
+    public void setMaSv(int maSv) {
+    public String getHoTen() {
+    public void setHoTen(String hoTen) {(]
+    public boolean isGioiTinh() {(]
+    public void setGioiTinh(boolean gioiTinh) {
+    public String getSoDt() {
+    public void setSoDt (String soDt) {
+    public double getDiemTk() {
+    public void setDiemTk(double diemTk) {
+    public Sinhvien()
+    {
+        this.maSv=0;
+        this.hoTen="";
+        this.gioiTinh=equals("nu");
+        this.soDt="";
+        this.dienTk=0;
+    }
+    public SinhVien(Sinhvien x)
+    {
+        this.maSv=x.maSv;
+        this.hoTen=x.hoTen;
+        this.gioiTinh=x.gioiTinh;
+        this.soDt=x.soDt;
+        this.diemTk=x.diemTk;
+    }
+    public void nhapDL() throws IOException
+    {
+        InputStreamReader r = new InputStreamReader(System.in);

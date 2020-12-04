@@ -1,0 +1,31 @@
+package communityuni.com.modle;
+
+public class HinhChuNhat extends Hinh {
+
+    private double chieuDai;
+    private double chieuRong;
+
+    public HinhChuNhat(String mau, double chieuDai, double chieuRong) {
+        super(mau);
+        this.chieuDai = chieuDai;
+        this.chieuRong = chieuRong;
+    }
+
+    @Override
+    public double tinhDienTich() {
+        return chieuDai * chieuRong;
+    }
+
+    @Override
+    public double tinhChuVi() {
+        return 2 * (chieuDai + chieuRong);
+    }
+
+    public void layThongTin() {
+        System.out.println("Hình chữ nhật màu " + this.mau);
+        System.out.println("Chiều dài" + this.chieuDai + " chiều rộng " + this.chieuRong);
+        System.out.println("Diện tích hcn = " + tinhDienTich());
+        System.out.println("Chu vi hcn = " + tinhChuVi());
+    }
+
+}

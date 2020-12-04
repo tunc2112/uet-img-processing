@@ -1,0 +1,20 @@
+    temp = *b;
+    *b = *c;
+    *c = temp;
+
+}
+
+void sapxepArray(int A[], int kichThuoc)
+{
+    int i,j; 
+
+    for(i=0; i<kichThuoc-1; i++)
+    {
+        for(j=i+1; j<kichThuoc; j++)
+        {
+            if(A[j] < A[i])
+            {
+                hoanDoi( *(A+j), *(A+i) );
+            }
+        }
+    }

@@ -1,0 +1,9 @@
+<script src=angular.js></script>
+<script>
+    var d=0;
+    function f(){d++;s.innerHTML=d}
+</script>
+<div ng-app ng-init=c=0>
+    <button ng-click=c=c+1>AJS</button>{{c}}
+</div>
+<button onclick='f()'>JavaS</button><span id=s></span>

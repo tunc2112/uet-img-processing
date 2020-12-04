@@ -1,0 +1,81 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+
+\pagenumbering{gobble} % makes the page numbering off
+\setlength{\parindent}{1cm}
+\setlength{\parskip}{0.5em}
+\renewcommand{\baselinestretch}{1.5}
+
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\usepackage[utf8]{vietnam}
+\usepackage[utf8]{inputenc}
+\usepackage{xpatch}
+\usepackage{amsmath,array,url}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{extarrows}
+\usepackage{graphicx}
+\graphicspath{ {img/} }
+
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+
+\makeatletter
+\newcommand{\mtmathitem}{%
+\xpatchcmd{\item}{\@inmatherr\item}{\relax\ifmmode$\fi}{}{\errmessage{Patching of \noexpand\item failed}}
+\xapptocmd{\@item}{$}{}{\errmessage{appending to \noexpand\@item failed}}}
+\makeatother
+
+\newenvironment{mathitem}[1][]{%
+\itemize[#1]\mtmathitem}{$\endlist}                    %$
+
+\newenvironment{mathenum}[1][]{%
+\enumerate[#1]\mtmathitem}{$\endlist}                  %$
+
+\newenvironment{mathdesc}[1][]{%
+\description[#1]\mtmathitem}{$\endlist}                %$
+
+\begin{document}
+\section{Đánh giá kết quả đầy đủ}
+
+\begin{tabular}{|c|c|c|c|}
+\hline & \multicolumn{3}{c|}{Thư viện} \\
+\hline \textbf{Mã số} & \textbf{pytesseract} & \textbf{pyocr} & \textbf{tesserocr} \\
+\hline \textbf{001} & 65.5\% & 65.44\% & 65.39\% \\
+\hline \textbf{003} & 76.14\% & 75.35\% & 75.28\% \\
+\hline \textbf{004} & 45.26\% & 45.45\% & 45.66\% \\
+\hline \textbf{005} & 75.24\% & 77.67\% & 74.53\% \\
+\hline \textbf{006} & 31.01\% & 29.79\% & 43.69\% \\
+\hline \textbf{007} & 74.14\% & 71.55\% & 71.25\% \\
+\hline \textbf{008} & 40.78\% & 29.42\% & 28.99\% \\
+\hline \textbf{009} & 58.08\% & 61.69\% & 62.76\% \\
+\hline \textbf{011} & 41.11\% & 53.84\% & 53.1\% \\
+\hline \textbf{012} & 47.85\% & 27.03\% & 49.46\% \\
+\hline \textbf{014} & 20.81\% & 60.64\% & 40.1\% \\
+\hline \textbf{017} & 34.45\% & 47.05\% & 48.87\% \\
+\hline \textbf{018} & 32.8\% & 41.08\% & 40.76\% \\
+\hline \textbf{019} & 36.79\% & 14.62\% & 15.43\% \\
+\hline \textbf{021} & 80.8\% & 80.44\% & 80.29\% \\
+\hline \textbf{022} & 52.65\% & 29.27\% & 33.46\% \\
+\hline \textbf{023} & 29.92\% & 14.63\% & 14.67\% \\
+\hline \textbf{024} & 26.99\% & 27.55\% & 27.52\% \\
+\hline \textbf{025} & 40.78\% & 29.42\% & 28.99\% \\
+\hline \textbf{026} & 48.15\% & 50.91\% & 52.0\% \\
+\hline \textbf{027} & 65.03\% & 68.35\% & 78.82\% \\
+\hline \textbf{028} & 17.76\% & 21.22\% & 21.13\% \\
+\hline \textbf{029} & 36.03\% & 32.06\% & 37.6\% \\
+\hline \textbf{030} & 55.84\% & 56.98\% & 56.06\% \\
+\hline \textbf{031} & 22.55\% & 22.82\% & 27.07\% \\
+\hline \textbf{032} & 20.99\% & 22.48\% & 3.32\% \\
+\hline \textbf{033} & 40.0\% & 50.43\% & 50.11\% \\
+\hline \textbf{034} & 13.41\% & 20.92\% & 18.98\% \\
+\hline \textbf{036} & 57.74\% & 32.31\% & 38.01\% \\
+\hline \textbf{038} & 28.57\% & 30.19\% & 28.16\% \\
+\hline \textbf{Tổng hợp} & 43.9\% & 43.02\% & 43.71\% \\
+\hline
+\end{tabular}
+\end{document}

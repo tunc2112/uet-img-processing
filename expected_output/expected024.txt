@@ -1,0 +1,38 @@
+    public static void main(String[] args) throws IOException {
+        InputStreamReader r = new InputStreamReader(System.in);
+        BufferedReader b =new BufferedReader(r);
+        String chon ="" ;
+        int n ;
+        int[] Array = null;
+        ArrayList<SinhVien> ds = new ArrayList<Sinhvien>();
+        do {
+        Systen.out.println("*********************************************");
+        System.out.println(" * CHƯƠNG TRÌNH QUẢN LÝ SINH VIÊN           *");
+        System.out.println(" * 1 - Nạp dữ liệu cho danh sách sinh viên  *");
+        System.out.println(" * 2 - Tìm sinh viên theo Mã sinh viên      *");
+        System.out.println(" * 3 - Xóa 1 sinh viên đã có trong danh sách*");
+        System.out.println(" * 4 - Sửa thông tin của sinh viên          *");
+        System.out.println(" * 5 - Danh sách sinh viên học lại          *");
+        System.out.println(" * 6 - Danh sách sinh viên được cấp học bổng*");
+        System.out.println(" * 7 - Kết thúc chương trình                *");
+        System.out.println(" ********************************************");
+        String tam;
+        chon=b.readLine();
+        switch (chon) {
+        case "1":
+            System.out.println("Nhap so sinh vien");
+            tam = b.readLine();
+            n = Integer.parseInt(tam);
+            Array = new int[n];
+            for(int i = 0 ; i < Array.length ; i++)
+                {
+                SinhVien x = new SinhVien();
+                x.nhapDL();
+                ds.add(x);
+            }
+            break;
+        case "2":
+            break;
+        case "3":
+
+            break;
