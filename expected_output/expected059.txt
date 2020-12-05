@@ -1,0 +1,41 @@
+package impls;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import connection.ConnectSQL;
+import entities.KhachHang;
+import services.FacadeRemote;
+
+public class FacadeImpl implements FacadeRemote {
+
+    public FacadeImpl() {
+        // TODO Auto-generated constructor stub
+    }
+
+    @Override
+    public boolean dangky(KhachHang kh) throws SQLException {
+        Connection con = new ConnectSQL().getConnection();
+        String sql = "insert into KhachHang values(?,?,?,?,?)";
+
+        try {
+
+            pstm.setString(1, kh.getHoten());
+            pstm.setString(2, kh.getSdt());
+            pstm.setstring(3, kh.getEmail());
+            pstm.setString(4, kh.getAcc());
+            pstm.setString(5, kh.getPass());
+            return pstm.executeUpdate() > 00;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return false;
+    }
+
+    public static void main(String[] args) throws SQLException {
+        KhachHang kh = new KhachHang("QWE", "123", "ASD", "aaa", "aaa");
+        new FacadeImpl().dangky(kh);
+    }
+
+
+}

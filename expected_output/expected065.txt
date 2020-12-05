@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    char a[100];
+    char c;
+    fgets(a, n, stdin);
+    cout << a;
+    system("pause");
+    return(0);
+}

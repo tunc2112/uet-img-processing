@@ -1,0 +1,11 @@
+// Example program
+#include <iostream>
+#include <string>
+
+int main()
+{
+    int k = 5;
+    k = k++;
+    std::cout << k << endl;
+    return 0;
+}

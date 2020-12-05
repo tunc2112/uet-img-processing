@@ -1,0 +1,12 @@
+#include "stdafx.h"
+#include <conio.h>
+#include <iostream>
+#include <string>
+
+int main()
+{
+    int k = 5;
+    k = k++;
+    std::cout << k;
+    _getch();
+}

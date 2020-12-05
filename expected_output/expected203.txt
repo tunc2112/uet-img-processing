@@ -1,0 +1,23 @@
+{
+    int n, x = 2, S = 0;
+    printf("Nhap vao mot so: ");
+    scanf("%d", &n);
+    printf("Tong cac so nguyen to nho hon n la: ");
+    for(x=2; x < n; x++)
+    {
+        if (KTSoNguyenTo (x) != 0)
+            S += x;
+    }
+    printf("%d\n", S);
+    getch();
+}
+int KTSoNguyenTo (int x)
+{
+    int i = 2;
+    while (x % i != 0)
+    i++;
+    if( x == i)
+        return 1;
+    else
+        return 0;
+}

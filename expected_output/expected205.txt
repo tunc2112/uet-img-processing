@@ -1,27 +1,27 @@
 #include <iostream>
 
 int main(){
-	float a, b, c, max:
-	std::cout << "Nhap vao so a: "; 
-	std::cin >> a;
-	std::cout << "Nhap vao so b: "; 
-	std::cin >> b;
-	std::cout << "Nhap vao so c: "; 
-	std::cin >> c;
-	float p=a+b+c:
-	std::cout << "Tong p cua 4 so a, b, c la: " << p << std""endl:
-	float s = a * b * c;
-	std::cout << "Tich s cua 4 so a, b, c la: " << s << std""endl:
-	float t = ( a * b * c )/3;
-	td::cout << "Trung binh cong t cua 4 so a, b, c la: " << t << std""endl:
-	max = a:
-	if(max < b) {
-	max = b;
-	}
-	if(max < c) {
-		max = c;
-		}
-	std::cout << " So lon nhat trong 3 so la : " << max << std::endl;
-	systeam("Pause");
-	return 0;
+    float a, b, c, max:
+    std::cout << "Nhap vao so a: "; 
+    std::cin >> a;
+    std::cout << "Nhap vao so b: "; 
+    std::cin >> b;
+    std::cout << "Nhap vao so c: "; 
+    std::cin >> c;
+    float p=a+b+c;
+    std::cout << "Tong p cua 4 so a, b, c la: " << p << std::endl;
+    float s = a * b * c;
+    std::cout << "Tich s cua 4 so a, b, c la: " << s << std::endl;
+    float t = ( a * b * c )/3;
+    std::cout << "Trung binh cong t cua 4 so a, b, c la: " << t << std::endl;
+    max = a;
+    if(max < b) {
+           max = b;
+    }
+     if(max < c) {
+            max = c;
+            }
+            std::cout << " So lon nhat trong 3 so la : " << max << std::endl;
+    system("Pause");
+    return 0;
 }

@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main(void) {
+    int a[]={4,5};
+    a[0]^=a[1]^=a[0]^=a[1];
+    printf("a[%d]=%d   a[%d]=%d\n",0,a[0],1,a[1]);
+    int m = 6,n=7;
+    m^=n^=m^=n;
+    printf("m=%d   n=%d\n",m,n);
+    return 0;
+}

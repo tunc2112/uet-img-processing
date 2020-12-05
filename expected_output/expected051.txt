@@ -1,0 +1,23 @@
+}
+
+stack<int> sortStackUsingTemporaryStack(stack <int> st)
+{
+    stack <int> stTemp;
+    while (!st.empty())
+    {
+        if ((stTemp.empty()==1) || (stTemp.top() < st.top()))
+        {
+            stTemp.push(st.top());
+            st.pop();
+        }
+        else
+        {
+            int temp = st.top();
+            st.pop();
+            while (!stTemp.empty() && stTemp.top() > temp )
+            {
+                st.push(stTemp.top());
+                stTemp.pop();
+            }
+            stTemp.push(temp);
+        }

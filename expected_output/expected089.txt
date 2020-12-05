@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+const int ID = 123;
+const int password = 123456;
+
+int main() {
+{
+       int id_user, password_user;
+       do
+{
+       cout << " Nhap vao ID: " ; cin >> id_user;cout << endl;
+       cout << " Nhap vao password: "; cin >> password_user ;cout << endl;
+}
+      while ((id_user != 1D) || (password_user != password));
+      cout << "Chuc mung ban da dang nhap thanh cong" << endl;
+      //system("pause");
+      return 0;
+}

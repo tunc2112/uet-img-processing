@@ -1,13 +1,14 @@
 #include <iostream>
 #include <string>
 
-
-using namespace std;
+ using namespace std;
 
 int main()
 {
-	int tuoi;
-	cout << " Ban bao nhieu tuoi ";
-	cin>> tuoi;
-	cout<< tuoi;
+int tuoi;
+cout << " Ban bao nhieu tuoi ";
+cin>> tuoi;
+cout<< tuoi;
+
+
 }

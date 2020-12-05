@@ -1,22 +1,22 @@
-#include<bits/stdct++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-int main () {           Hình 2
-int n, cnt[26];
-memset(cnt, 0, sizeof(cnt));
-cin>>n;
-for(int i=1; i<=n; i++) {
-string s;
-cin >>s;
-cnt [s[0]-'a']++;     ?
-} 
-bool ok=false;
-for(int i=0; i<26; i++)
-if(cnt[i]>=5) {
-cout <<char('a' +i); ?
-ok = true; :
-}
-if (!ok)
-cout << "SURRENDER";
-return 0;
+int main () {
+    int n, cnt[26];
+    memset(cnt, 0, sizeof(cnt));
+    cin>>n;
+    for(int i=1; i<=n; i++) {
+        string s;
+        cin >>s;
+        cnt[s[0]-'a']++;
+    } 
+    bool ok=false;
+    for(int i=0; i<26; i++)
+        if(cnt[i]>=5) {
+            cout <<char('a'+i);
+            ok = true;
+        }
+    if (!ok)
+        cout << "SURRENDER";
+    return 0;
 }

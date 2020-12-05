@@ -1,0 +1,22 @@
+    }
+}
+int main()
+{
+    stack<int> st;
+
+    st.push(34);
+    st.push(3);
+    st.push(31);
+    st.push(98);
+    st.push(92);
+    st.push(23);
+
+    deleteMiddleStack(st);
+    while (!st.empty())
+    {
+        cout << st.top() << " ";
+        st.pop();
+    }
+
+    return 0;
+}

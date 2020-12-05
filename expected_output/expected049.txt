@@ -1,0 +1,23 @@
+    return stTemp;
+}
+
+void deleteMiddleStack(stack<int> st)
+{
+    stack<int> tempSt;
+    int n = st.size();
+    int newN;
+    if (n % 2 == 0) newN = n / 2 - 1;
+    else newN = n / 2;
+
+    for (int i = 0; i < newN; i++)
+    {
+        tempSt.push(st.top());
+        st.pop();
+    }
+    st.pop();
+    while (!tempSt.empty())
+    {
+        st.push(tempSt.top());
+        tempSt.pop();
+    }
+}

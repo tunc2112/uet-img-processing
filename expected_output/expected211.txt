@@ -1,16 +1,15 @@
-		{
-			printf("Nhap thong tin thi sinh thu %d:\n", i);
-			printf("Ho ten: ");
-			fflush(stdin);
-			gets(ts.hoten);
-			printf("Diem Toan: ");
-			scanf("%f", &ts.toan);
-			printf("Diem Ly: ");
-			scanf("%f", &ts.ly);
-			printf("Diem Hoa: ");
-			scanf("%f", &ts.hoa);
-			ts.tong=ts.toan+ts.ly+ts.hoa;
-			if(ts.tong>19) *ts.loai= "Do";
-			else *ts.loai= "Truot";
-			fwrite(&ts,sizeof(ts),1,fp);
-		}
+        {
+            printf("Nhap thong tin thi sinh thu %d:\n",i);
+            printf("Ho ten: ");
+            fflush(stdin);
+            gets(ts.hoten);
+            printf("Diem Toan: ");
+            scanf("%f", &ts.toan);
+            printf("Diem Ly: ");
+            scanf("%f", &ts.ly);
+            printf("Diem Hoa: ");
+            scanf("%f", &ts.hoa);
+            ts.tong=ts.toan+ts.ly+ts.hoa;
+            if(ts.tong>19) *ts.loai="Do";
+            else *ts.loai="Truot";
+            fwrite(&ts,sizeof(ts),1,fp);
