@@ -23,6 +23,7 @@
 
 \usepackage{enumitem}
 \usepackage{tcolorbox}
+\usepackage{longtable}
 
 \makeatletter
 \newcommand{\mtmathitem}{%
@@ -42,7 +43,9 @@
 \begin{document}
 \section{Đánh giá kết quả đầy đủ}
 
-\begin{tabular}{|c|c|c|c|}
+\subsection{Ảnh loại (1)}
+
+\begin{longtable}{|p{.20\textwidth}|p{.20\textwidth}|p{.20\textwidth}|p{.20\textwidth}|}
 \hline & \multicolumn{3}{c|}{Thư viện} \\
 \hline \textbf{Mã số} & \textbf{pytesseract} & \textbf{pyocr} & \textbf{tesserocr} \\
 \hline \textbf{001} & 65.5\% & 65.44\% & 65.39\% \\
@@ -75,7 +78,27 @@
 \hline \textbf{034} & 13.41\% & 20.92\% & 18.98\% \\
 \hline \textbf{036} & 57.74\% & 32.31\% & 38.01\% \\
 \hline \textbf{038} & 28.57\% & 30.19\% & 28.16\% \\
-\hline \textbf{Tổng hợp} & 43.9\% & 43.02\% & 43.71\% \\
+\hline \textbf{041} & 20.21\% & 23.51\% & 29.03\% \\
+\hline \textbf{042} & 44.92\% & 42.14\% & 41.8\% \\
+\hline \textbf{043} & 22.09\% & 41.31\% & 47.0\% \\
+\hline \textbf{044} & 8.49\% & 25.23\% & 24.95\% \\
+\hline \textbf{045} & 13.66\% & 29.0\% & 9.73\% \\
+\hline \textbf{046} & 12.0\% & 6.24\% & 10.87\% \\
+\hline \textbf{Tổng hợp} & 39.96\% & 40.5\% & 40.97\% \\
 \hline
-\end{tabular}
+\end{longtable}
+
+\subsection{Ảnh loại (2)}
+
+\begin{longtable}{|p{.20\textwidth}|p{.20\textwidth}|p{.20\textwidth}|p{.20\textwidth}|}
+\hline & \multicolumn{3}{c|}{Thư viện} \\
+\hline \textbf{Mã số} & \textbf{pytesseract} & \textbf{pyocr} & \textbf{tesserocr} \\
+\hline \textbf{202} & 6.56\% & 1.86\% & 2.64\% \\
+\hline \textbf{205} & 20.54\% & 27.28\% & 15.8\% \\
+\hline \textbf{206} & 19.91\% & 64.16\% & 26.0\% \\
+\hline \textbf{211} & 61.65\% & 16.17\% & 14.65\% \\
+\hline \textbf{213} & 69.1\% & 74.91\% & 81.51\% \\
+\hline \textbf{Tổng hợp} & 35.55\% & 36.88\% & 28.12\% \\
+\hline
+\end{longtable}
 \end{document}

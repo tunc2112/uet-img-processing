@@ -1,0 +1,24 @@
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp11
+{
+    public partial class Forml : Form
+    {
+        string path = @"C:\";
+        public Form1()
+        {
+
+            TreView();
+        }
+        void TreView()
+        {
+            TreeNode tree = new TreeNode() { Text = "Hoang" };
+            TreeNode node = new TreeNode() { Text = "Child" };
+
+
+
+            TV1.Nodes.Add(tree);
+        }
+        void Loaddisk(TreeNode root)

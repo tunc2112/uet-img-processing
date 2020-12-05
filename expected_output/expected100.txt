@@ -1,0 +1,25 @@
+};
+int main(){
+	int a, b, x, bien, z, c, sc1, bien1;
+	a = b = x = bien = z = c = sc1 = bien1 = 0;
+	string luachon;
+	Vonglap BienGoi;
+	Vonglap BienGoi2;
+	Vonglap BienGoi3;
+	cout << "Ban muon 'Tim Boi' hay 'Tim So Chan' ?\nMoi ban lua chon(Nhap dung tu ngu): ";
+	cin >> luachon;
+	if(stricmp((char *)luachon.c_str(), "Tim Boi") == 0){
+		BienGoi.TimBoi(x, bien);
+	}
+	else if(stricmp((char *)luachon.c_str(), "Tim So Le") == 0){
+		BienGoi2.TimSoLe(z, c);
+	}
+	if(stricmp((char *)luachon.c_str(), "Tim So Chan") == 0){
+		BienGoi3.TimSoChan(sc1, bien1);
+	}
+	//VongLap BienGoi(a, b);
+	//VongLap BaiToanTimUoc;
+	//VongLap BienGoi2(a, b, c);
+	system("pause");
+	return 0;
+}

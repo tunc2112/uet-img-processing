@@ -1,0 +1,5 @@
+import os
+#print(os.getcwd())
+input_file1 = open(os.getcwd()+'ten gmail.txt', 'r',encoding='utf-8')
+ten gmail = input_file1.read()
+print(ten gmail)

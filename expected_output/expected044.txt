@@ -1,0 +1,19 @@
+int isEvenWord(string word)
+{
+    int lengthWord = stringLength(word);
+    string *checkWord = new string[lengthWord];
+    int count = 0;
+    if (lengthWord % 2 == 1) return -1;
+    for (int i = 0; i < lengthWord; i++)
+    {
+        for (int j = 0; j < lengthWord; j++)
+        {
+            int run = 0;
+            while (checkWord[run] != '\0" && checkWord[run] != i) run++;
+            if (word[i] = word[j]&& run == stringLength(checkWord))
+            {
+                checkWord[2*i] = i;
+                checkWord[2*i + 1] = j;
+                checkWord[2 * i + 2] = '\0';
+                count++;
+            }

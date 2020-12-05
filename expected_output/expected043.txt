@@ -1,0 +1,25 @@
+
+
+<!-- 'start thực hiện kiểm tra dữ liệu người dùng nhập ở form đăng nhập' -->
+    <?php
+        if (isset($_POST["dangnhap"])) {
+            $tk = $_POST["user_name_lg"];
+            $mk = $_POST["passlg"]
+            $sql1 = "select * from devpro where user_name = '$tk' and password = '$mk'";
+            $rows = sqlsrv_query($conn, $sql1);
+            $count = sqlsrv_num_rows($rows);
+            if($count==1) {
+                $_SESSION["loged"] = true;
+                header("location:index.php");
+                setcookie("success", "Đăng nhập thành công!", time()+1, "/","", 0);
+            }
+            else{
+                die( print_r( sqlsrv_errors(), true));
+                header("location:index.php");
+                setcookie("error", "Đăng nhập không thành công!", time()+1, "/","", 0);
+//              die( print_r( sqlsrv_errors(), true));
+            }
+
+        }
+    ?>
+    <!-- 'end thực hiện kiểm tra dữ liệu người dùng nhập ở form đăng nhập' -->
